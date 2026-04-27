@@ -1,0 +1,1 @@
+eu não coloco minhas notas passageiras aqui por que não é efetivo
