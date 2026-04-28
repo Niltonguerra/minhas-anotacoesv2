@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "bf187e6eb01b80a1",
+        "id": "715f9ee9e4089385",
         "type": "tabs",
         "children": [
           {
-            "id": "5ac64a3998555ece",
+            "id": "48802422af12463c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
+                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend/introducao microfrontend.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "onde parou"
+              "title": "introducao microfrontend"
             }
           }
         ]
@@ -120,8 +120,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -214,6 +214,16 @@
             "state": {
               "type": "oz-calendar",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "oz-calendar"
+            }
+          },
+          {
+            "id": "af54788bc84e08d7",
+            "type": "leaf",
+            "state": {
+              "type": "oz-calendar",
+              "state": {},
               "icon": "OZCAL_ICON",
               "title": "OZ Calendar"
             }
@@ -263,8 +273,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5ac64a3998555ece",
+  "active": "48802422af12463c",
   "lastOpenFiles": [
+    "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
     "notas_passageiras/microserviços.md",
@@ -283,7 +294,6 @@
     "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro mastery.md",
     "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro Como Fazer amigos e influenciar pessoas.md",
     "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro 1 ano em 12 semanas.md",
-    "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
     "notas_passageiras/o que estudar, prioridade 0.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/notas/6-clean-code.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Números 31 parece que faz de Deus uma ferramenta politica feita por Móises.md",
@@ -310,7 +320,6 @@
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/img",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/API/img/Pasted image 20260409223658.png",
     "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/img",
-    "notas_bibliograficas/💼 carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "Sem título.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
