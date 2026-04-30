@@ -45,9 +45,18 @@ A lógica central da proibição é que o casamento com quem adora outros deuses
 no fim, é interpretação, mas o motivo do novo aceitar as meninas virgens em Números 31 e nem abrir esse precedente em Josué 23:12-13 pode ser defendido através da lógica de preservação religiosa.
 
 ### mas se foi viável poupar as virgens midianitas, por que não foi possível polpar as virgens cananeias?
-O critério era **étnico-nacional**, não individual. Deuteronômio 7:1-3 lista os 7 povos de Canaã e proíbe qualquer aliança ou casamento com eles — sem exceção por idade, virgindade ou grau de formação religiosa. É uma proibição **categórica por povo**, não por condição da pessoa.
+O critério era **étnico nacional**, não individual. Deuteronômio 7:1-3 lista os 7 povos de Canaã e proíbe qualquer aliança ou casamento com eles — sem exceção por idade, virgindade ou grau de formação religiosa. É uma proibição **categórica por povo**, não por condição da pessoa.
+
+> ¹ Quando o Senhor teu Deus te houver introduzido na terra, à qual vais para a possuir, e tiver lançado fora muitas nações de diante de ti, os heteus, e os girgaseus, e os amorreus, e os cananeus, e os perizeus, e os heveus, e os jebuseus, sete nações mais numerosas e mais poderosas do que tu;
+> ² E o Senhor teu Deus as tiver dado diante de ti, para as ferir, totalmente as destruirás; não farás com elas aliança, nem terás piedade delas;
+> ³ Nem te aparentarás com elas; não darás tuas filhas a seus filhos, e não tomarás suas filhas para teus filhos;
+> Deuteronômio 7:1-3
+
 - Os midianitas não estavam nessa lista dos 7. Por isso havia margem para a distinção de Números 31.
-mas se Deus trata com o individuo e não com o povo, será que não seria possível que pelo menos uma pessoa daquele povo não se convertesse? será que Deus trataria o ímpio e o justo da mesma forma?
+#### mas se Deus trata com o individuo e não com o povo, será que não seria possível que pelo menos uma pessoa daquele povo não se convertesse? será que Deus trataria o ímpio e o justo da mesma forma?
+- resposta:
+	- Deus trata com o individuo, isso é uma questão de Fé, mas podemos citar o exemplo de Raabe( cananeia e foi salva depois de ajudar os espiões de Israel) e o do questionamento de Abraão com relação a Sodoma(que Deus salvou o justo Ló)
+	- no fim, Deus trata com o individuo, vamos dizer assim, a regra geral era: não casar, mas poderia ter exceções mesmo que o texto bíblico diga que 
 ## reflexão:
 aqui tem duas questões uma mais fácil e uma mais difícil, a mais difícil foi separada para aqui: [[por que Deus permitiu que todas as mulheres estrangeiras fossem expulsas mesmo permitindo durante um tempo que os israelitas se cassasem com elas--há fazer]]. 
 no fim a gente pode falar que números 31 abre o precedente de preservar a vida de crianças do sexo feminino virgens para aumentar o povo, mas em contra partida em Josué 23 não abre esse precedente com o objetivo de preservar a pureza religiosa do povo, o texto não se contradiz por que são povos diferentes
