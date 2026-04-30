@@ -24,6 +24,7 @@ table of contents: Create table of contents
 
 ## pesquisa sobre a informação:
 
+
 ## opinião/reflexão:
 
 
