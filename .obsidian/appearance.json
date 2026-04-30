@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "sem-recuo"
   ],
-  "accentColor": "#bf92f9"
+  "accentColor": "#bf92f9",
+  "nativeMenus": false
 }

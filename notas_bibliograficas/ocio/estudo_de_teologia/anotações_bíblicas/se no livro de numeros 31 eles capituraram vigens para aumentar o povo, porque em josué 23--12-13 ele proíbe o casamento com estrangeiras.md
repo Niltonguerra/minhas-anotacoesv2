@@ -48,21 +48,5 @@ A lógica central da proibição é que o casamento com quem adora outros deuses
 - Números 31 é um relato de _guerra santa_ com suas próprias regras
 - Josué 23 é um _discurso de despedida_ com função retórica de alertar sobre o futuro
 
-
-
-## resposta curta da minha pesquisa 
-eu não sei, o texto sem vozes dissonantes, mas existe as seguintes explicações que obtive sobre o texto:
-1. Esses textos refletem decisões humanas, de homens em posição de poder, que Deus simplesmente _não endossou_ — mas que foram escritas como se tivessem endosso divino. O problema então é de autoridade textual, não de Deus.
-
-2. Deus existe e permitiu isso como permite todo sofrimento humano — o que nos joga na teodiceia clássica sem resposta satisfatória.
-
-3. A imagem de Deus que emerge desses textos específicos é uma imagem construída por uma comunidade com interesses políticos e identitários muito concretos — e não necessariamente corresponde ao que Deus é.
-
 ## opinião/reflexão:
-
-
-
-
-
-
-
+aqui tem duas questões uma mais fácil que era a original que era essa contradição que expliquei a cima e outra que dividi em outra nota por conta da complexidade, a saber: [[por que Deus permitiu que todas as mulheres estrangeiras fossem expulsas mesmo permitindo durante um tempo que os israelitas se cassasem com elas--há fazer]], mas focando nessa daqui, os textos são diferentes, uma foca em dizer que pode se casar com um povo e a outra fala que não deve se casar com um povo nada a ver com o primeiro, é estranho, sim, mas com o contexto de pureza religiosa, que em alguns aspectos é meio estranho, mas considerando que não sei o contexto e a moral das pessoas naquela época e como elas reagiriam a alguém falando sobre outra deidade em suas cidades, acredito que o extermínio  
