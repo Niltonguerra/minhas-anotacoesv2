@@ -1,6 +1,7 @@
 ---
 Date: ""
-tags: []
+tags:
+  - Teologia/anotacoesBíblia
 ---
 # Notas conectadas:
 

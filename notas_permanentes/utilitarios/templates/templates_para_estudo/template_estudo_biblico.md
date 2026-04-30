@@ -1,7 +1,6 @@
 ---
 Date: ""
-tags:
-  - Teologia/anotacoesBíblia
+tags: []
 ---
 # Notas conectadas:
 
@@ -19,8 +18,7 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## passagem:
-> Josué 21:43-45
-> 43Assim, o Senhor deu a Israel toda a terra que havia jurado dar a seus antepassados, e eles tomaram posse dela e nela se estabeleceram. 44O Senhor lhes deu descanso de todos os lados, como havia prometido solenemente a seus antepassados. Nenhum de seus inimigos resistiu a eles, pois o Senhor os ajudou a conquistar todos os seus adversários. 45Nenhuma das boas promessas que o Senhor fez à família de Israel ficou sem se cumprir; tudo que ele tinha dito se realizou.
+
+
 
 
