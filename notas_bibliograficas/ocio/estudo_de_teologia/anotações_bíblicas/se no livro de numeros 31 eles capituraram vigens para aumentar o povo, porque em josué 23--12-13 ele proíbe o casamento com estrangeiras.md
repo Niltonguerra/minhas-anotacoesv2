@@ -57,7 +57,12 @@ O critério era **étnico nacional**, não individual. Deuteronômio 7:1-3 lista
 - Deus trata com o individuo, isso é uma questão de Fé, mas podemos citar o exemplo de Raabe( cananeia e foi salva depois de ajudar os espiões de Israel) e o do questionamento de Abraão com relação a Sodoma(que Deus salvou o justo Ló)
 - Resposta:
 	- então, eu não sei te dizer o que está certo ou o que está errado, só sei que a bíblica proíbe casar com os 7 povos de Canaã, mas cita a história de Raabe, ao mesmo tempo diz que Deus não pune o justo com o injusto, mas também fecha e pune qualquer outro precedente que não seja o de Raabe, você entende o que quero dizer, eu entendo onde o texto quer chegar, mas é complicado aceitar o que ele está dizendo, pois o que ele afirma é que todas as pessoas das 7 nações de Canaã eram maus com exceção de Rute, e que depois dela não teve mais pessoas dignas de viver, seja crianças, bebes e etc, isso mexe comigo sabe, como eu posso defender que tanta gente não tinha mais salvação.
-## reflexão:
+		- e outro ponto será que isso não aconteceu, outras pessoas além da Raabe foram salvas, mas só não foi citado? 
+			- não sei, mas vou falar de dois exemplos:
+				- em uma das pregações de Jesus Cristo ele fala da viúva de Naim e do leproso Naamã como se todos os milagres que o profeta Eliseu  fez foram aqueles citados no livro, isso abre precedente de que se não está escrito então não aconteceu, ou seja, se não foi relatado outros cananeus que se arrependeram, só a Raabe realmente se arrependeu e isso é complicado...
+				- 
+
+##  reflexão:
 aqui tem duas questões uma mais fácil e uma mais difícil, a mais difícil foi separada para aqui: [[por que Deus permitiu que todas as mulheres estrangeiras fossem expulsas mesmo permitindo durante um tempo que os israelitas se cassasem com elas--há fazer]]. 
 no fim a gente pode falar que números 31 abre o precedente de preservar a vida de crianças do sexo feminino virgens para aumentar o povo, mas em contra partida em Josué 23 não abre esse precedente com o objetivo de preservar a pureza religiosa do povo, o texto não se contradiz porque são povos diferentes, um sendo um povo para a destruição, como dito em Deuteronômio 7:1-3 e o outro não
 
