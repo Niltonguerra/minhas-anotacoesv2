@@ -8,13 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b34ca831d1268b76",
+            "id": "4811da02d33ef701",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/carreira/Livros/CleanCode/notas/7-clean-code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "7-clean-code"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ddf46667ce62171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eda6c24e56d081ba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
+                "page": 33,
+                "left": -15,
+                "top": 977,
+                "zoom": 1.0088194449493593
+              },
+              "icon": "lucide-file-text",
+              "title": "Codigo Limpo - Completo PT"
             }
           }
         ]
@@ -269,8 +296,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b34ca831d1268b76",
+  "active": "4811da02d33ef701",
   "lastOpenFiles": [
+    "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
+    "notas_bibliograficas/carreira/Livros/CleanCode/notas/7-clean-code.md",
+    "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend/introducao microfrontend.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI/aula01-diferenca-entre-UX-e-UI.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/Para onde os bebes vão depois de morrer, por exemplo bebes que morrem no ventre da mãe-há fazer.md",
@@ -295,12 +325,8 @@
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/conexao-com-banco-de-dados-postgresql/aula04.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/Integracao-com-banco/conexao-com-banco-de-dados-postgresql/aula03.md",
     "notas_permanentes/utilitarios/templates/template_Cornell.md",
-    "notas_permanentes/utilitarios/templates/templates_para_estudo/template_Livro.md",
-    "notas_permanentes/utilitarios/templates/templates_para_estudo/template_estudo_biblico.md",
-    "notas_permanentes/utilitarios/templates/templates_para_estudo/template_english.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo1/typescript/TS  - Aula 3.pdf",
     "notas_bibliograficas/saude/treinos/Captura de tela de 2026-01-14 13-53-14.png",
-    "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
     "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/Videos_em_ingles/Texto em Inglês com ÁUDIO e TRADUÇÃO #64.mp4",
     "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/Videos_em_ingles/Texto em Inglês com ÁUDIO e TRADUÇÃO #11.mp4",
