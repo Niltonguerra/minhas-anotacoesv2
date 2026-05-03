@@ -72,5 +72,4 @@ A Ceia mensal é uma herança predominantemente do **protestantismo revivalista 
 
 
 ## opinião/reflexão:
-
-é complicado falar disso, ainda mais que tem benefícios para a igreja fazer todo 1º sábado do mês a ceia do Senhor por conta de estar próximo do 5º dia útil previsto na clt, isso é complicado, por que se você considerar que tem essa divisão, como eu vou poder fazer para defender que não pode ter dois interesses nisso, todavia, não quero não olhar também pelo lado da tradição que, como vimos, 
+é complicado falar disso, ainda mais que tem benefícios para a igreja fazer todo 1º sábado do mês a ceia do Senhor por conta de estar próximo do 5º dia útil previsto na clt, e sinto que eu não deveria fazer sobre isso, mas sendo sincero, acho complicado, por que essa tradição não vem do brasil, que tem a prática de pagar todo quinto dia útil, mas também é complicado por que ela acontece até hoje e isso não pode ser negado que indiretamente pressiona as pessoas a pagarem o dizimo. vale salientar que também não precisava ser no quinto dia útil, poderia quer no 2º/3º ou no final do mês, mas também não podemos dizer que toda igreja faz isso, os adventistas não fazem isso, eles fazem trimestralmente.
