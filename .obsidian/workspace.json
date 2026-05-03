@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7d0b05c78531aa40",
+        "id": "d5423aa6f5a6fcd1",
         "type": "tabs",
         "children": [
           {
-            "id": "6a4b321f103b0e43",
+            "id": "b34ca831d1268b76",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -266,11 +266,10 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "omnisearch:Omnisearch": false
     }
   },
-  "active": "6a4b321f103b0e43",
+  "active": "b34ca831d1268b76",
   "lastOpenFiles": [
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend/introducao microfrontend.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo3/UI-UX/Conceitos-importantes-de-UI/aula01-diferenca-entre-UX-e-UI.md",
