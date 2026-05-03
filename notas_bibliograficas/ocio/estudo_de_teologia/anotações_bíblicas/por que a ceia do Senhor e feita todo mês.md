@@ -39,19 +39,36 @@ A Ceia mensal é uma herança predominantemente do **protestantismo revivalista 
 
 
 ### O que as principais tradições defendem
+### Corrigindo a tabela
 
-|Tradição|Frequência|Base argumentativa|
-|---|---|---|
-|Católica / Ortodoxa|Toda celebração (diária ou semanal)|Continuidade histórica, sacrifício eucarístico|
-|Luterana / Anglicana|Semanal ou frequente|Prática apostólica, meio de graça|
-|Presbiteriana (Calvino)|Semanal (Calvino queria; venceu o trimestral)|Calvino argumentou pela semanalidade, mas foi derrotado em Genebra|
-|Batista / Pentecostal BR|Mensal|Tradição consolidada, ênfase memorialista|
-|Adventista|Trimestral|Herança zuingliana|
-
+| Tradição                     | O que os fundadores _queriam_                           | O que _acontece na prática_                                         |
+| ---------------------------- | ------------------------------------------------------- | ------------------------------------------------------------------- |
+| **Católica**                 | Toda missa (diária possível)                            | Toda missa — isso bate                                              |
+| **Ortodoxa**                 | Toda liturgia                                           | Toda liturgia — bate                                                |
+| **Luterana**                 | Lutero queria frequente/semanal                         | Na prática: **mensal ou em datas especiais** na maioria das igrejas |
+| **Anglicana**                | Depende — Alta Igreja quer semanal                      | Alta Igreja: semanal. Baixa Igreja: mensal ou menos                 |
+| **Presbiteriana**            | Calvino queria **semanal**, perdeu a batalha em Genebra | Na prática histórica: **trimestral**. Hoje muitas fazem mensal      |
+| **Adventista**               | —                                                       | **Trimestral** — isso estava certo                                  |
+| **Batista / Pentecostal BR** | —                                                       | **Mensal**                                                          |
+|                              |                                                         |                                                                     |
 
 ### como posso defender que isso não é simplesmente para pressionar os cristãos
+#### argumentos para usar:
+**1. A tradição mensal é importada, não inventada aqui** 
+- A prática mensal veio dos EUA via missões batistas no século XIX. Lá, o dia de pagamento não é padronizado como no Brasil. Então a _origem_ da doutrina não tem relação estrutural com folha de pagamento brasileira — ela chegou pronta de outro contexto.
+
+**2. A CLT e o "5º dia útil" são relativamente recentes** 
+- A regra do pagamento até o 5º dia útil é consolidada pela CLT (1943) e normas posteriores. As igrejas protestantes no Brasil já celebravam a Ceia no primeiro domingo/sábado do mês antes disso ser o padrão salarial dominante. A cronologia não favorece a teoria de design intencional _original_.
+
+**3. Nem toda igreja faz no primeiro sábado** 
+- Muitas celebram no primeiro _domingo_, outras em datas variadas. Se fosse uma estratégia coordenada, seria mais uniforme.
+
+#### o que é difícil de defender, e deve-se ser honesto com isso:
+- Aqui está o problema: **mesmo que a origem não tenha sido essa, a manutenção pode ser**.
+- é difícil refutar a questão da inércia institucional conveniente
+	- as lideranças poderiam tentar tratar essa questão, embora por ser tradição e indiretamente poder beneficiar as finanças seja pouco provável que mude
 
 
 ## opinião/reflexão:
 
-
+é complicado falar disso, ainda mais que tem benefícios para a igreja fazer todo 1º sábado do mês a ceia do Senhor por conta de estar próximo do 5º dia útil previsto na clt, isso é complicado, por que se você considerar que tem essa divisão, como eu vou poder fazer para defender que não pode ter dois interesses nisso, todavia, não quero não olhar também pelo lado da tradição que, como vimos, 
