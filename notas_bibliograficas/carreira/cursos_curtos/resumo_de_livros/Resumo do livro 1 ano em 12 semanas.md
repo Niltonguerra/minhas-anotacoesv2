@@ -1,7 +1,8 @@
 ---
 Date: 2025-01-01
 tags:
-  - tecnologia
+  - Livros
+  - livros/resumo
 ---
 # Notas conectadas:
 

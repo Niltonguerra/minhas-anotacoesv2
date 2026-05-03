@@ -1,4 +1,9 @@
-
+---
+Date: 2025-06-09T16:42:00
+tags:
+  - fiap/modulo01
+  - fiap/modulo01/entregaProjetoFase
+---
 ## noticia boa para o projeto embora para mim seja muito ruim:
 - fui demitido, então vou poder me dedicar mais ao projeto nesse período!
 

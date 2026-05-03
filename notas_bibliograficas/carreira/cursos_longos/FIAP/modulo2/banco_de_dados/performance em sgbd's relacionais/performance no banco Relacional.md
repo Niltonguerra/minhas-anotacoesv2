@@ -2,6 +2,7 @@
 Date: 2025-09-02T09:50:00
 tags:
   - fiap/modulo02/conexaoComBancoDeDados/DBRelacionalPerformance
+  - fiap/modulo02/conexaoComBancoDeDados
 ---
 # Notas conectadas:
 

@@ -1,6 +1,7 @@
 ---
 Date: 2025-10-15T21:08:00
-tags: []
+tags:
+  - fiap/modulo04/microFrontend
 ---
 # Notas conectadas:
 

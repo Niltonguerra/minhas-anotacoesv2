@@ -1,6 +1,7 @@
 ---
 Date: ""
-tags: []
+tags:
+  - tecnologia/Typescript
 ---
 # Notas conectadas:
 

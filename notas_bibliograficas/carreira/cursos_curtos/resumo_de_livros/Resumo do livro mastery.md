@@ -1,7 +1,8 @@
 ---
 Date: 2024-12-12
 tags:
-  - DesenvolvimentoPessoal/eficiencia
+  - livros/resumo
+  - Livros
 ---
 # Notas conectadas:
 

@@ -1,6 +1,7 @@
 ---
 Date:
 tags:
+  - template
 repositório:
 ---
 

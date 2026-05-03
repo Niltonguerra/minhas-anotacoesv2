@@ -1,6 +1,7 @@
 ---
 Date: ""
-tags: 
+tags:
+  - fiap/modulo02/conexaoComBancoDeDados
 repositório: https://github.com/Niltonguerra/fiap/tree/main/modulo_2/comunicacao_banco_de_dados
 ---
 # Notas conectadas:

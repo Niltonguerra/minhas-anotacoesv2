@@ -1,7 +1,8 @@
 ---
 Date: 2024-12-14
 tags:
-  - DesenvolvimentoPessoal/RelaçõesInterPessoais
+  - livros/resumo
+  - Livros
 ---
  # Notas conectadas:
 

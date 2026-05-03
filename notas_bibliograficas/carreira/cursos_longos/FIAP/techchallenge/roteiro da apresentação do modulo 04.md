@@ -1,3 +1,10 @@
+---
+Date: 2025-06-09T16:42:00
+tags:
+  - fiap/modulo01
+  - fiap/modulo01/entregaProjetoFase
+---
+
 - apresentar-se
 - apresentar os slides
 - apresentar a doc

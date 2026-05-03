@@ -1,6 +1,7 @@
 ---
 Date: ""
-tags: []
+tags:
+  - template
 ---
 # Notas conectadas:
 
