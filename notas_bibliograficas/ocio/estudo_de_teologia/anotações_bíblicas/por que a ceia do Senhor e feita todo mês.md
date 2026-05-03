@@ -25,6 +25,8 @@ table of contents: Create table of contents
 **Atos 2:42** — os primeiros cristãos perseveravam "no partir do pão", provavelmente com muita frequência.
 **Atos 20:7** — "no primeiro dia da semana, reunidos para partir o pão", sugerindo que a prática no período apostólico era **semanal**, integrada ao culto dominical.
 
+
+dddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
 ## pesquisa sobre a informação:
 ### De onde veio a prática mensal?
 A Ceia mensal é uma herança predominantemente do **protestantismo revivalista norte-americano dos séculos XVIII e XIX**, e chegou ao Brasil principalmente via **tradição batista**. O raciocínio por trás dela geralmente é:
