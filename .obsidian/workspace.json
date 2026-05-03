@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "715f9ee9e4089385",
+        "id": "b54cb77a2541a8fa",
         "type": "tabs",
         "children": [
           {
-            "id": "a1fd33edbd70906b",
+            "id": "d4311e86b44cc2af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/por que a ceia do Senhor e feita todo mês.md",
+                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/reunioes/09062025-reuniao-fiap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "por que a ceia do Senhor e feita todo mês"
+              "title": "09062025-reuniao-fiap"
             }
           }
         ]
@@ -249,7 +249,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 330.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,13 +271,28 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-git:Open Git source control": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a1fd33edbd70906b",
+  "active": "d4311e86b44cc2af",
   "lastOpenFiles": [
-    "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/se no livro de numeros 31 eles capituraram vigens para aumentar o povo, porque em josué 23--12-13 ele proíbe o casamento com estrangeiras.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/reunioes/11062025-reuniao-fiap.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/reunioes/16062025-reuniao-fiap.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/reunioes/19062025-reuniao-fiap.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/reunioes/23062025-reuniao-fiap.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/reunioes/29062025-reunião-fiap.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo3/reuniões/15092025.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo3/reuniões/17082025.md",
+    "notas_bibliograficas/carreira/cursos_curtos/aspire/lessons/week 3-tecnologic/porque a tecnologia pode ser um bom negocio.md",
+    "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro 1 ano em 12 semanas.md",
+    "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro Como Fazer amigos e influenciar pessoas.md",
+    "notas_bibliograficas/carreira/cursos_curtos/resumo_de_livros/Resumo do livro mastery.md",
+    "notas_passageiras/está no google notas.md",
+    "notas_passageiras/o que estudar, prioridade 0.md",
+    "notas_passageiras/microserviços.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/por que a ceia do Senhor e feita todo mês.md",
+    "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/se no livro de numeros 31 eles capituraram vigens para aumentar o povo, porque em josué 23--12-13 ele proíbe o casamento com estrangeiras.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/por que Deus permitiu que todas as mulheres estrangeiras fossem expulsas mesmo permitindo durante um tempo que os israelitas se cassasem com elas--há fazer.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/por que moisés não era uma um tipo de hitler-há fazer.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/ouvi que no fim do livro de Josué ainda tinha terras para conquistar, então por que em josué  21-43_45 fala que Deus toda a terra a Israel-há fazer.md",
@@ -288,22 +303,8 @@
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/prostitutas vão para o céu.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/Qual é o significado do batismo no antigo testamento-há fazer.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/00-passagens dificeis.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/Deus se agrada do sofrimento das pessoas.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/o mundo reflete a Deus.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/Para onde os bebes vão depois de morrer, por exemplo bebes que morrem no ventre da mãe-há fazer.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Jesus não roubou quanto estava passando por uma plantação e colheu algumas espigas para comer.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/por que Números 31 parece que faz de Deus uma ferramenta politica feita por Móises.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/suicídio leva para o inferno.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/passagens dificeis/você paga só pelos seus pecados ou pelos pecados de seus pais também.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/estudo Teológico.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/anotações da bíblia.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/até hoje os.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/arquitetura microfrontend/introducao microfrontend.md",
-    "notas_bibliograficas/carreira/Livros/CleanCode/onde parou.md",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/carreira/Livros/CleanCode/livro/livro-bugado/CodigoLimpo.pdf",
-    "notas_passageiras/microserviços.md",
-    "notas_passageiras/está no google notas.md",
     "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/Videos_em_ingles/Texto em Inglês com ÁUDIO e TRADUÇÃO #64.mp4",
     "notas_bibliograficas/carreira/idiomas/english/modulo 02 - integracao na lingua/Videos_em_ingles/Texto em Inglês com ÁUDIO e TRADUÇÃO #11.mp4",
     "notas_bibliograficas/ocio/estudo musical/imagens/Pasted image 20260415203656.png",
