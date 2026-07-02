@@ -11,15 +11,12 @@
             "id": "dfd0df5ccf74e832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "html-view",
               "state": {
-                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html"
               },
-              "icon": "lucide-file",
-              "title": "aula11-azure"
+              "icon": "code-glyph",
+              "title": "treino"
             }
           }
         ]
@@ -111,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -265,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,12 +291,12 @@
   },
   "active": "dfd0df5ccf74e832",
   "lastOpenFiles": [
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula3-segurança na Cloud-principios de segurança.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2.1-tipos de controle de acesso.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2-CloudxOnPremise.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula1-CloudxOnPremise.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula7-kubernetes.md",
