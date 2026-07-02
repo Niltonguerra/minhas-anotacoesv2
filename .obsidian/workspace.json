@@ -11,16 +11,15 @@
             "id": "dfd0df5ccf74e832",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
-                "page": 2,
-                "left": -18,
-                "top": 422,
-                "zoom": 0.8327454142310018
+                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "Aula 01- Conexão com banco de dados postgreSQL"
+              "icon": "lucide-file",
+              "title": "aula11"
             }
           }
         ]
@@ -112,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -266,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5,
-    "collapsed": true
+    "width": 327.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,19 +291,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "dfd0df5ccf74e832",
   "lastOpenFiles": [
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 4.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 3.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 2.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 1.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_04_rev2.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_03_rev2.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_02_rev2.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_01_rev2.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Microfrontend - Aula 5.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Microfrontend - Aula 4.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Microfrontend - Aula 3.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 08- Clean architecture - Implementando a arquitetura.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 01- As arquiteturas de microsserviços.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 02- Quando usar microsserviços e monolitos.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 03- Principais diferenças ao desenvolver microsserviços.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 04- BD com microsserviços.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 05- Patterns no desenvolvimento de microsserviços.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 01- Cloud x On Premise.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 02- Principais pontes de segurança ao desenvolver em cloud.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 03- Criando arquiteturas Clouds.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 04- AWS ECS  AWS EKS Azure AKS  Azure Container Instace.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/4-microserviços-banco de dados.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
