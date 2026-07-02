@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
+                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula11"
+              "title": "aula11-azure"
             }
           }
         ]
@@ -111,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -294,6 +293,17 @@
   },
   "active": "dfd0df5ccf74e832",
   "lastOpenFiles": [
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula3-segurança na Cloud-principios de segurança.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2.1-tipos de controle de acesso.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2-CloudxOnPremise.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula1-CloudxOnPremise.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula7-kubernetes.md",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula10-explicando-kubernetes.md",
+    "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 08- Clean architecture - Implementando a arquitetura.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 01- As arquiteturas de microsserviços.pdf",
@@ -303,12 +313,8 @@
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 05- Patterns no desenvolvimento de microsserviços.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 01- Cloud x On Premise.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 02- Principais pontes de segurança ao desenvolver em cloud.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 03- Criando arquiteturas Clouds.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/pdfs/Aula 04- AWS ECS  AWS EKS Azure AKS  Azure Container Instace.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/4-microserviços-banco de dados.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula10-explicando-kubernetes.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/por que Deus não permitiu que seus apóstolos tivessem um final bom,mas tivessem mortes ruins.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/por que ananias e safira morreram se hoje em dia nem faz o que eles fizeram nao morre.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/anotações_bíblicas/anotações da bíblia.md",
@@ -323,13 +329,6 @@
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula5-TCP-UDP.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula4-DNS-CNAME-SMTP.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula3-SSH-FTP.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula2-Aplicacao-HTTPS e HTTP.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula1-termos de rede e modelo OSI.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/9-microserviços-antipatterns.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/8-microservicos-patterns.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/7-microserviços-patterns.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/6-patterns no microserviços-gateway e service discovery.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/5-escolhendo um banco de dados.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",

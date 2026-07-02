@@ -24,6 +24,8 @@ nessa nota vimos alguns requisitos para projetar um sistema com cloud partindo m
 		- [[#tipos de load balance#classic LB|classic LB]]
 		- [[#tipos de load balance#Gateway LB|Gateway LB]]
 		- [[#tipos de load balance#Network LB|Network LB]]
+- [[#RDS|RDS]]
+- [[#DaemonSet|DaemonSet]]
 
 
 # Explicação dos tópicos:
@@ -135,11 +137,15 @@ Usuário --> WAF --> CDN --> Servidor de Armazenamento (ex: S3)
 
 
 
+## RDS
+- banco de dados relacional na aws
 
 
 
-
-
-
+## DaemonSet
+- garante a criação de um pod em vários worker node sempre 
+	- mas apenas isso
+	- ele não atua na criação de containers dentro de um pod
+	- não garante o funcionamento do prometheus a nivel de container
 
 
