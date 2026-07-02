@@ -27,4 +27,5 @@ table of contents: Create table of contents
 - garante a criação de um pod em vários worker node sempre 
 	- mas apenas isso
 	- ele não atua na criação de containers dentro de um pod
+	- não garante o funcionamento do prometheus a nivel de container
 
