@@ -24,4 +24,7 @@ table of contents: Create table of contents
 
 
 ## DaemonSet
-- é um sistema que permite que um pod rode em varios outros worker nodes
+- garante a criação de um pod em vários worker node sempre 
+	- mas apenas isso
+	- ele não atua na criação de containers dentro de um pod
+
