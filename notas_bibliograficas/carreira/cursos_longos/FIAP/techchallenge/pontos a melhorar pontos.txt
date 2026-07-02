@@ -1,0 +1,35 @@
+pontos a melhorar
+pontos para melhorar no projeto:
+melhorar o retorno da mensagem de erro do formulario de cadastro
+ - quando é feito a solicitação para o backend, é retornado no mobile um erro genérico que não foi possível cadastrar, hoje, o backend já prove uma forma de validar se o usuário existe ou não existe, então é preciso refatorar o app para mostrar essa validação dos dados
+ 
+ 
+ usar a mensagem padrão do sistema ao invés do alert padrão do sistema com referencia ao formulario de cadastro
+ 
+ 
+ melhorar a mensagem de sucesso da validação do email, é acredito que vai ser super simples: é preciso criar uma página de confirmação com html e css e passar para o nilton e ele vai fazer o cadastro da página junto ao resend
+ 
+ sugestão: alterar o campo de 'editar dados' quando professor para 'editar minhas informações' 
+ 
+ 
+ quando é alterado a senha do usuário sendo eu um professor e altero a senha de outro professor ele me da um erro, com alert:
+ com as seguintes informações: Erro. Ocorreu um erro ao enviar o formulário. e depois ele me dá uma mensagem de sucesso. precisa ser revisto e ele também dá erro no snackbar, precisa ser validado, ele gera um erro pelo que vi de history doesn't exist, pode ser só uma questão de versionamento do schema, precisa ser validado. mas a senha é alterada
+ 
+ 
+ 
+ quando o usuário altera a propria senha ele consegue, mas aparece um erro no snackbar, precisa ser validado, o erro em questão é set error: {}, mas a senha é alterada com sucesso
+ 
+ 
+ 
+ sugestão de melhorias:
+quando clicar no telefone na tela de login abrir o whatapp automaticamente
+quando clicar no email na tela de login abrir o gmail automaticamente com a aba de escrever uma mensagem já na tela
+ 
+ 
+ 
+ 
+ 
+ parabéns que colocou o texto: bem vindo <nome do usuário> ficou muito top, muito legal mesmo parabéns para quem implementou!!! :Feliz 
+ 
+ 
+ 

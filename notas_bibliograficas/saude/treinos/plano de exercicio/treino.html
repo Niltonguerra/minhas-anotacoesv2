@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Treino Hipertrofia — Peso Corporal</title>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0c0c0e;
+    --surface: #151518;
+    --card: #1c1c21;
+    --accent: #e8ff47;
+    --accent2: #ff6b35;
+    --text: #f0f0f0;
+    --muted: #888;
+    --border: #2a2a30;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'DM Sans', sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  header {
+    padding: 3rem 2rem 2rem;
+    text-align: center;
+    position: relative;
+    border-bottom: 1px solid var(--border);
+  }
+
+  header::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 50%; transform: translateX(-50%);
+    width: 300px; height: 200px;
+    background: radial-gradient(ellipse, rgba(232,255,71,0.12) 0%, transparent 70%);
+    pointer-events: none;
+  }
+
+  .badge {
+    display: inline-block;
+    background: var(--accent);
+    color: #000;
+    font-size: 0.65rem;
+    font-weight: 700;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.8rem;
+    border-radius: 999px;
+    margin-bottom: 1rem;
+  }
+
+  h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: clamp(3rem, 8vw, 5.5rem);
+    line-height: 0.95;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.8rem;
+  }
+
+  h1 span { color: var(--accent); }
+
+  .subtitle {
+    color: var(--muted);
+    font-size: 0.95rem;
+    max-width: 420px;
+    margin: 0 auto;
+    line-height: 1.6;
+  }
+
+  .stats {
+    display: flex;
+    justify-content: center;
+    gap: 1px;
+    background: var(--border);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .stat {
+    flex: 1;
+    max-width: 160px;
+    background: var(--surface);
+    padding: 1.2rem 0.8rem;
+    text-align: center;
+  }
+
+  .stat-value {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2rem;
+    color: var(--accent);
+    line-height: 1;
+  }
+
+  .stat-label {
+    font-size: 0.65rem;
+    color: var(--muted);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 0.2rem;
+  }
+
+  .principles {
+    padding: 2rem;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .section-title {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.6rem;
+    letter-spacing: 0.05em;
+    margin-bottom: 1rem;
+    color: var(--muted);
+  }
+
+  .section-title span { color: var(--text); }
+
+  .principles-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 0.6rem;
+  }
+
+  .principle {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem;
+    font-size: 0.82rem;
+    line-height: 1.5;
+  }
+
+  .principle strong {
+    display: block;
+    color: var(--accent);
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.3rem;
+  }
+
+  .schedule {
+    padding: 0 2rem 2rem;
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .day-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    overflow: hidden;
+  }
+
+  .day-header {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 1.2rem 1.4rem;
+    background: var(--surface);
+  }
+
+  .day-number {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 2.5rem;
+    line-height: 1;
+    color: var(--accent);
+    min-width: 2rem;
+    text-align: center;
+  }
+
+  .day-info { flex: 1; }
+
+  .day-name {
+    font-weight: 700;
+    font-size: 1rem;
+    letter-spacing: 0.02em;
+  }
+
+  .day-focus {
+    font-size: 0.75rem;
+    color: var(--muted);
+    margin-top: 0.15rem;
+  }
+
+  .day-tag {
+    font-size: 0.65rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+  }
+
+  .tag-push { background: rgba(255,107,53,0.15); color: var(--accent2); }
+  .tag-pull { background: rgba(82,149,255,0.15); color: #5295ff; }
+  .tag-legs { background: rgba(163,82,255,0.15); color: #a352ff; }
+  .tag-rest { background: rgba(136,136,136,0.12); color: var(--muted); }
+  .tag-full { background: rgba(232,255,71,0.12); color: var(--accent); }
+
+  /* SEMPRE ABERTO — sem JS necessário */
+  .day-body {
+    display: block;
+    padding: 0 1.4rem 1.4rem;
+  }
+
+  .ex-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1rem;
+    font-size: 0.82rem;
+  }
+
+  .ex-table thead th {
+    text-align: left;
+    color: var(--muted);
+    font-size: 0.65rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    padding: 0 0.5rem 0.6rem;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .ex-table tbody tr {
+    border-bottom: 1px solid rgba(255,255,255,0.04);
+  }
+
+  .ex-table tbody tr:last-child { border-bottom: none; }
+
+  .ex-table td {
+    padding: 0.7rem 0.5rem;
+    vertical-align: top;
+  }
+
+  .ex-name {
+    font-weight: 500;
+    color: var(--text);
+  }
+
+  .ex-tip {
+    display: block;
+    font-size: 0.7rem;
+    color: var(--muted);
+    margin-top: 0.2rem;
+    line-height: 1.4;
+    font-weight: 300;
+  }
+
+  .ex-sets {
+    color: var(--accent);
+    font-weight: 700;
+    white-space: nowrap;
+  }
+
+  .ex-rest {
+    color: var(--muted);
+    white-space: nowrap;
+    font-size: 0.78rem;
+  }
+
+  .rest-content {
+    padding-top: 1rem;
+    font-size: 0.85rem;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  .tips {
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 0 2rem 4rem;
+  }
+
+  .tips-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.6rem;
+  }
+
+  .tip {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem 1.1rem;
+  }
+
+  .tip-icon { font-size: 1.3rem; margin-bottom: 0.4rem; }
+
+  .tip h4 {
+    font-size: 0.82rem;
+    font-weight: 700;
+    margin-bottom: 0.3rem;
+  }
+
+  .tip p {
+    font-size: 0.76rem;
+    color: var(--muted);
+    line-height: 1.5;
+  }
+
+  .progression {
+    margin-top: 1rem;
+    background: linear-gradient(135deg, rgba(232,255,71,0.08), rgba(232,255,71,0.02));
+    border: 1px solid rgba(232,255,71,0.2);
+    border-radius: 10px;
+    padding: 1.2rem;
+  }
+
+  .progression h4 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 1.1rem;
+    letter-spacing: 0.05em;
+    color: var(--accent);
+    margin-bottom: 0.5rem;
+  }
+
+  .progression p {
+    font-size: 0.8rem;
+    color: var(--muted);
+    line-height: 1.6;
+  }
+
+  @media (max-width: 480px) {
+    .stats { flex-wrap: wrap; }
+    .stat { min-width: 80px; }
+    .tips-grid { grid-template-columns: 1fr; }
+    .principles-grid { grid-template-columns: 1fr 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="badge">Peso Corporal · Iniciante</div>
+  <h1>TREINO<br><span>HIPERTROFIA</span></h1>
+  <p class="subtitle">Programa estruturado em 4 dias semanais com foco em ganho muscular usando apenas o peso do corpo.</p>
+</header>
+
+<div class="stats">
+  <div class="stat"><div class="stat-value">4</div><div class="stat-label">Dias/semana</div></div>
+  <div class="stat"><div class="stat-value">3</div><div class="stat-label">Séries/ex.</div></div>
+  <div class="stat"><div class="stat-value">8–12</div><div class="stat-label">Reps alvo</div></div>
+  <div class="stat"><div class="stat-value">8–12</div><div class="stat-label">Semanas</div></div>
+</div>
+
+<div class="principles" style="padding-top:2rem;">
+  <div class="section-title"><span>Princípios</span> do programa</div>
+  <div class="principles-grid">
+    <div class="principle"><strong>Sobrecarga progressiva</strong>Aumente reps ou mude variação a cada semana para forçar adaptação.</div>
+    <div class="principle"><strong>Tensão mecânica</strong>Controle o movimento — 2s descida, 1s pausa, 1s subida.</div>
+    <div class="principle"><strong>Volume suficiente</strong>3 séries por exercício, 8–12 repetições por série.</div>
+    <div class="principle"><strong>Descanso adequado</strong>60–90s entre séries. Não pule o descanso.</div>
+  </div>
+</div>
+
+<div class="schedule">
+  <div class="section-title" style="padding: 0 2rem; max-width:700px; margin:0 auto;"><span>Divisão</span> semanal</div>
+
+  <!-- DIA A -->
+  <div class="day-card">
+    <div class="day-header">
+      <div class="day-number">A</div>
+      <div class="day-info">
+        <div class="day-name">Peito, Ombros & Tríceps</div>
+        <div class="day-focus">Seg / Qui — Empurrar</div>
+      </div>
+      <span class="day-tag tag-push">Push</span>
+    </div>
+    <div class="day-body">
+      <table class="ex-table">
+        <thead><tr><th>Exercício</th><th>Séries × Reps</th><th>Descanso</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="ex-name">Flexão inclinada na mesa</span><span class="ex-tip">Mãos na borda de uma mesa firme (ou bancada), cotovelos a ~45° do tronco. É uma flexão real — só que o ângulo reduz o peso sobre os braços. Objetivo: dominar a forma antes de descer para o chão. Quando chegar a 15 reps limpas, mude para cadeira (mais inclinado = mais difícil).</span></td>
+            <td class="ex-sets">3 × 10–15</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Flexão excêntrica (só a descida)</span><span class="ex-tip">Começa no topo da posição de flexão no chão e desce em 5 segundos até o peito tocar o chão. Não precisa subir — levanta com os joelhos. Constrói força real de peito e tríceps sem exigir a subida. 5–6 reps por série já é suficiente.</span></td>
+            <td class="ex-sets">3 × 5–6</td>
+            <td class="ex-rest">90s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Press overhead com mochila</span><span class="ex-tip">Segura a mochila (com algum peso dentro) pelas alças com as duas mãos, empurra acima da cabeça e desce até a linha dos ombros. Mantém core contraído para não arquear a lombar. Trabalha deltoide anterior e tríceps — substitui o pike push-up sem exigir força de empurrar no solo.</span></td>
+            <td class="ex-sets">3 × 10–12</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Elevação lateral com garrafas</span><span class="ex-tip">Garrafa de 1,5L em cada mão, eleva os braços até a altura dos ombros com cotovelo levemente dobrado. Desce em 2s. Ativa deltoide lateral — a parte que dá largura ao ombro. Carga leve, mas o músculo é pequeno, então funciona.</span></td>
+            <td class="ex-sets">3 × 12–15</td>
+            <td class="ex-rest">60s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Mergulho entre cadeiras (amplitude parcial)</span><span class="ex-tip">Duas cadeiras estáveis, desce só até cotovelo a 90° — não mais fundo. Amplitude excessiva sobrecarrega o ombro e força o cotovelo. Foco em tríceps: cotovelos apontados para trás, não para os lados. Quando 12 reps ficarem fáceis, adicione peso na mochila no colo.</span></td>
+            <td class="ex-sets">3 × 8–12</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- DIA B -->
+  <div class="day-card">
+    <div class="day-header">
+      <div class="day-number">B</div>
+      <div class="day-info">
+        <div class="day-name">Costas & Bíceps</div>
+        <div class="day-focus">Ter / Sex — Puxar</div>
+      </div>
+      <span class="day-tag tag-pull">Pull</span>
+    </div>
+    <div class="day-body">
+      <table class="ex-table">
+        <thead><tr><th>Exercício</th><th>Séries × Reps</th><th>Descanso</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="ex-name">Remada australiana pegada larga</span><span class="ex-tip">Mãos mais afastadas que os ombros na barra, corpo reto em prancha, puxe o peito até a barra. Controle a descida em 2–3s. Exercício principal de puxada horizontal.</span></td>
+            <td class="ex-sets">3 × 10–12</td>
+            <td class="ex-rest">90s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Remada australiana com pés elevados</span><span class="ex-tip">Coloque os pés numa cadeira ou degrau — o corpo fica mais horizontal, aumentando a carga sobre costas e bíceps. Use quando a versão padrão ficar fácil com 12 reps.</span></td>
+            <td class="ex-sets">3 × 8–10</td>
+            <td class="ex-rest">90s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Remada unilateral com mochila</span><span class="ex-tip">Apoie uma mão e um joelho numa cadeira firme, puxe a mochila com peso do chão até o quadril. Cotovelo aponta para o teto. Ativa o lat dorsal de forma isolada — substitui parcialmente a puxada vertical.</span></td>
+            <td class="ex-sets">3 × 10/lado</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Curl com garrafa ou galão de água</span><span class="ex-tip">Use garrafa de 1,5L ou galão de 5L para controlar a carga desde o início. Foco na contração lenta — 2s sobe, 1s segura, 2s desce. Quando ficar fácil, adicione mais peso na mochila.</span></td>
+            <td class="ex-sets">3 × 8–10/lado</td>
+            <td class="ex-rest">60s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Prone Y-T-W</span><span class="ex-tip">Deitado de bruços, eleva os braços em posição de Y, depois T (crucifixo), depois W (cotovelos dobrados). Segura 2s em cada. Ativa deltoide posterior e trapézio médio.</span></td>
+            <td class="ex-sets">3 × 10 (cada)</td>
+            <td class="ex-rest">60s</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- DIA C -->
+  <div class="day-card">
+    <div class="day-header">
+      <div class="day-number">C</div>
+      <div class="day-info">
+        <div class="day-name">Pernas & Glúteos</div>
+        <div class="day-focus">Qua / Sáb — Membros inferiores</div>
+      </div>
+      <span class="day-tag tag-legs">Legs</span>
+    </div>
+    <div class="day-body">
+      <table class="ex-table">
+        <thead><tr><th>Exercício</th><th>Séries × Reps</th><th>Descanso</th></tr></thead>
+        <tbody>
+          <tr>
+            <td><span class="ex-name">Agachamento sumô</span><span class="ex-tip">Pés mais abertos, dedos apontados para fora, desça lento e controle a subida</span></td>
+            <td class="ex-sets">3 × 12–15</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Avanço (Lunge) alternado</span><span class="ex-tip">Joelho traseiro quase toca o chão, tronco ereto, alternando pernas</span></td>
+            <td class="ex-sets">3 × 10/lado</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Step-up em cadeira</span><span class="ex-tip">Suba um pé por vez em cadeira firme, empurre pelo calcanhar, desça devagar. Mesmo estímulo unilateral do búlgaro sem a instabilidade — progrida para búlgaro quando se sentir confortável</span></td>
+            <td class="ex-sets">3 × 10–12/lado</td>
+            <td class="ex-rest">75s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Ponte de glúteos</span><span class="ex-tip">Deitado, quadril sobe alto, aperta o glúteo no topo por 1s — progrida para unilateral</span></td>
+            <td class="ex-sets">3 × 15–20</td>
+            <td class="ex-rest">60s</td>
+          </tr>
+          <tr>
+            <td><span class="ex-name">Elevação de panturrilha</span><span class="ex-tip">Numa escada ou degrau para amplitude total, desce controlado</span></td>
+            <td class="ex-sets">4 × 15–20</td>
+            <td class="ex-rest">45s</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <!-- DIA REST -->
+  <div class="day-card">
+    <div class="day-header">
+      <div class="day-number" style="color:var(--muted)">—</div>
+      <div class="day-info">
+        <div class="day-name" style="color:var(--muted)">Descanso ativo</div>
+        <div class="day-focus">Qua (entre A e B) / Dom</div>
+      </div>
+      <span class="day-tag tag-rest">Rest</span>
+    </div>
+    <div class="day-body">
+      <div class="rest-content">
+        <p>O descanso é onde o músculo cresce, não durante o treino. Opções para o dia de recuperação:</p>
+        <ul style="margin-top:0.8rem; padding-left:1.2rem; display:flex; flex-direction:column; gap:0.4rem;">
+          <li>Caminhada leve por 20–30 minutos</li>
+          <li>Alongamento estático (hold de 30s por posição)</li>
+          <li>Foam roller nas áreas trabalhadas</li>
+          <li>Garantir 7–9 horas de sono — é quando o GH é secretado</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+
+<div class="tips" style="margin-top:0.5rem;">
+  <div class="section-title"><span>Dicas</span> essenciais</div>
+  <div class="tips-grid">
+    <div class="tip">
+      <div class="tip-icon">🍽️</div>
+      <h4>Proteína</h4>
+      <p>1,6–2g por kg de peso corporal/dia. Sem proteína suficiente, o treino não constrói músculo.</p>
+    </div>
+    <div class="tip">
+      <div class="tip-icon">💧</div>
+      <h4>Hidratação</h4>
+      <p>Pelo menos 35ml/kg/dia. Desidratação reduz força e recuperação em até 10%.</p>
+    </div>
+    <div class="tip">
+      <div class="tip-icon">😴</div>
+      <h4>Sono</h4>
+      <p>7–9h por noite. É durante o sono que o GH (hormônio de crescimento) atua.</p>
+    </div>
+    <div class="tip">
+      <div class="tip-icon">📅</div>
+      <h4>Consistência</h4>
+      <p>4 treinos/semana por 8 semanas gera mais resultado do que treinos perfeitos 3x/mês.</p>
+    </div>
+  </div>
+
+  <div class="progression">
+    <h4>Como progredir semana a semana</h4>
+    <p>
+      Semana 1–2: Aprenda a forma correta de cada exercício. Na flexão inclinada, foque em cotovelos a 45° — não deixe abrir para os lados. Na excêntrica, conte os 5 segundos em voz alta.<br><br>
+      Semana 3–4: Tente adicionar 1–2 repetições nas inclinadas. Quando chegar a 15 reps na mesa, mude para a cadeira (ângulo mais fechado, mais carga).<br><br>
+      Semana 5–6: Se a excêntrica ficou controlada e a inclinada na cadeira chegou a 12 reps, teste 1 flexão no chão com joelhos. Se sair limpa, inclua ao final da série de excêntricas.<br><br>
+      Semana 7–8: Adicione uma série extra (4 séries) nos exercícios principais. Meta: 5 flexões no chão ao final do ciclo. Adicione peso na mochila do press e do mergulho conforme ficar fácil.
+    </p>
+  </div>
+</div>
+
+</body>
+</html>
