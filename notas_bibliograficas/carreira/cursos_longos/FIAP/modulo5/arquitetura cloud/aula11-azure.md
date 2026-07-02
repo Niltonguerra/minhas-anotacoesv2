@@ -15,5 +15,20 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-##
+## ACR
+- repositório de imagens
+
+## ACI
+- orquestrador de containers
+	- tipo docker desktop e ECS da aws
+
+## AKS
+- orquestrador com kubernetes
+	-  tipo o EKS da aws
+
+
+## ACA 
+- orquestrador de containers slimplificado com serverless
+
+
 
