@@ -18,9 +18,10 @@ table of contents: Create table of contents
 ## RDS
 - banco de dados relacional na aws
 
-adasdadasd
-asdads
 
 
 
 
+
+## DaemonSet
+- é um sistema que permite que um pod rode em varios outros worker nodes

@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -265,7 +266,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,7 +292,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "dfd0df5ccf74e832",
   "lastOpenFiles": [
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/4-microserviços-banco de dados.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
