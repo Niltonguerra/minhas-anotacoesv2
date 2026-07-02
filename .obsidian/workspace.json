@@ -11,15 +11,16 @@
             "id": "dfd0df5ccf74e832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
+                "page": 2,
+                "left": -18,
+                "top": 422,
+                "zoom": 0.8327454142310018
               },
-              "icon": "lucide-file",
-              "title": "aula11"
+              "icon": "lucide-file-text",
+              "title": "Aula 01- Conexão com banco de dados postgreSQL"
             }
           }
         ]
@@ -111,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -292,12 +292,22 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dfd0df5ccf74e832",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 4.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 3.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 2.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Aula 1.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_04_rev2.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_03_rev2.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_02_rev2.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Template de Aula_01_rev2.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Microfrontend - Aula 5.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Microfrontend - Aula 4.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/pdfs/POSTECH - Microfrontend - Aula 3.pdf",
+    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/4-microserviços-banco de dados.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo4/reactNative",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula10-explicando-kubernetes.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/por que Deus não permitiu que seus apóstolos tivessem um final bom,mas tivessem mortes ruins.md",
     "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/por que ananias e safira morreram se hoje em dia nem faz o que eles fizeram nao morre.md",
@@ -308,7 +318,6 @@
     "notas_bibliograficas/carreira/cursos_curtos/aspire/lessons/week 1-leadership/lesson 1.1.md",
     "notas_bibliograficas/carreira/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/modulo 5.md",
-    "notas_bibliograficas/carreira/cursos_curtos/terapia",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula7-ICMP-NAT-VPC.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula6-IP-CIDR-VLSM.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula5-TCP-UDP.md",
@@ -321,19 +330,10 @@
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/7-microserviços-patterns.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/6-patterns no microserviços-gateway e service discovery.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/5-escolhendo um banco de dados.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/microservicos/3-arquitetura orientada a eventos--mensageria--.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/formas normais.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/AULA 11 - NORMALIZAÇÃO (3FN).pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/banco_de_dados/banco_de_dados_relacionais/Não confirmado 639925.crdownload",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210429.png",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo1/low_code/Aula 2.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo1/low_code/Aula 1.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo1/DDD/aula09/DDD - Aula 9 - POSTECH - Template de Aula Definition of Done.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo1/DDD/aula08/DDD - Aula 8 - POSTECH - Template de Aula Refinamento Técnico.pdf",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo1/DDD/aula07/DDD - Aula 7 - POSTECH - Template de Aula Levantamento de Requisitos.pdf",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260628163645.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260625095444.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260625094500.png",
