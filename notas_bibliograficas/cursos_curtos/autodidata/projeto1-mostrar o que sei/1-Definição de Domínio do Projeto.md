@@ -26,12 +26,12 @@ Motivos:
 
 - Validação de crédito da pessoa dentro do sistema (score, concessão de crédito, cálculo de juros).
 - Sugestões personalizadas de investimento com explicação.
+- Recomendação de notícias de investimento
 
 ## Subdomínio Genérico
 
 - Criação de notícias sobre temas de empresas.
 - Coleta de índices de bolsa de valores.
-- Recomendação de notícias de investimento (implementação genérica, não é foco do sistema).
 - Criptomoeda para ser transacionada no sistema (protocolo próprio/completo).
 
 ---
