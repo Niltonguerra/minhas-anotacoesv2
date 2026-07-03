@@ -11,10 +11,15 @@
             "id": "2224b634f5cf893d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/como a gente define que algo é uma teria valida na Bíblia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "como a gente define que algo é uma teria valida na Bíblia"
             }
           }
         ]
@@ -285,8 +290,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "2224b634f5cf893d",
   "lastOpenFiles": [
+    "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/como a gente define que algo é uma teria valida na Bíblia.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
@@ -322,7 +328,6 @@
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula6-IP-CIDR-VLSM.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula5-TCP-UDP.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula4-DNS-CNAME-SMTP.md",
-    "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/redes/aula3-SSH-FTP.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
