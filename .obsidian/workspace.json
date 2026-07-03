@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "o que é um domínio e os subdomínios 1.3"
             }
+          },
+          {
+            "id": "137734a7642abc18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "definição do que vai ser feito no projeto"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,12 +307,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f79ad458e48f3f78",
+  "active": "137734a7642abc18",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_10_proximos_passos.md",
@@ -321,8 +339,6 @@
     "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/como a gente define que algo é uma teria valida na Bíblia.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
     "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 08- Clean architecture - Implementando a arquitetura.pdf",
