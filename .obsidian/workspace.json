@@ -21,7 +21,13 @@
               "icon": "lucide-file",
               "title": "contextos delimitados(bounded context)"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "81955d43932d0c29",
+        "type": "tabs",
+        "children": [
           {
             "id": "137734a7642abc18",
             "type": "leaf",
