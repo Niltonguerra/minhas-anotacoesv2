@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_1_levantamento_de_informacoes.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "part_1_levantamento_de_informacoes"
+              "title": "definição do que vai ser feito no projeto"
             }
           }
         ]
@@ -292,6 +292,9 @@
   },
   "active": "f79ad458e48f3f78",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_1_levantamento_de_informacoes.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_10_proximos_passos.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_10_proximos_passos.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_9_resumo_geral_do_assunto.md",
@@ -302,7 +305,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_4_estudo_aprofundado.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_3_estudo_inicial.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_2_análise_inicial.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_1_levantamento_de_informacoes.md",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes",
     "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
@@ -319,7 +321,6 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula3-segurança na Cloud-principios de segurança.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2.1-tipos de controle de acesso.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2-CloudxOnPremise.md",
     "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 08- Clean architecture - Implementando a arquitetura.pdf",
@@ -327,7 +328,6 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 02- Quando usar microsserviços e monolitos.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 03- Principais diferenças ao desenvolver microsserviços.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 04- BD com microsserviços.pdf",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 05- Patterns no desenvolvimento de microsserviços.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
