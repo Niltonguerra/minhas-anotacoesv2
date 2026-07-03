@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "304678187217ac95",
+        "id": "f0f699955bf1145c",
         "type": "tabs",
         "children": [
           {
-            "id": "dfd0df5ccf74e832",
+            "id": "2224b634f5cf893d",
             "type": "leaf",
             "state": {
-              "type": "html-view",
-              "state": {
-                "file": "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html"
-              },
-              "icon": "code-glyph",
-              "title": "treino"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -287,7 +285,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "dfd0df5ccf74e832",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
