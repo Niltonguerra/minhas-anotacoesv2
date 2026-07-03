@@ -7,10 +7,10 @@ repositório: https://github.com/Niltonguerra/fiap
 ---
 # Notas conectadas:
 materia da faculdade:
-[[Aula 1.pdf]]
-[[Aula 2.pdf]]
-[[Aula 3.pdf]]
-[[Aula 4.pdf]]
+[[notas_bibliograficas/cursos_longos/FIAP/modulo1/low_code/Aula 1.pdf]]
+[[notas_bibliograficas/cursos_longos/FIAP/modulo1/low_code/Aula 2.pdf]]
+[[notas_bibliograficas/cursos_longos/FIAP/modulo1/low_code/Aula 3.pdf]]
+[[notas_bibliograficas/cursos_longos/FIAP/modulo1/low_code/Aula 4.pdf]]
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
 
