@@ -17,10 +17,8 @@ o core é:
 
 
 ## sub dominio de suporte
-- fazer uma validação de score de crédito da pessoa dentro do sistema para a concessão de crédito e calculo de juros a serem pagos
-- sugestões personalizadas de investimentos com base em noticias que são publicadas e com base em temas que o usuário achar interressante
-
-
+- validação de credito da pessoa dentro do sistema
+- sugestões personalizadas de investimento com explicação
 
 ## sub dominio genérico
 - criação de noticias sobre temas de empresas
