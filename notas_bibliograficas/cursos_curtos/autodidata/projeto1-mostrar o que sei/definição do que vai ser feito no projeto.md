@@ -11,29 +11,32 @@ o dominio vai ser o financeiro
 
 
 ## sub dominio principal:
-o objetivo do sistema é criar um sistema bancario simplificado que valide os dados de seus clientes e possiveis clientes  e gere um score de crédito que vai ser usado para definir o quanto a pessoa pode pegar de crédito junto ao banco e quanto de juros a pessoa vai pagar
-além  disso o banco também vai permitir que as pessoa 
-
+o objetivo do sistema é criar um sistema bancario simplificado com o objetivo de mostrar o que sei
+o core é:
+- servir ao cliente serviços bancários através da Gestão de contas e transações
 
 
 ## sub dominio de suporte
-
-
+- fazer uma validação de score de crédito da pessoa dentro do sistema para a concessão de crédito e calculo de juros a serem pagos
+- sugestões personalizadas de investimentos com base em noticias que são publicadas e com base em temas que o usuário achar interressante
 
 
 
 ## sub dominio genérico
-
-
+- criação de noticias sobre temas de empresas
+- coleta de indices de bolsa de valores
+- recomendação de notificas de investimento
+	- vou fazer algo generico,esse não é o foco do sistema
+- criptomoeda para ser transacionada no sistema
 
 
 
 ## o que vai ser desenvolvido:
-|Serviço|Responsabilidade|Complexidade que demonstra|
-|---|---|---|
-|**Ledger/Conta**|Saldo, transferência, consistência, moeda interna (token próprio, sem blockchain real)|Agregados, invariantes, concorrência|
-|**Pagamentos**|Máquina de estados de transação, idempotência, estorno|Saga, orquestração assíncrona|
-|**Bureau de Crédito (simulado)**|API própria com dados fictícios gerados, simula um provedor externo real|Contrato externo, resiliência, circuit breaker|
-|**Score/Análise de Crédito**|Consome o Bureau simulado, aplica política de elegibilidade|Regras de negócio, orquestração entre serviços|
-|**Relatórios Financeiros**|Coleta dados de fontes públicas não-pessoais (cotação de moeda, índices econômicos — BACEN tem API pública aberta, sem CNPJ nem contrato)|Scraping/consumo de API real, ETL, agregação para relatório|
-|**Gateway/BFF**|Ponto de entrada, agregação de chamadas|API Gateway, composição de serviços|
+| Serviço                          | Responsabilidade                                                                                                                          | Complexidade que demonstra                                  |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **Ledger/Conta**                 | Saldo, transferência, consistência, moeda interna (token próprio, sem blockchain real)                                                    | Agregados, invariantes, concorrência                        |
+| **Pagamentos**                   | Máquina de estados de transação, idempotência, estorno                                                                                    | Saga, orquestração assíncrona                               |
+| **Bureau de Crédito (simulado)** | API própria com dados fictícios gerados, simula um provedor externo real                                                                  | Contrato externo, resiliência, circuit breaker              |
+| **Score/Análise de Crédito**     | Consome o Bureau simulado, aplica política de elegibilidade                                                                               | Regras de negócio, orquestração entre serviços              |
+| **Relatórios Financeiros**       | Coleta dados de fontes públicas não-pessoais (cotação de moeda, índices econômicos — BACEN tem API pública aberta, sem CNPJ nem contrato) | Scraping/consumo de API real, ETL, agregação para relatório |
+| **Gateway/BFF**                  | Ponto de entrada, agregação de chamadas                                                                                                   | API Gateway, composição de serviços                         |
