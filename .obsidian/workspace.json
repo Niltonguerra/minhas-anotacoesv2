@@ -11,15 +11,10 @@
             "id": "2224b634f5cf893d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/como a gente define que algo é uma teria valida na Bíblia.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "como a gente define que algo é uma teria valida na Bíblia"
+              "title": "Nova aba"
             }
           }
         ]
@@ -290,7 +285,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2224b634f5cf893d",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/como a gente define que algo é uma teria valida na Bíblia.md",
     "notas_bibliograficas/carreira/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
