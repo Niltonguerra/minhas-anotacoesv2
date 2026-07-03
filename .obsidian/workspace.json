@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
+                "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "o que é um domínio e os subdomínios 1.3"
+              "title": "meios para disponibilizar um recurso e diagrama-lo"
             }
           },
           {
@@ -28,17 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/Definição de Domínio do Projeto.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "definição do que vai ser feito no projeto"
+              "title": "Definição de Domínio do Projeto"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,10 +306,15 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "137734a7642abc18",
+  "active": "f79ad458e48f3f78",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/como os times cooperam 4.1.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/linguagem ubíqua 3.1.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/contexto delimitado 3.2.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf",
@@ -334,11 +338,6 @@
     "notas_bibliograficas/biblioteca/CleanCode/notas/funcoes/clean-code-14.md",
     "notas_bibliograficas/biblioteca/CleanCode/notas/funcoes/clean-code-13-parametros-de-saida.md",
     "notas_permanentes/utilitarios/templates/TLivro.md",
-    "notas_permanentes/utilitarios/templates/Tprogramacao.md",
-    "notas_bibliograficas/carreira/cursos_curtos/terapia/reescruturação cognitiva.md",
-    "notas_bibliograficas/ocio/estudo_de_teologia/ha-fazer/como a gente define que algo é uma teria valida na Bíblia.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula11-azure.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
     "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 08- Clean architecture - Implementando a arquitetura.pdf",

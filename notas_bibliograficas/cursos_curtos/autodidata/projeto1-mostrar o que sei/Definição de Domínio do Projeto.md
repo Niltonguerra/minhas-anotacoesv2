@@ -1,31 +1,47 @@
-## proposito do projeto:
-o projeto tem como finalidade servir como vitrine do meu conhecimento, mostrando tudo o que sei fazer, esse é o objetivo do projeto, então não vou considerar coisas que gerariam melhor performance ou facilidade de gestão em um projeto real, como o uso de apenas uma só linguagem durante todo o projeto, criação real de uma arquitetura de microserviços em prática com a finalidade de não ter gasto monetário, embora vá sim desenhar o sistema e também irei definir os arquivos de configuração como terraform,ansible e etc, o objetivo é basicamente mostrar tudo o que sei para maximizar minhas chances de empregabilidade no presente e futuro e também porque estou cansado em estudar da forma comum que é por video aula, quero criar um projeto real com todos os meus conhecimento porque parece mais divertido e prático.
+## Propósito do Projeto
+
+O projeto tem como finalidade servir como vitrine de conhecimento técnico, mostrando o máximo possível do que foi estudado e aplicado. Por conta disso, decisões que normalmente seriam guiadas por performance, custo ou facilidade de gestão em um projeto real **não** serão o critério principal aqui. Exemplos:
+
+- Uso de múltiplas linguagens ao longo do projeto (não apenas uma).
+- Arquitetura de microsserviços desenhada e configurada (Terraform, Ansible, etc.), mas sem deploy real em produção, para evitar custo monetário.
+
+Objetivo final: maximizar empregabilidade presente e futura, através de um projeto prático que substitua o formato tradicional de estudo por vídeo-aula.
+
+## Domínio
+
+**Financeiro.**
+
+Motivos:
+
+- Domínio grande, comporta modelagem DDD de forma significativa.
+- Interesse pessoal no tema.
+
+## Subdomínio Principal (Core)
+
+**Objetivo do sistema:** criar um sistema bancário simplificado.
+
+- **Core:** servir ao cliente serviços bancários através da Gestão de Contas e Transações (Ledger).
+
+## Subdomínio de Suporte
+
+- Validação de crédito da pessoa dentro do sistema (score, concessão de crédito, cálculo de juros).
+- Sugestões personalizadas de investimento com explicação.
+
+## Subdomínio Genérico
+
+- Criação de notícias sobre temas de empresas.
+- Coleta de índices de bolsa de valores.
+- Recomendação de notícias de investimento (implementação genérica, não é foco do sistema).
+- Criptomoeda para ser transacionada no sistema (protocolo próprio/completo).
+
+---
 
 
-## o domínio que irei usar no sistema:
-o dominio vai ser o financeiro
-- vai ser esse porque gosto de dinheiro,kkkkkk
-- porque é um dominio grande que comporta DDD
-- porque gosto de dinheiro,kkkkkk
 
 
 
-## sub dominio principal:
-o objetivo do sistema é criar um sistema bancario simplificado com o objetivo de mostrar o que sei
-o core é:
-- servir ao cliente serviços bancários através da Gestão de contas e transações
 
 
-## sub dominio de suporte
-- validação de credito da pessoa dentro do sistema
-- sugestões personalizadas de investimento com explicação
-
-## sub dominio genérico
-- criação de noticias sobre temas de empresas
-- coleta de indices de bolsa de valores
-- recomendação de notificas de investimento
-	- vou fazer algo generico,esse não é o foco do sistema
-- criptomoeda para ser transacionada no sistema
 
 
 
