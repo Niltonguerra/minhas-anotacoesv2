@@ -1,1 +1,0 @@
-![[Codigo Limpo - Completo PT.pdf#page=51&rect=23,554,654,788|Codigo Limpo - Completo PT, p.51]]
