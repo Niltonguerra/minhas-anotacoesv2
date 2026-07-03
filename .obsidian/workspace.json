@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+                "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "definição do que vai ser feito no projeto"
+              "title": "o que é um domínio e os subdomínios 1.3"
             }
           }
         ]
@@ -265,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,8 +293,11 @@
   },
   "active": "f79ad458e48f3f78",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_1_levantamento_de_informacoes.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/exemplo de definição de domínios e dicas para a criação do mesmo 1.2.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/considerações iniciais sobre um projeto 1.1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/definição do que vai ser feito no projeto.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_10_proximos_passos.md",
     "notas_bibliograficas/cursos_curtos/autodidata/kubernetes/part_10_proximos_passos.md",
@@ -319,15 +323,12 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula3-segurança na Cloud-principios de segurança.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula2.1-tipos de controle de acesso.md",
     "notas_bibliograficas/saude/treinos/plano de exercicio/treino.html",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/pdfs/Aula 01- Conexão com banco de dados postgreSQL.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 08- Clean architecture - Implementando a arquitetura.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 01- As arquiteturas de microsserviços.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 02- Quando usar microsserviços e monolitos.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 03- Principais diferenças ao desenvolver microsserviços.pdf",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/pdfs/Aula 04- BD com microsserviços.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",

@@ -3,3 +3,8 @@ o projeto tem como finalidade servir como vitrine do meu conhecimento, mostrando
 
 
 ## o domínio que irei usar no sistema:
+o dominio vai ser o financeiro
+- vai ser esse porque gosto de dinheiro,kkkkkk
+- porque é um dominio grande que comporta DDD
+- porque gosto de dinheiro,kkkkkk
+
