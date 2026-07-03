@@ -23,4 +23,14 @@ table of contents: Create table of contents
 
 
 
-## parametros de saída
+##### parametros de saída
+- o autor defende que ao invés de mudar o estado de algo através de funções que referenciam aquele objetivo deve-se forçar o estado a estar em uma classe e essa classe ser responsável por alterar o estado internamente
+	- basicamente ele recomenda a usar programação OO(orientada a objeto) ao invés de programação funcional
+- ex:
+- public void appendFooter(StringBuffer report) ❌
+- report.appendFootter()✔️
+
+
+
+
+##### Separação comando-cosulta
