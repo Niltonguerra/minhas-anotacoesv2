@@ -2,21 +2,14 @@
 Date: 2026-07-03T10:30:00
 tags:
   - Livros/CleanCode
-Livro:
+Livro: CleanCode
 ---
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+nessa nota vimos que funções não devem fazer mais coisas do que falam que fazem e também vimos nessa nota que uma função deve ou alterar o estado de algo ou retornar uma informação, não se deve fazer os dois.
 
-# Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
 - evite que as suas funções façam coisas que não falam que fazem
 - ex: função que valida a senha do usuário e inicializa a sessão ser chamada de checkPassword ao invés de checkPasswordAndinitializeSession
 	- embora o mais ideal é separar as responsabilidades colocando o checkPassword em uma função e o initializeSession em outra função para aumentar a re-usabilidade do código
@@ -33,4 +26,10 @@ table of contents: Create table of contents
 
 
 
-##### Separação comando-cosulta
+##### Separação comando-consulta
+as funções fazem duas coisas:
+- alterar o estado de um objeto
+- retorna informações sobre ele
+
+
+
