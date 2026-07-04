@@ -35,10 +35,11 @@ nessa nota entendemos o que é um contexto delimitado e até onde ele se estende
 	- os termos dentro da linguagem ubíqua significam sempre a mesma coisa para todo mundo
 	- se a linguagem ubíqua não está funcionando para todo mundo então tem alto errado com o esse bounded context
 - necessidade de consistência transacional forte
-	- por exemplo, precisa só se uma tabela para fazer o controle daquela entidade, exemplo transação e conta em um sistema bancário
-		- o saldo, é uma propriedade de conta, mas gerenciada pela transação, assim essa propriedade super importante força que os dois bouded context sejam um só e não dois embora segundo o domínio do negócio sejam super importantes
+	- por exemplo, precisa-se que os dados sempre retornem apenas uma verdade a qualquer momento, precisa se ter apenas uma fonte de verdade daqueles dados para evitar inconsistência pois isso apresenta riscos para o negócio, 
+	- exemplo transação e conta em um sistema bancário
+		- o saldo, é uma propriedade de conta e gerenciada pela mesma, mas a transação precisa usar a propriedade saldo para realizar sua função como transação, assim essa propriedade super importante força que os dois bouded context sejam um só e não dois embora segundo o domínio do negócio sejam super importantes
 - coesão de invariantes/regras de negócio
-	- se dois conjuntos de ações compartilham muitas regras de negócio, por exemplo scrapping de noticias e busca de informações via SMTP através de newsletter, compartilhando 
+	- se dois conjuntos de ações compartilham muitas regras de negócio, por exemplo scrapping de noticias e busca de informações via SMTP através de newsletter, compartilhando leis de como atuar nisso, compartilhando regras de negócio em si então eles são apenas um bounded context mesmo usando tecnologias diferentes
 
 ![[Pasted image 20250420001706.png]]
 
