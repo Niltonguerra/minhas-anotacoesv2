@@ -52,10 +52,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/big picture.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md"
               },
               "icon": "excalidraw-icon",
-              "title": "big picture"
+              "title": "diagrama de dominio"
             }
           }
         ]
@@ -327,10 +327,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "40c18cbe745a5a6f",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/2-contextos delimitados(bounded context).md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/big picture.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
