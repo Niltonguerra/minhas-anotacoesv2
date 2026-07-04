@@ -56,3 +56,5 @@ Nessa nota estudamos um pouco sobre a linguagem usada em um diagrama de domain s
 - identificar o domínio de suporte
 - identificar o domínio de genérico
 - juntar em uma sala todos os  domain experts em uma sala para discutir sobre o projeto e criar os diagramas
+
+

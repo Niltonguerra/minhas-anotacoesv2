@@ -53,3 +53,15 @@ níveis para a visualização
 -  domain expert
 - time de desenvolvimento 
 - arquiteto de sistemas
+
+
+
+## vou colocar aqui:
+## para você poder aplicar o DDD, você pode usar os seguintes diagramas:
+- **Big Picture**
+	- faz um desenho me genérico e por cima de todo o sistema
+- **Process Modeling**:
+	- faz um desenho mais preciso, focando em uma "funcionalidade" do sistema para com o usuário, toda a jornada
+- **Software Design**: 
+	- embora o nome possa confundir você não vai usar nada de software nesse momento, você vai fazer um desenho da aplicação usando eventos, como os mostrados na nota: [[Event Storming part 1]]
+	- você só vai fazer esse quanto já tiver terminado de definir os bounded context que vai ver nas próximas aulas.
