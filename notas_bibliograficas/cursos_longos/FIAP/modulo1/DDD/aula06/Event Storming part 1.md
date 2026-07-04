@@ -24,9 +24,6 @@ nessa nota iniciamos o estudo do event storming para isso, entendemos que é imp
 ![[Pasted image 20250504181906.png]]
 
 
-- Event Storming precisa ter comida 🤣🤣🤣🤣🤣
-	- ("programador é come mais que crente 🤣🤣🤣")
-		- (é piada, kkkkk)
 
 
 
@@ -44,17 +41,17 @@ nessa nota iniciamos o estudo do event storming para isso, entendemos que é imp
 
 
 ### 2.organizar as ideias
-![[Pasted image 20250519182836.png|375]]![[Pasted image 20250519183017.png|325]]![[Pasted image 20250519183052.png|300]]
+![[Pasted image 20250519182836.png|1250]]![[Pasted image 20250519183017.png|1375]]![[Pasted image 20250519183052.png|1400]]
 - eventos é sempre colocada no passado, como:
 	- atividade criada ou  notificação ao Aluno enviada ou atividade entregue
 
 
 ### 3. trabalhar com os pontos de atenção 
-![[Pasted image 20250519183716.png|500]] ![[Pasted image 20250519183913.png|500]]
+![[Pasted image 20250519183716.png|1400]] ![[Pasted image 20250519183913.png|1250]]
 - você vai pensar no  que é preciso fazer para que os eventos funcionem corretamente
 
 ### 4. definição dos eventos pivotais
-![[Pasted image 20250519184036.png|500]]
+![[Pasted image 20250519184036.png|1700]]
 
 o que é um evento pivotal?
 Resposta: é quando você muda o contexto do que você esta fazendo, por exemplo:
