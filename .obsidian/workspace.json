@@ -6,7 +6,7 @@
       {
         "id": "7335037d1e57c013",
         "type": "tabs",
-        "dimension": 30.685061845861085,
+        "dimension": 39.77164605137964,
         "children": [
           {
             "id": "f79ad458e48f3f78",
@@ -37,14 +37,29 @@
               "icon": "lucide-file",
               "title": "Event Storming part 1"
             }
+          },
+          {
+            "id": "bfba80361fb312ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Domain storytelling 2.1"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "20fd9d92c7dad800",
         "type": "tabs",
-        "dimension": 69.31493815413891,
+        "dimension": 60.22835394862036,
         "children": [
           {
             "id": "2415acb0a5b708af",
@@ -330,24 +345,27 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "cb138b3d6fb2050b",
+  "active": "bfba80361fb312ca",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/contexto delimitado 3.2.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/linguagem ubíqua 3.1.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/como os times cooperam 4.1.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/big picture.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Sem título.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/como fazer e executar o DDD.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/fluxo de acoes captura de dados da bolsa de valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/entidades do bounded context de captura de dados da bolsa de valores.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/linguagem ubíqua 3.1.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/como os times cooperam 4.1.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula09/Definition of ready e definition of done part 2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula09/Definition of ready e definition of done part 1.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula08/Refinamento Técnico part 2.md",
@@ -362,11 +380,8 @@
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de noticias para o usuario/fluxos de acoes",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/criptomoeda/entidades",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/criptomoeda/fluxos de acoes",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/contas e transacoes/entidades",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/microservicos/7-microserviços-patterns.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/microservicos/8-microservicos-patterns.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/microservicos/9-microserviços-antipatterns.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",

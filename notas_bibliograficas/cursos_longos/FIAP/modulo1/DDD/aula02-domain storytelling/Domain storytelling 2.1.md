@@ -24,6 +24,10 @@ Nessa nota estudamos um pouco sobre a linguagem usada em um diagrama de domain s
 	- números sequenciais 
 	- anotações grupos
 	- cores
+
+
+
+
 ![[Pasted image 20250414194124.png]]
 - atores
 	- o ator muitas vezes é uma entidade, alguém que realiza algo dentro do sistema
