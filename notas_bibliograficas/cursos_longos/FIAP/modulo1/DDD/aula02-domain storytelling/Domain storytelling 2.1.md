@@ -47,7 +47,7 @@ Nessa nota estudamos um pouco sobre a linguagem usada em um diagrama de domain s
 
 
 ## passos para se fazer antes de começar a diagramar:
-- identificar o dominio
+- identificar o domínio
 - identificar o subdomínio principal
 - identificar o domínio de suporte
 - identificar o domínio de genérico
