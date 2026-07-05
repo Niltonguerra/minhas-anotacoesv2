@@ -6,20 +6,37 @@
       {
         "id": "6df0bca62e16b04a",
         "type": "tabs",
+        "dimension": 38.86443661971831,
         "children": [
           {
-            "id": "22d8c6f5fb4b84a7",
+            "id": "ef7a955015ba1c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md"
               },
-              "icon": "lucide-file",
-              "title": "aula5-levantamento de requisitos-CDN-Load balance"
+              "icon": "excalidraw-icon",
+              "title": "diagrama de dominio"
+            }
+          }
+        ]
+      },
+      {
+        "id": "aa06848e1ee99f01",
+        "type": "tabs",
+        "dimension": 61.13556338028169,
+        "children": [
+          {
+            "id": "30b03a39de562226",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/big picture.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "big picture"
             }
           }
         ]
@@ -265,7 +282,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,37 +308,105 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "22d8c6f5fb4b84a7",
+  "floating": {
+    "id": "87f5be2db2f2145e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "3c975146a6809a91",
+        "type": "window",
+        "children": [
+          {
+            "id": "e1640bcb5a1245a7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "60400465c5e8f9fa",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Drawing 2026-07-05 16.19.37.excalidraw"
+                }
+              },
+              {
+                "id": "71f929a05cebfe78",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Event Storming part 1"
+                }
+              },
+              {
+                "id": "5e5b50620f9c8eb4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Event Storming part 2"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 2560,
+        "y": 565,
+        "width": 1080,
+        "height": 936,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "71f929a05cebfe78",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/big picture.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Objeto de valor e regras de negócio.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Sem título.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Sem título.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/2-contextos delimitados(bounded context).md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/Domain storytelling 2.1.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/o que é um domínio e os subdomínios 1.3.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/linguagem ubíqua 3.1.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula03/contexto delimitado 3.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/como os times cooperam 4.1.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Sem título.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/como fazer e executar o DDD.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/fluxo de acoes captura de dados da bolsa de valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/entidades do bounded context de captura de dados da bolsa de valores.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula09/Definition of ready e definition of done part 2.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula09/Definition of ready e definition of done part 1.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula08/Refinamento Técnico part 2.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula08/Refinamento Técnico part 1.md",
     "Excalidraw",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/entidades",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/fluxos de acoes",

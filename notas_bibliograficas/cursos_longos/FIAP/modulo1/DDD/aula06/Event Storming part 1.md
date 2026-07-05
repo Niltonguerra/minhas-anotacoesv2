@@ -27,13 +27,13 @@ nessa nota iniciamos o estudo do event storming para isso, entendemos que é imp
 
 
 
-![[Pasted image 20250504182448.png]]
+![[Pasted image 20250504182448.png|1225]]
 
 - dica: caso vá usar o software MIRO: agrupe os elementos no miro, para selecionar todos de uma vez só 
 
 ## passos do Event Storming
 ### 1.Brain storming
-![[Pasted image 20250519182325.png]]
+![[Pasted image 20250519182325.png|500]]
 - como detectar que é para parar o brain storming?
 	- quando fica muito lento o surgimento de novas ideias/ identificar eventos
 - o que fazer quando sentir que é para parar?
