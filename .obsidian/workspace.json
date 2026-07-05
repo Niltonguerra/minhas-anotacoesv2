@@ -49,10 +49,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded-context-captura-dados-bolsa-de-valores.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/bounded-context-captura-dados-bolsa-de-valores 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "bounded-context-captura-dados-bolsa-de-valores"
+              "title": "bounded-context-captura-dados-bolsa-de-valores 1"
             }
           }
         ],
@@ -383,12 +383,14 @@
   },
   "active": "a72be9e7607b4694",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded-context-captura-dados-bolsa-de-valores.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/bounded-context-captura-dados-bolsa-de-valores 1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Identidade e Acesso-ProcessModeling.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-05 19.21.12.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded-context-captura-dados-bolsa-de-valores.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/entidades do bounded context de captura de dados da bolsa de valores.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-05 19.21.12.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Sem título.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
@@ -410,8 +412,6 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/como os times cooperam 4.1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Sem título.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/como fazer e executar o DDD.md",
     "Excalidraw",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/entidades",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/fluxos de acoes",
