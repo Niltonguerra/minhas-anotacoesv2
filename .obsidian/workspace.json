@@ -6,7 +6,6 @@
       {
         "id": "6df0bca62e16b04a",
         "type": "tabs",
-        "dimension": 38.86443661971831,
         "children": [
           {
             "id": "ef7a955015ba1c4f",
@@ -19,27 +18,45 @@
               "icon": "excalidraw-icon",
               "title": "diagrama de dominio"
             }
-          }
-        ]
-      },
-      {
-        "id": "aa06848e1ee99f01",
-        "type": "tabs",
-        "dimension": 61.13556338028169,
-        "children": [
+          },
           {
-            "id": "30b03a39de562226",
+            "id": "6845d4c545c7bec1",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Identidade e Acesso-ProcessModeling.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Identidade e Acesso-ProcessModeling.md"
               },
               "icon": "excalidraw-icon",
               "title": "Identidade e Acesso-ProcessModeling"
             }
+          },
+          {
+            "id": "4f1ef44c8f554d05",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-04 12.26.59.excalidraw"
+            }
+          },
+          {
+            "id": "a72be9e7607b4694",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded-context-captura-dados-bolsa-de-valores.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "bounded-context-captura-dados-bolsa-de-valores"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -128,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 491.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -282,7 +299,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,11 +381,15 @@
       }
     ]
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "6845d4c545c7bec1",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Sem título.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded-context-captura-dados-bolsa-de-valores.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Identidade e Acesso-ProcessModeling.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Identidade e Acesso-ProcessModeling.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/entidades do bounded context de captura de dados da bolsa de valores.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-05 19.21.12.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Sem título.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
@@ -390,10 +412,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Sem título.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Entidades, Agregados e serviços de domínio.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/como fazer e executar o DDD.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/fluxo de acoes captura de dados da bolsa de valores.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/entidades do bounded context de captura de dados da bolsa de valores.md",
     "Excalidraw",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/entidades",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/fluxos de acoes",
