@@ -33,10 +33,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/big picture.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/process-Modeling-cadastro.md"
               },
               "icon": "excalidraw-icon",
-              "title": "big picture"
+              "title": "process-Modeling-cadastro"
             }
           }
         ]
@@ -321,18 +321,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "60400465c5e8f9fa",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Drawing 2026-07-05 16.19.37.excalidraw"
-                }
-              },
-              {
                 "id": "71f929a05cebfe78",
                 "type": "leaf",
                 "state": {
@@ -363,7 +351,7 @@
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -378,10 +366,10 @@
   },
   "active": "30b03a39de562226",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/process-Modeling-cadastro.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/Event Storming part 1.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/big picture.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/Process Modeling/Drawing 2026-07-05 16.19.37.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/diagrama de dominio.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Objeto de valor e regras de negócio.md",
