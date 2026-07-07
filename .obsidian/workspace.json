@@ -23,19 +23,28 @@
             "id": "e4a56de749229caa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/contas e transacoes/tranferencia de dinheiro.md"
               },
-              "icon": "lucide-file",
-              "title": "1-Definição de Domínio do Projeto"
+              "icon": "excalidraw-icon",
+              "title": "tranferencia de dinheiro"
+            }
+          },
+          {
+            "id": "a837fc299e73967d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas/Drawing 2026-07-07 20.45.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-07 20.45.39.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -303,22 +312,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e4a56de749229caa",
+  "active": "a837fc299e73967d",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/contas e transacoes/tranferencia de dinheiro.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas/Drawing 2026-07-07 20.45.39.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/concessao de credito/concessao de credito.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/captura de noticias.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/captura-dados-bolsa-de-valores.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/captura de preferencias do usuário.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/copia de segurança.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalização de noticias.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/Identidade e Acesso.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/captura de preferencias do usuário.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/concessao de credito/concessao de credito.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/captura-dados-bolsa-de-valores.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/captura de noticias.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/contas e transacoes/tranferencia de dinheiro.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded context de captura de dados da bolsa de valores.md",
@@ -334,13 +346,10 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula4-segurança-cloud.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/escopo para a criação do DDD 2.2.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
     "Excalidraw",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/entidades",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/fluxos de acoes",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
