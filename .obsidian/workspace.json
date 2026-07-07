@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "personalizacao de sugestoes de investimento para o usuário"
             }
+          },
+          {
+            "id": "4197f65b5697aca4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/Drawing 2026-07-07 20.16.01.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-07-07 20.16.01.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -287,14 +300,16 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "10a60e688f8fc6f0",
+  "active": "4197f65b5697aca4",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de noticias para o usuario/personalização de noticias.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/Drawing 2026-07-07 20.16.01.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de sugestoes de investimento para o usuario/personalizacao de sugestoes de investimento para o usuário.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/concessao de credito/concessao de credito.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de sugestoes de investimento para o usuario/personalizacao de sugestoes de investimento para o usuário.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de noticias para o usuario/personalização de noticias.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/captura-dados-bolsa-de-valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/captura de noticias.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/contas e transacoes/tranferencia de dinheiro.md",
@@ -323,7 +338,6 @@
     "Excalidraw",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/entidades",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de sugestoes de investimento para o usuario/fluxos de acoes",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/personalizacao de noticias para o usuario/entidades",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
