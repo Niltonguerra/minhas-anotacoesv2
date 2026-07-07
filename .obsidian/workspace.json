@@ -28,14 +28,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/contas e transacoes/Drawing 2026-07-06 22.54.15.excalidraw.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/concessao de credito/concessao de credito.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-06 22.54.15.excalidraw"
+              "title": "concessao de credito"
+            }
+          },
+          {
+            "id": "8586cdd5742db699",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/contas e transacoes/tranferencia de dinheiro.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "tranferencia de dinheiro"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -304,10 +316,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "48a8c9015f653c60",
+  "active": "2a94081eb84fb2b5",
   "lastOpenFiles": [
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/concessao de credito/concessao de credito.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/contas e transacoes/Drawing 2026-07-06 22.54.15.excalidraw.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/contas e transacoes/tranferencia de dinheiro.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded context de captura de dados da bolsa de valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded-context-captura-dados-bolsa-de-valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
