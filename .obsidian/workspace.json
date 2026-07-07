@@ -37,14 +37,26 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas/Drawing 2026-07-07 20.45.39.excalidraw.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-07 20.45.39.excalidraw"
+              "title": "mapa de dominio"
+            }
+          },
+          {
+            "id": "5ab8650c0171436e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "mapa de dominio"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -312,24 +324,26 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a837fc299e73967d",
+  "active": "5ab8650c0171436e",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/big picture.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalização de noticias.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/Identidade e Acesso.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/copia de segurança.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Sem título.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas/criptomoeda.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/captura de preferencias do usuário.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/contas e transacoes/tranferencia de dinheiro.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas/Drawing 2026-07-07 20.45.39.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/concessao de credito/concessao de credito.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/captura de noticias.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/captura-dados-bolsa-de-valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/captura de preferencias do usuário.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/copia de segurança.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalização de noticias.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/Identidade e Acesso.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
@@ -344,8 +358,6 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula04/meios para disponibilizar um recurso e diagrama-lo.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/Objeto de valor e regras de negócio.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula5-levantamento de requisitos-CDN-Load balance.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/arquitetura cloud/aula6-tipos de planos e finOps.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula02-domain storytelling/DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
     "Excalidraw",
