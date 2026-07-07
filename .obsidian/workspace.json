@@ -4,31 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "4dffebcb687b6cce",
+        "id": "ccd65127264a04e5",
         "type": "tabs",
         "children": [
           {
-            "id": "10a60e688f8fc6f0",
+            "id": "7a1a174dd2fcdaa8",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de sugestoes de investimento para o usuario/personalizacao de sugestoes de investimento para o usuário.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md"
               },
               "icon": "excalidraw-icon",
               "title": "personalizacao de sugestoes de investimento para o usuário"
             }
           },
           {
-            "id": "4197f65b5697aca4",
+            "id": "e4a56de749229caa",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/Drawing 2026-07-07 20.16.01.excalidraw.md"
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-07-07 20.16.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "1-Definição de Domínio do Projeto"
             }
           }
         ],
@@ -300,11 +303,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "4197f65b5697aca4",
+  "active": "e4a56de749229caa",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de noticias para o usuario/personalização de noticias.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/Drawing 2026-07-07 20.16.01.excalidraw.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/personalizacao de sugestoes de investimento para o usuario/personalizacao de sugestoes de investimento para o usuário.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalização de noticias.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/Identidade e Acesso.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario/captura de preferencias do usuário.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
@@ -316,7 +320,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de noticias/Drawing 2026-07-04 12.26.59.excalidraw 1.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/captura de dados da bolsa de valores/Drawing 2026-07-04 12.26.59.excalidraw.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/Identidade e Acesso.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/captura de dados da bolsa de valores/bounded context de captura de dados da bolsa de valores.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/ordem de pagamento",
