@@ -8,53 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7a1a174dd2fcdaa8",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "personalizacao de sugestoes de investimento para o usuário"
-            }
-          },
-          {
-            "id": "e4a56de749229caa",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/contas e transacoes/tranferencia de dinheiro.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "tranferencia de dinheiro"
-            }
-          },
-          {
-            "id": "a837fc299e73967d",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/mapa de dominio.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "mapa de dominio"
-            }
-          },
-          {
             "id": "5ab8650c0171436e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula05/como fazer e executar o DDD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "como fazer e executar o DDD"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 327.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
