@@ -131,7 +131,12 @@ Usuário --> WAF --> CDN --> Servidor de Armazenamento (ex: S3)
 
 
 #### Network LB
+quando usar?
 - trata protocolos TCP e UDP
+- útil quando o IP não pode mudar
+- ex:
+	- usado para provisionamento de código como serviço
+- ultil para comunicações de banco de dados e protocolo MQTT,FTP, SMTP
 
 
 
