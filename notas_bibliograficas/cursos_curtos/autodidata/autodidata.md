@@ -3,6 +3,7 @@ Date: ""
 tags:
   - tecnologia/autodidata
   - tecnologia
+  - autodidata
 ---
 # Notas conectadas:
 
