@@ -109,5 +109,15 @@ aqui iremos falar sobre com uma ação é disparada, isso é importante porque p
 - se quer diminuir o uso do celular, desligue o celular
 - quer beber mais água, deixe uma garrafa de água perto de você 
 
-##### torne o hábito 
+##### crie uma lista de coisas que você quer fazer
+- crie uma lista de quantos pomodoros você quer fazer no dia sobre aquele hábito, com uma lista de tarefas do que você quer fazer, por exemplo:
+	- criar uma tarefa no focusTodo para estudar e definir que você vai estudar 4 pomodoros por dia todo dia, e manter uma lista de tarefas do que você precisa estudar 
+
+##### empilhe ações
+- ao invés de definir um novo ação por si só, coloque ela em conjunto com outra ação.
+- ex:
+	- ❌fazer 10 flexões todo dia
+	- ✔️fazer 10 flexões depois de escovar os dentes
+
+
 
