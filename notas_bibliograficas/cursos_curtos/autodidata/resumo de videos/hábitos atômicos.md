@@ -16,7 +16,7 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-## jornada do objetivo
+## 0.jornada do objetivo
 - objetivos devem gerar identidade
 	- identidade devem se manifestar como metas
 		- metas devem gerar hábitos, 
@@ -26,14 +26,15 @@ table of contents: Create table of contents
 						- resultados invisíveis geram com o tempo resultados visíveis.
 
 
-## crie uma identidade
+## 1.crie uma identidade
 - o invisível é o que gera o visível
 - foque em ser alguém melhor ao invés de focar em realizar um processo/hábito
 	- isso é mais sustentável porque se você cair (não conseguir fazer ou deixar de fazer o que tinha que fazer), você não sente que perdeu/caiu do progresso, você deixa de se sentir mau por ter caído e se foca em ser alguém melhor, alguém que você quer se tornar
 	- psicologicamente é mais sustentável e melhor
 ###### o invisível gera o visível
 
-## como criar metas
+
+## 2.como criar metas
 ### metodologia SMART de definição de metas
 é uma metodologia para criar metas, embora essa nota seja de hábitos, vale destacar que hábitos são uma forma de atingir metas, então essa metodologia ajuda a criar metas melhores para usar nos hábitos para assim você conseguir se tornar alguém melhor.
 
@@ -66,11 +67,7 @@ considerando que você tem a meta de estudar, segue um exemplo de como estrutura
 		- devo aprender  Design Patterns para TypeScript em 2 meses, ou seja no dia DD/MM/AAAA
 
 
-
-
-
-
-## crie um sistema
+## 3.crie um sistema
 - quando for criar um hábito, mensure ele e crie um ambiente para executa-lo, assim você vai ter menor barreira de entrada e vai ser mais simples e fácil para alcançar seus objetivos
 
 ### definição de ambiente para executar:
@@ -85,13 +82,32 @@ considerando que você tem a meta de estudar, segue um exemplo de como estrutura
 - isso permite que você possa fazer coisas por mais tempo, ele prevê um tempo de descanso para o celebro, assim permite que uma coisa cansativa seja menos cansativa, 
 	- sugestão de software para usar a metodologia pomodoro:https://chromewebstore.google.com/detail/focus-to-do-pomodoro-time/ngceodoilcgpmkijopinlkmohnfifjfb?hl=pt-BR
 
-
-
-
-## crie mini objetivos:
+## 4.dicas para executar ações:
 - ao invés de deixar para estudar tudo em um único dia, crie mini objetivos todos os dias, isso vai fazer mais efeito do que simplesmente você tentar estudar tudo em um dia só.
 ###### vale mais a pena estudar 25 minutos todo dia  6 dias por semana do que 10 horas em apenas 1 dia
 
 
-## jornada da execução de uma ação
-o estudo sobre isso é importante porque permite você entender como uma ação é acionada, saber disso te permite criar sistemas para controlar a ativação de determinada ação conscientemente, isso permite tanto tratar ações problematicas como também ajuda a executar ações especificas
+
+### jornada da execução de uma ação
+aqui iremos falar sobre com uma ação é disparada, isso é importante porque permite você saber como ativamente executar uma coisa ou não, é útil para ajudar a começar a fazer uma coisa ou parar de fazer uma ação
+
+1. uma ação pode ser dividida em 4 etapas:
+	- gatilho:
+		- o que desperta você para fazer algo
+	- desejo:
+		- o gatilho gera um desejo em você
+	- resposta:
+		- o desejo gera em você uma resposta, a ação boa ou ruim
+	- recompensa
+		- a ação que você fez gera dopamina ou outro hormônio ou qualquer outra coisa que te dá prazer por ter executado aquilo
+
+#### dicas para como manipular essa jornada de execução de ação:
+##### torne o gatilho óbvio
+- se você tem vicio em cigarro e quer parar, evite estar perto de cigarro
+- se você quer estudar mais, esteja em um lugar que propicie você estudar
+- se quer emagrecer, não compre comidas hipercalóricas
+- se quer diminuir o uso do celular, desligue o celular
+- quer beber mais água, deixe uma garrafa de água perto de você 
+
+##### torne o hábito 
+
