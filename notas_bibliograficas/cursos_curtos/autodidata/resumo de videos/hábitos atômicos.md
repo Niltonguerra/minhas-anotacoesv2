@@ -5,21 +5,32 @@ tags:
   - autodidata/desenvolvimentoPessoal
 ---
 # Resumo da nota:
-no máximo 350 caracteres no resumo.
-exemplo de tamanho:
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-
+nessa nota vimos como alcançar objetivos, vimos o que são objetivos, identidade, metas, hábitos,sistemas,ações e resultados; vimos como eles se relacionam e como alcançar um objetivo, além disso também vimos a jornada da ação e como facilitar a execução da mesma.
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
-
+- [[#0.jornada do objetivo|0.jornada do objetivo]]
+- [[#1.crie uma identidade|1.crie uma identidade]]
+				- [[#o invisível gera o visível|o invisível gera o visível]]
+- [[#2.como criar metas|2.como criar metas]]
+	- [[#2.como criar metas#metodologia SMART de definição de metas|metodologia SMART de definição de metas]]
+		- [[#metodologia SMART de definição de metas#Exemplo usando a metodologia SMART:|Exemplo usando a metodologia SMART:]]
+- [[#3.crie um sistema|3.crie um sistema]]
+	- [[#3.crie um sistema#definição de ambiente para executar:|definição de ambiente para executar:]]
+	- [[#3.crie um sistema#use a metodologia de pomodoro:|use a metodologia de pomodoro:]]
+- [[#4.dicas para executar ações:|4.dicas para executar ações:]]
+				- [[#vale mais a pena estudar 25 minutos todo dia  6 dias por semana do que 10 horas em apenas 1 dia|vale mais a pena estudar 25 minutos todo dia  6 dias por semana do que 10 horas em apenas 1 dia]]
+	- [[#4.dicas para executar ações:#jornada da execução de uma ação|jornada da execução de uma ação]]
+		- [[#jornada da execução de uma ação#dicas para como manipular essa jornada de execução de ação:|dicas para como manipular essa jornada de execução de ação:]]
+			- [[#dicas para como manipular essa jornada de execução de ação:#torne o gatilho óbvio|torne o gatilho óbvio]]
+			- [[#dicas para como manipular essa jornada de execução de ação:#crie uma lista de coisas que você quer fazer|crie uma lista de coisas que você quer fazer]]
+			- [[#dicas para como manipular essa jornada de execução de ação:#empilhe ações|empilhe ações]]
+			- [[#dicas para como manipular essa jornada de execução de ação:#aproveite a jornada|aproveite a jornada]]
+- [[#dica final|dica final]]
 
 # Explicação dos tópicos:
 ## 0.jornada do objetivo
 - objetivos devem gerar identidade
 	- identidade devem se manifestar como metas
-		- metas devem gerar hábitos, 
+		- metas devem gerar hábitos
 			- hábitos são sistemas executados com frequência, 
 				- sistemas geram ações, 
 					- ações geram resultados invisíveis, 
@@ -119,5 +130,12 @@ aqui iremos falar sobre com uma ação é disparada, isso é importante porque p
 	- ❌fazer 10 flexões todo dia
 	- ✔️fazer 10 flexões depois de escovar os dentes
 
+##### aproveite a jornada
+- comemore as pequenas vitórias
 
 
+
+
+
+## dica final
+- revise com frequência seus sistemas, tipo uma vez por semana, a vida muda então é sempre bom ir adaptando os sistemas, sempre sento gentil com sigo mesmo☺️❤️
