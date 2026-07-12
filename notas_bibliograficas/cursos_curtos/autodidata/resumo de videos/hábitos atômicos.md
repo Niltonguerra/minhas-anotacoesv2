@@ -31,23 +31,26 @@ table of contents: Create table of contents
 - ex:
 considerando que quero criar o hábito de estudar todo dia, para aplicar essa metodologia você deve fazer o seguinte:	
 #### metodologia SMART de definição de metas
-- primeiro ponto
-	-  estudar todo dia é uma definição ruim, se você quer estudar todo dia então você quer aprender algo, tendo isso em vista você tem que saber o que quer aprender, ou seja precisa ter uma visão geral do que quer aprender.
-	- tendo isso vista, vamos considerar que você quer aprender Typescript.
 
 ##### Exemplo usando a metodologia SMART:
 - **S**pecific (Específica):
-	- quero aprender typeScript
+	- você precisa tornar a meta especifica, não pode ser apenas estudar, precisa ser algo mais clara que só estudar, por que por exemplo: você pode estudar, mas você pode estudar econômia, artes, ciências, estudar não diz nada.
+	- exemplo de tornar uma meta específica:
+		- quero aprender  Design Patterns para TypeScript
 - **M**easurable (Mensurável):
-	- Quero saber 
+	- você precisa definir o que você quer fazer, não basta falar quero e
+	- exemplo de tornar uma meta Mensurável:
+		- quero aprender o que é, quando usar, e os principais tipos de design patterns e também criar um projeto que mostre o funcionamento dos mesmo 
 - **A**ttainable (Atingível):
-	- 
+	- nessa parte não tem mui
 - **R**elevant (Relevante)**R**elevant (Relevante):
 	- 
 - **T**ime-bound (Prazo / Duração):
-	- 
-	
-- e definição de ambiente para executar:
+	- exemplo de tornar uma meta:
+
+
+
+#### definição de ambiente para executar:
 - 
 
 
