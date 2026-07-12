@@ -29,8 +29,25 @@ table of contents: Create table of contents
 ### crie um sistema
 - quando for criar um hábito, mensure ele e crie um ambiente para executa-lo, assim você vai ter menor barreira de entrada e vai ser mais simples e fácil para alcançar seus objetivos
 - ex:
-	- considerando que quero criar o hábito de estudar todo dia, para aplicar essa metodologia você deve fazer o seguinte:
-	- metodologia STAR de definição de metas:
-		- 
-	- e definição de ambiente para executar:
+considerando que quero criar o hábito de estudar todo dia, para aplicar essa metodologia você deve fazer o seguinte:	
+#### metodologia SMART de definição de metas
+- primeiro ponto
+	-  estudar todo dia é uma definição ruim, se você quer estudar todo dia então você quer aprender algo, tendo isso em vista você tem que saber o que quer aprender, ou seja precisa ter uma visão geral do que quer aprender.
+	- tendo isso vista, vamos considerar que você quer aprender Typescript.
+
+##### Exemplo usando a metodologia SMART:
+- **S**pecific (Específica):
+	- quero aprender typeScript
+- **M**easurable (Mensurável):
+	- Quero saber 
+- **A**ttainable (Atingível):
 	- 
+- **R**elevant (Relevante)**R**elevant (Relevante):
+	- 
+- **T**ime-bound (Prazo / Duração):
+	- 
+	
+- e definição de ambiente para executar:
+- 
+
+
