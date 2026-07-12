@@ -85,7 +85,7 @@ para explicar o que são, vou explicar o porque se precisa dela.
 
 ##### passo 1: cliente inicia a conexão
 o cliente acessa seu site, nesse momento ele manda as seguintes informações:
-- lista d opções  de algoritmos de criptografia que ele suporta
+- lista de opções  de algoritmos de criptografia que ele suporta
 	- (no caso lista de algoritmos de criptografia que o browser suporta)
 - Client Random
 	- é um numero aleatório gerado pelo cliente
@@ -97,15 +97,17 @@ o servidor recebe as informações, escolhe um algoritmo do client e retorna:
 - Server Random
 	- um numero aleatório gerado pelo servidor
 
-chave de sessão
 ##### passo 3: o cliente aceita a request valida e valida a CA
 o cliente pega as informações do servidor e faz o seguinte:
 - consulta se a CA é valida
 	- isso quer dizer que valida o seguinte:
-	  - valida se o certificado emitido pela  CA informada está no seu banco de dados
-	    - sim, a CA faz essa atualização de sua certificação junto ao browser
-	  - valida se já expirou a certificação
-	  - valida se o domínio atrelado ao certificado é o mesmo domínio acessado
+	- valida se o certificado emitido pela  CA informada está no banco de dados do  browser
+		- sim, a CA faz essa atualização de sua certificação junto ao browser
+	- além disso também valida:
+		- se já expirou a certificação
+		- se o domínio atrelado ao certificado é o mesmo domínio acessado
+
+
 
 ##### passo 4: geração da Pre-Master Secret
 - usando a chave pública do servidor(que está contida no certificado emitido dela CA que é referente ao domínio referente ao servidor) gera um novo numero chamado **Pre-Master Secret** 
@@ -114,7 +116,7 @@ o cliente pega as informações do servidor e faz o seguinte:
 > vale destacar que o real valor da Pre-Master Secret não é o valor dela em si, mas o valor que o cliente gerou e que está codificado pela chave pública da certificação da CA
 
 ##### passo 5: envio da Pre-Master Secret e geração da chave de sessão
-- depois de fazer a criação da Pre-Master Secret o cliente envia para o servidor Pre-Master Secret e se segue os seguintes coisas:
+- depois de fazer a criação da Pre-Master Secret o cliente envia para o servidor a Pre-Master Secret e se segue os seguintes eventos:
   - o servidor e o cliente com as 3 informações:
     - Server Random
     - Client Random 
