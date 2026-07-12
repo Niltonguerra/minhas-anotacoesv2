@@ -38,9 +38,9 @@ considerando que quero criar o hábito de estudar todo dia, para aplicar essa me
 	- exemplo de tornar uma meta específica:
 		- quero aprender  Design Patterns para TypeScript
 - **M**easurable (Mensurável):
-	- você precisa definir o que você quer fazer, não basta falar quero e
+	- já com a definição do que quer fazer, você agora deve dar uma estudada por cima para saber o escopo do que você quer fazer, e definir dentro do escopo do que você quer fazer objetivos mensuráveis
 	- exemplo de tornar uma meta Mensurável:
-		- quero aprender o que é, quando usar, e os principais tipos de design patterns e também criar um projeto que mostre o funcionamento dos mesmo 
+		- quero aprender o que é, quando usar, e os principais tipos de design patterns e também criar um projeto que mostre o funcionamento do design patterns
 - **A**ttainable (Atingível):
 	- nessa parte não tem mui
 - **R**elevant (Relevante)**R**elevant (Relevante):
