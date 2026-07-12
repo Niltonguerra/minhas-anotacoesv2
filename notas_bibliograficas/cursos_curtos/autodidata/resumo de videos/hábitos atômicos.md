@@ -16,6 +16,16 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+## jornada do objetivo
+- objetivos devem gerar identidade
+	- identidade devem se manifestar como metas
+		- metas devem gerar hábitos, 
+			- hábitos são sistemas executados com frequência, 
+				- sistemas geram ações, 
+					- ações geram resultados invisíveis, 
+						- resultados invisíveis geram com o tempo resultados visíveis.
+
+
 ## crie uma identidade
 - o invisível é o que gera o visível
 - foque em ser alguém melhor ao invés de focar em realizar um processo/hábito
@@ -23,27 +33,11 @@ table of contents: Create table of contents
 	- psicologicamente é mais sustentável e melhor
 ###### o invisível gera o visível
 
-
-## crie um sistema
-- quando for criar um hábito, mensure ele e crie um ambiente para executa-lo, assim você vai ter menor barreira de entrada e vai ser mais simples e fácil para alcançar seus objetivos
-
-### definição de ambiente para executar:
-- crie um ambiente próprio para executar aquele hábito.
-- isso faz o seu celebro entender que sempre que você for para aquele lugar você vai estudar e diminui a barreira de entrada para iniciar o processo e melhora a qualidade geral do tempo de estudo
-- ex:
-	- um lugar especifico para estudar, com mesa, cadeira, computador e etc
-	- deixar suas vitaminas no banheiro para facilitar tomar todos os dias.
-
-
-### use a metodologia de pomodoro:
-- isso permite que você possa fazer coisas por mais tempo, ele prevê um tempo de descanso para o celebro, assim permite que uma coisa cansativa seja menos cansativa, 
-	- sugestão de software para usar a metodologia pomodoro:https://chromewebstore.google.com/detail/focus-to-do-pomodoro-time/ngceodoilcgpmkijopinlkmohnfifjfb?hl=pt-BR
-
-
-## metodologia SMART de definição de metas
+## como criar metas
+### metodologia SMART de definição de metas
 é uma metodologia para criar metas, embora essa nota seja de hábitos, vale destacar que hábitos são uma forma de atingir metas, então essa metodologia ajuda a criar metas melhores para usar nos hábitos para assim você conseguir se tornar alguém melhor.
 
-### Exemplo usando a metodologia SMART:
+#### Exemplo usando a metodologia SMART:
 considerando que você tem a meta de estudar, segue um exemplo de como estruturar sua meta de acordo com a metodologia SMART.
 
 - **S**pecific (Específica):
@@ -73,11 +67,31 @@ considerando que você tem a meta de estudar, segue um exemplo de como estrutura
 
 
 
+
+
+
+## crie um sistema
+- quando for criar um hábito, mensure ele e crie um ambiente para executa-lo, assim você vai ter menor barreira de entrada e vai ser mais simples e fácil para alcançar seus objetivos
+
+### definição de ambiente para executar:
+- crie um ambiente próprio para executar aquele hábito.
+- isso faz o seu celebro entender que sempre que você for para aquele lugar você vai estudar e diminui a barreira de entrada para iniciar o processo e melhora a qualidade geral do tempo de estudo
+- ex:
+	- um lugar especifico para estudar, com mesa, cadeira, computador e etc
+	- deixar suas vitaminas no banheiro para facilitar tomar todos os dias.
+
+
+### use a metodologia de pomodoro:
+- isso permite que você possa fazer coisas por mais tempo, ele prevê um tempo de descanso para o celebro, assim permite que uma coisa cansativa seja menos cansativa, 
+	- sugestão de software para usar a metodologia pomodoro:https://chromewebstore.google.com/detail/focus-to-do-pomodoro-time/ngceodoilcgpmkijopinlkmohnfifjfb?hl=pt-BR
+
+
+
+
 ## crie mini objetivos:
 - ao invés de deixar para estudar tudo em um único dia, crie mini objetivos todos os dias, isso vai fazer mais efeito do que simplesmente você tentar estudar tudo em um dia só.
 ###### vale mais a pena estudar 25 minutos todo dia  6 dias por semana do que 10 horas em apenas 1 dia
 
 
-
-
-
+## jornada da execução de uma ação
+o estudo sobre isso é importante porque permite você entender como uma ação é acionada, saber disso te permite criar sistemas para controlar a ativação de determinada ação conscientemente, isso permite tanto tratar ações problematicas como também ajuda a executar ações especificas
