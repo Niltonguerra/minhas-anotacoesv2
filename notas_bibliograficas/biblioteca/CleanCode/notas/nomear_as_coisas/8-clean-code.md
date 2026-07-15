@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2026-07-15T19:14:00
 tags:
   - Livros/CleanCode
 Livro: CleanCode
@@ -15,7 +15,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 - quando for nomear
 	- de preferencia para nomes do dominio da area de tecnologia
 		- ex: jobQueue,fila, 
-	- se não der para dar um nome de tecnologia
+	- se não der para dar um nome de tecnologia, use um nome do domínio do projeto
+	- ex:
+		- considerando um projeto de finanças, use nomes como: politica de risco, politica de crédito e etc
 
 
 
