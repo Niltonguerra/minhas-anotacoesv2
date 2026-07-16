@@ -4,22 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "3728c167a9f35b3a",
+        "id": "c01571bc94d03850",
         "type": "tabs",
         "children": [
           {
-            "id": "b4a4438a823d6139",
+            "id": "2f69cadaae0d6b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_passageiras/está no google notas.md",
+                "file": "notas_bibliograficas/biblioteca/CleanCode/notas/nomear_as_coisas/8-clean-code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "está no google notas"
+              "title": "8-clean-code"
+            }
+          },
+          {
+            "id": "cd3c6721926a3bba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/biblioteca/CleanCode/onde parou.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "onde parou"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e3488164c28166fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee31dedc26fec97c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
+                "page": 36,
+                "left": -16,
+                "top": 977,
+                "zoom": 0.9531980485251244
+              },
+              "icon": "lucide-file-text",
+              "title": "Codigo Limpo - Completo PT"
             }
           }
         ]
@@ -290,13 +327,21 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b4a4438a823d6139",
+  "active": "2f69cadaae0d6b0b",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
-    "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
-    "notas_bibliograficas/cursos_curtos/autodidata/ingles",
     "notas_bibliograficas/biblioteca/CleanCode/onde parou.md",
     "notas_bibliograficas/biblioteca/CleanCode/notas/nomear_as_coisas/8-clean-code.md",
+    "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260521074448.png",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260512083756.png",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260506070031.png",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260409085158.png",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260408163225.png",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260408162933.png",
+    "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260329183040.png",
+    "notas_passageiras/está no google notas.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/ingles",
     "notas_bibliograficas/biblioteca/CleanCode/notas/nomear_as_coisas/7-clean-code.md",
     "notas_bibliograficas/cursos_curtos/autodidata/resumo de videos/hábitos atômicos.md",
     "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
@@ -319,7 +364,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling/personalizacao de sugestoes de investimento para o usuário.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/1-Definição de Domínio do Projeto.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/2-contextos delimitados(bounded context).md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/big picture.md",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1",
@@ -330,13 +374,6 @@
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210429.png",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260628163645.png",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260625095444.png",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260625094500.png",
-    "notas_bibliograficas/saude/treinos/academia/Captura de tela de 2026-01-14 13-51-51.png",
-    "notas_bibliograficas/saude/treinos/academia/Captura de tela de 2026-01-14 13-51-23.png",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo5/img/Pasted image 20260621145637.png",
     "Sem título.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
