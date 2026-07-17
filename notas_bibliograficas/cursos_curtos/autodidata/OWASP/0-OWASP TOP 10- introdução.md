@@ -26,11 +26,14 @@ table of contents: Create table of contents
 ### explicação do que é:
 é quanto falta regras de controle de acesso a recursos no sistema.
 
-- aprofundamento:[[A01-2025 Broken Access Control]]
 
+
+- aprofundamento:[[A01-2025 Broken Access Control]]
 
 ## A02:2025 — Security Misconfiguration
 ### explicação do que é:
+
+
 
 - aprofundamento:[[A02-2025 Security Misconfiguration]]
 
@@ -38,20 +41,23 @@ table of contents: Create table of contents
 ### explicação do que é:
 
 
+
 - aprofundamento:[[A03-2025 — Software Supply Chain Failures]]
+
 ## A04:2025 — Cryptographic Failures
 ### explicação do que é:
 
 
-- aprofundamento:[[A04-2025 — Cryptographic Failures]]
 
+- aprofundamento:[[A04-2025 — Cryptographic Failures]]
 
 ## A05:2025 — Injection
 ### explicação do que é:
 
 
-- aprofundamento:[[A05-2025 — Injection]]
 
+
+- aprofundamento:[[A05-2025 — Injection]]
 
 ## A06:2025 — Insecure Design
 ### explicação do que é:
@@ -60,9 +66,9 @@ table of contents: Create table of contents
 
 - aprofundamento:[[A06-2025 — Insecure Design]]
 
-
 ## A07:2025 — Authentication Failures
 ### explicação do que é:
+
 
 
 - aprofundamento:[[A07-2025 — Authentication Failures]]
