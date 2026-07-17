@@ -16,7 +16,10 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## explicação do que é:
 
+
+## tipo de manifestação:
 
 
 
