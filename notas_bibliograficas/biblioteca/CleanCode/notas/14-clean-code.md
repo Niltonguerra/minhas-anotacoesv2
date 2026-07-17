@@ -4,7 +4,7 @@ tags:
   - Livros/CleanCode
 Livro: CleanCode
 ---
-# Resumo da nota:
+![[Codigo Limpo - Completo PT.pdf#page=52&rect=33,103,656,320|Codigo Limpo - Completo PT, p.52]]# Resumo da nota:
 nessa nota vimos que funções não devem fazer mais coisas do que falam que fazem e também vimos nessa nota que uma função deve ou alterar o estado de algo ou retornar uma informação, não se deve fazer os dois.
 
 
@@ -27,7 +27,7 @@ nessa nota vimos que funções não devem fazer mais coisas do que falam que faz
 
 
 ##### Separação comando-consulta
-as funções fazem duas coisas:
+as funções fazer apenas uma dessas duas coisas:
 - alterar o estado de um objeto
 - retorna informações sobre ele
 
