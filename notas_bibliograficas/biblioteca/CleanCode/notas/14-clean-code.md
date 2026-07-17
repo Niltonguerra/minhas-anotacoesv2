@@ -4,7 +4,7 @@ tags:
   - Livros/CleanCode
 Livro: CleanCode
 ---
-![[Codigo Limpo - Completo PT.pdf#page=52&rect=33,103,656,320|Codigo Limpo - Completo PT, p.52]]# Resumo da nota:
+# Resumo da nota:
 nessa nota vimos que funções não devem fazer mais coisas do que falam que fazem e também vimos nessa nota que uma função deve ou alterar o estado de algo ou retornar uma informação, não se deve fazer os dois.
 
 
