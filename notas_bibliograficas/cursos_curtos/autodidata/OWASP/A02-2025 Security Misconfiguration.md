@@ -24,7 +24,11 @@ table of contents: Create table of contents
 o próprio nome fala, erro de configuração, mais precisamente erro de configuração de infraestrutura(ex:kubernetes,containers, security groups abertos e etc)
 
 ## tipo de manifestação:
-
+- Headers de segurança ausentes (CSP, HSTS, X-Frame-Options).
+- Contas ou credenciais default não alteradas.
+- Serviços/portas desnecessários expostos.
+- Permissões excessivas em recursos de nuvem (Security Groups abertos, buckets S3 públicos) — direto ligado a AWS/VPC.
+- XXE (XML External Entity) por parser XML mal configurado, aceitando entidades externas.
 
 
 

@@ -40,19 +40,16 @@ Lição:tenha mais cuidado ao fazer a configuração e tente sempre usar infraes
 
 
 ## A03:2025 — Software Supply Chain Failures
-explicação do que é:
-
-aprofundamento:[[A03-2025 — Software Supply Chain Failures]]
-
-Lição:
+explicação do que é: sempre manter seu ecossistema atualizado, ou seja, dependências, sistemas de build e infraestrutura de distribuição
+Lição: sempre atualize suas dependências
 
 
 
 
 ## A04:2025 — Cryptographic Failures
-explicação do que é:
+explicação do que é: esse ponto fala para implementar com mais cuidado a criptografia de dados
 aprofundamento:[[A04-2025 — Cryptographic Failures]]
-Lição:
+Lição: cuidado ao configurar a criptografia
 
 
 ## A05:2025 — Injection

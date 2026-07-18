@@ -16,12 +16,16 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## explicação do que é: 
+esse ponto fala para implementar com mais cuidado a criptografia de dados
 
 
 
-
-
-
+## tipo de manifestação:
+- TLS mal configurado ou ausente em trânsito.
+- Hash de senha fraco (MD5, SHA1 sem salt) em vez de bcrypt/Argon2.
+- Chaves de assinatura hardcoded no código.
+- JWT com `alg: none` aceito, ou assinado com chave fraca/previsível.
 
 
 
