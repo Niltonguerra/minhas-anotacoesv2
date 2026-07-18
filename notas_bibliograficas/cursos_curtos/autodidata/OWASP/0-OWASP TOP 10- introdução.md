@@ -24,81 +24,73 @@ table of contents: Create table of contents
 
 ## A01:2025 — Broken Access Control
 ### explicação do que é:
-é quanto falta regras de controle de acesso a recursos no sistema.
+descrição: é quanto falta regras de controle de acesso a recursos no sistema.
 
+aprofundamento: [[A01-2025 Broken Access Control]]
 
+Lição: nunca confie, sempre valide as credenciais
 
-- aprofundamento:[[A01-2025 Broken Access Control]]
 
 ## A02:2025 — Security Misconfiguration
-### explicação do que é:
+explicação do que é:o próprio nome fala, erro de configuração, mais precisamente erro de configuração de infraestrutura(ex:kubernetes,containers, security groups abertos e etc)
 
+aprofundamento:[[A02-2025 Security Misconfiguration]]
 
+Lição:tenha mais cuidado ao fazer a configuração e tente sempre usar infraestrutura como código(terraform,kubernetes, ansible) para facilitar a auditação
 
-- aprofundamento:[[A02-2025 Security Misconfiguration]]
 
 ## A03:2025 — Software Supply Chain Failures
-### explicação do que é:
+explicação do que é:
+
+aprofundamento:[[A03-2025 — Software Supply Chain Failures]]
+
+Lição:
 
 
 
-- aprofundamento:[[A03-2025 — Software Supply Chain Failures]]
 
 ## A04:2025 — Cryptographic Failures
-### explicação do que é:
+explicação do que é:
+aprofundamento:[[A04-2025 — Cryptographic Failures]]
+Lição:
 
-
-
-- aprofundamento:[[A04-2025 — Cryptographic Failures]]
 
 ## A05:2025 — Injection
-### explicação do que é:
+explicação do que é:
+aprofundamento:[[A05-2025 — Injection]]
+Lição:
 
 
-
-
-- aprofundamento:[[A05-2025 — Injection]]
 
 ## A06:2025 — Insecure Design
-### explicação do que é:
+explicação do que é:
+aprofundamento:[[A06-2025 — Insecure Design]]
+Lição:
 
 
-
-- aprofundamento:[[A06-2025 — Insecure Design]]
 
 ## A07:2025 — Authentication Failures
-### explicação do que é:
+explicação do que é:
+aprofundamento:[[A07-2025 — Authentication Failures]]
+Lição:
 
 
-
-- aprofundamento:[[A07-2025 — Authentication Failures]]
 
 ## A08:2025 — Software or Data Integrity Failures
-### explicação do que é:
-
-
-
-
-- aprofundamento:[[A08-2025 — Software or Data Integrity Failures]]
-
+explicação do que é:
+aprofundamento:[[A08-2025 — Software or Data Integrity Failures]]
+Lição:
 
 ## A09:2025 — Security Logging and Alerting Failures
-### explicação do que é:
-
-
-
-- aprofundamento:[[A09-2025 — Security Logging and Alerting Failures]]
-
+explicação do que é:
+aprofundamento:[[A09-2025 — Security Logging and Alerting Failures]]
+Lição:
 
 
 ## A10:2025 — Mishandling of Exceptional Conditions
-
-### explicação do que é:
-
-
-
-- aprofundamento:[[A10-2025 — Mishandling of Exceptional Conditions]]
-
+explicação do que é:
+aprofundamento:[[A10-2025 — Mishandling of Exceptional Conditions]]
+Lição:
 
 
 

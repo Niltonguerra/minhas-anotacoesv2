@@ -16,7 +16,9 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-- 3,73% das aplicações testadas afetadas · 40 CWEs
+> [!porcentagem de sites com problemas disso na pesquisa]
+> 3,73% das aplicações testadas afetadas · 40 CWEs
+
 ## explicação do que é:
 é quanto falta regras de controle de acesso a recursos no sistema.
 

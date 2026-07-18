@@ -16,8 +16,12 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## explicação do que é:
+> [!porcentagem de sites com problemas disso na pesquisa]
+> ~3,00% das aplicações afetadas · 16 CWEs
 
+
+## explicação do que é:
+o próprio nome fala, erro de configuração, mais precisamente erro de configuração de infraestrutura(ex:kubernetes,containers, security groups abertos e etc)
 
 ## tipo de manifestação:
 
