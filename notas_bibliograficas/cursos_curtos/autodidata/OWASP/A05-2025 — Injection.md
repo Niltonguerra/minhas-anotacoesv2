@@ -23,8 +23,14 @@ table of contents: Create table of contents
 
 ## tipo de manifestação:
 - SQL Injection (baixa frequência hoje em frameworks modernos, mas alto impacto).
-- XSS — Cross-Site Scripting (alta frequência, impacto geralmente mais baixo por request, mas afeta muitos usuários).
+	- comando SQL enviado para servidor
+
+- XSS — Cross-Site Scripting 
+	- (alta frequência, impacto geralmente mais baixo por request, mas afeta muitos usuários).
+	- injeção de javascript
+
 - Command Injection (execução de comando no SO).
+	- aquele prompt que aparece por 0,5 segundos ao ligar o computador e tranca o cú,kkkkkk
 
 
 
