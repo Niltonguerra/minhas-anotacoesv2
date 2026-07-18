@@ -53,9 +53,9 @@ Lição: cuidado ao configurar a criptografia
 
 
 ## A05:2025 — Injection
-explicação do que é:
+explicação do que é: é quando um dado não confiável é interpretado como comando ou código pelo seu sistema
 aprofundamento:[[A05-2025 — Injection]]
-Lição:
+Lição: faça uma tratativa nos seus campos para no frontend para evitar a injeção de dados maliciosos
 
 
 

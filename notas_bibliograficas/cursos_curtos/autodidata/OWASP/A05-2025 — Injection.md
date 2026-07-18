@@ -16,9 +16,15 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## explicação do que é: 
+é quando um dado não confiável é interpretado como comando ou código pelo seu sistema
 
 
 
+## tipo de manifestação:
+- SQL Injection (baixa frequência hoje em frameworks modernos, mas alto impacto).
+- XSS — Cross-Site Scripting (alta frequência, impacto geralmente mais baixo por request, mas afeta muitos usuários).
+- Command Injection (execução de comando no SO).
 
 
 
