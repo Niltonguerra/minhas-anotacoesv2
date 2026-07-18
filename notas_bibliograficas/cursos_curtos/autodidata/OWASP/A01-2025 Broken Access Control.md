@@ -21,24 +21,43 @@ table of contents: Create table of contents
 é quanto falta regras de controle de acesso a recursos no sistema.
 
 ## tipo de manifestação:
-- IDOR (Insecure Direct Object Reference)
+- #### IDOR (Insecure Direct Object Reference)
 	- é quanto um usuário pode acessar a página de outro usuário se apenas trocando o id da página simplesmente porque o desenvolvedor não chegou a implementar no backend uma validação para que só o dono daquelas informações pode-se ter acesso aquele recurso do sistema
 
-- **BOLA / BFLA** (Broken Object/Function Level Authorization):
+- #### **BOLA / BFLA** (Broken Object/Function Level Authorization):
 	- dar permissão para uma função/endpoint que na verdade não deveria ter acesso
 
-- usuário comum virando administrador por falta de checagem
+- #### usuário comum virando administrador por falta de checagem
 
-- CORS
+- #### CORS
 	- mal configuramento do cors permitindo assim acesso não confiável
 
-- manipulação de token
+- #### manipulação de token
 	- falsificação de tokens JWT
 	- claims forjadas
-		- 
+- ##### o que é um claims?
+	- são um grupo de dados de chave valor contidos dentro do token(esse token pode ser um JWT)
+	- o JWT tem 3 partes, saber:
+		- header
+		- payload
+		- signature
+	- o claims ficam no payload
+	- ex:
+```
+{
+  "sub": "12345",
+  "name": "João Silva",
+  "role": "user",
+  "iat": 1721260800,
+  "exp": 1721264400
+}
+```
 
-#### o que é um claims?
-- 
+
+#### SSRF (Server-Side Request Forgery)
+- é tipo de ataque que engana o servidor para enviar uma requisição http para outro servidor
+##### por que é perigoso?
+- normalmente sistema tendem a confiar em recursos internos então não tem tantas medidas de segurança, dessa forma tem o perigo de haver um ataque 
 
 
 

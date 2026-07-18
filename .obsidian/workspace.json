@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0-OWASP TOP 10- introdução"
+              "title": "A01-2025 Broken Access Control"
             }
           },
           {
@@ -37,7 +37,8 @@
               "title": "A01-2025 Broken Access Control"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -280,7 +281,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 464.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,8 +307,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "73d665f89d5b73b6",
+  "active": "803c68347e9806a7",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A02-2025 Security Misconfiguration.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A03-2025 — Software Supply Chain Failures.md",
@@ -317,7 +320,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP",
     "notas_bibliograficas/biblioteca/CleanCode/onde parou.md",
     "notas_bibliograficas/biblioteca/CleanCode/notas/14-clean-code.md",
