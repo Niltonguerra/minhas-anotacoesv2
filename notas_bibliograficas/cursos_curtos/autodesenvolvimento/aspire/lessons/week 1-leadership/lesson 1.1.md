@@ -3,6 +3,8 @@ Date: 2025-04-21T19:08:00
 tags:
   - AspireLeaders
   - liderança
+  - autodesenvolvimento
+  - autodesenvolvimento/AspireLeaders
 ---
 # Resumo da nota:
 Leadership is important because it can impact both the individual and the environment in which they live in many ways. It contributes to the improvement of communities, promotes local and national economic advancements, and acts as an agent of transformation in processes of change. In addition, leadership strengthens the professional development of individuals, encourages collaboration and enables connections on a global level.

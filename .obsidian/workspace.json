@@ -11,10 +11,15 @@
             "id": "5f130d5e7238679b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "aula 01"
             }
           }
         ]
@@ -106,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -288,6 +294,16 @@
   },
   "active": "5f130d5e7238679b",
   "lastOpenFiles": [
+    "Pasted image 20260723123030.png",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.1.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.5.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.4.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.3.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.2.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
@@ -308,8 +324,6 @@
     "notas_bibliograficas/biblioteca/CleanCode/notas/12-clean-code-dois-parametros-e-tres-parametros.md",
     "notas_bibliograficas/biblioteca/CleanCode/notas/13-clean-code-parametros-de-saida.md",
     "notas_bibliograficas/biblioteca/CleanCode/notas/10-clean-code-switch is bad.md",
-    "notas_bibliograficas/biblioteca/CleanCode/notas/9-clean-code-funcoes-pequenas.md",
-    "notas_bibliograficas/biblioteca/CleanCode/notas/8.1-clean-code.md",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260521074448.png",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260512083756.png",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260506070031.png",
@@ -317,20 +331,12 @@
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260408163225.png",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260408162933.png",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260329183040.png",
-    "notas_passageiras/está no google notas.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
     "notas_bibliograficas/cursos_curtos/autodidata/ingles",
-    "notas_bibliograficas/biblioteca/CleanCode/notas/7-clean-code.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/resumo de videos/hábitos atômicos.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/Core Web Vitals/part_1_levantamento_de_informacoes.md",
     "notas_bibliograficas/cursos_curtos/autodidata/resumo de videos",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/sistema gerenciador de criptomoedas",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/bounded context/gestão de preferencias do usuario",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1",
     "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/v1/Process Modeling",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-mostrar o que sei/DDD/bounded context/ordem de pagamento",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula06/DDD - Aula 6 - PÓS-GRADUAÇÃO ON.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210721.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210654.png",
     "notas_bibliograficas/cursos_longos/FIAP/modulo2/img/Pasted image 20260629210442.png",
