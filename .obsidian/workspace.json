@@ -4,56 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c01571bc94d03850",
+        "id": "64cdd73015f5e8f2",
         "type": "tabs",
         "children": [
           {
-            "id": "87104af57f6ff8f4",
+            "id": "5f130d5e7238679b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "A04-2025 — Cryptographic Failures"
-            }
-          },
-          {
-            "id": "980d5842ed018476",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "0-OWASP TOP 10- introdução"
-            }
-          },
-          {
-            "id": "77354266845b82bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "A05-2025 — Injection"
+              "title": "Nova aba"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +260,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 464.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,19 +286,19 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "77354266845b82bc",
+  "active": "5f130d5e7238679b",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A02-2025 Security Misconfiguration.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A03-2025 — Software Supply Chain Failures.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A03-2025 — Software Supply Chain Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A10-2025 — Mishandling of Exceptional Conditions.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A08-2025 — Software or Data Integrity Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A09-2025 — Security Logging and Alerting Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP",
     "notas_bibliograficas/biblioteca/CleanCode/onde parou.md",
     "notas_bibliograficas/biblioteca/CleanCode/notas/14-clean-code.md",
