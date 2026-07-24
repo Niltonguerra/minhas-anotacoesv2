@@ -44,4 +44,35 @@ meu nome é nilton, tenho 24 anos, tenho uma graduação uma formação técnica
 
 
 
-## metodo STA
+## método STAR
+### S - situação
+Qual era o contexto? Onde e quando isso aconteceu?
+
+
+### T- tarefa
+Qual era a sua responsabilidade ou objetivo?
+
+
+### A - ação
+O que você fez, especificamente? Quais foram os passos?
+
+### R - resultado
+Qual foi o impacto das suas ações? Você pode quantificar?
+
+### exemplo:
+situação:
+durante a minha pós-graduação
+
+tarefa:
+eu e o grupo que fazia parte precisávamos desenvolver um projeto para ser entregue
+
+ação:
+para isso todo mundo do grupo conversar, criamos um board no software jira da atlassian para acompanhar no projeto usando metodologias ágeis
+
+
+resultado:
+através dessa forma, sempre conseguíamos entregar o projeto uma semana antes do fim do prazo estipulado pela faculdade
+
+
+
+
