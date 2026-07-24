@@ -18,7 +18,11 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 - visão geral do que cada processo seletivo contempla e para quem é:
-![[Pasted image 20260723123030.png]]
+![[Pasted image 20260723123030.png|1025]]
 
 
-
+## como explicar quem é você:
+- tenha começo meio e fim
+	- ex:
+	- para explicar que você é uma pessoa organizada você poderia explicar:
+		- durante meu periodo da faculdade, em meio estudar e desenvolver projetos de projetos de programação, vi que um código pode funcionar, mas se ele não estiver organizado ela fica difícil de se manter, querendo ou não acabei me deparando com um problema que os primeiros programadores viram, tanto que desenvolveram o design patte
