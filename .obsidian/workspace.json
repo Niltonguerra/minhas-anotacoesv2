@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "6d280047996c7655",
@@ -265,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -290,7 +291,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "5f130d5e7238679b",
   "lastOpenFiles": [
     "Pasted image 20260723123030.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.1.md",
