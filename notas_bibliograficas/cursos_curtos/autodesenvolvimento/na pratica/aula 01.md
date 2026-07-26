@@ -2,7 +2,7 @@
 Date: 2026-07-23T12:24:00
 tags:
   - autodesenvolvimento/naPratica
-  - naPratica
+  - autodesenvolvimento
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
