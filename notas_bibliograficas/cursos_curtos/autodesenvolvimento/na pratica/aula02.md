@@ -18,4 +18,7 @@ table of contents: Create table of contents
 
 muitas vagas são disponibilizadas no mercado de rede de contatos... assustador...
 
+use o método star para descrever suas atividades no currículo
 
+
+peça indicação das pessoas que já trabalhou
