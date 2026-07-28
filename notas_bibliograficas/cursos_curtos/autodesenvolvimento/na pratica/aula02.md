@@ -22,3 +22,5 @@ use o método star para descrever suas atividades no currículo
 
 
 peça indicação das pessoas que já trabalhou
+
+
