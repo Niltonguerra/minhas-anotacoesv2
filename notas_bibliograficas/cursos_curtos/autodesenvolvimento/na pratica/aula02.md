@@ -24,3 +24,24 @@ use o método star para descrever suas atividades no currículo
 peça indicação das pessoas que já trabalhou
 
 
+o que o seu currículo deve ter:
+- cabeçalho
+	- contato
+	- nome
+	- cargo desejado
+	- LinkedIn
+	- endereço
+- objetivos profissional
+	- resumo profissional
+- formações acadêmicas
+- experiências profissionais
+- descreva conquistas usando a metodologia star
+	- ex:[[aula 01]]
+- cursos e certificações
+- idiomas
+- habilidades técnicas
+- atividades complementares ou extracurriculares
+
+
+
+54% dos recrutadores demoram menos de 30 segundos para avaliar um currículo.
