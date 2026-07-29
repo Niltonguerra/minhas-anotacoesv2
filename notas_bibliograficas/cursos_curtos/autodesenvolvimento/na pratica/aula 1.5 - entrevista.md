@@ -39,6 +39,16 @@ table of contents: Create table of contents
 - estudar a empresa
 - 
 
+## dicas sobre processo seletivo:
+1️⃣ **Estude sobre processos seletivos** e como ter um bom desempenho de ponta a ponta.
+
+2️⃣ **Pesquise sobre a empresa que deseja uma vaga**, pois faz total diferença na interação com os recrutadores.
+
+3️⃣ **NÃO pergunte para o recrutador sobre o que é a empresa, mas sim COMO a empresa atuou em determinado projeto, por exemplo.** Isso mostra que você fez uma pesquisa prévia.
+
+4️⃣ **Venda o seu pitch, claro, mas reserve um tempo para escutar do recrutador mais sobre a empresa.** Isso mostra que você tem um interesse genuíno de fazer parte da organização.
+
+5️⃣ **Peça o LinkedIn dos recrutadores, mas não esqueça de atualizar o seu perfil antes do evento.**
 
 
 ## 20 perguntas mais comuns na entrevista:
