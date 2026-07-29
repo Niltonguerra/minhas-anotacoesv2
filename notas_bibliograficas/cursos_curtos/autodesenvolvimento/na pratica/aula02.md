@@ -47,6 +47,18 @@ o que o seu currículo deve ter:
 54% dos recrutadores demoram menos de 30 segundos para avaliar um currículo.
 
 
-## ATS (Applicant Tracking Systems)
-- robô que peneira seu currículo
-- 
+- ATS (Applicant Tracking Systems)
+	- robô que peneira seu currículo
+
+
+
+## testes em processos seletivos
+### testes
+- teste de lógica
+	- aqueles testes chatos e sem sentido que são de QI
+  - teste de inglês e/ou espanhol
+  - teste de personalidade ou estilos de trabalho
+  - testes técnicos
+  - testes de atenção e memória
+
+### dinâmica em grupo
