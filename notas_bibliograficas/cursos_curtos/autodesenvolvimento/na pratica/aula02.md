@@ -15,16 +15,7 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
-muitas vagas são disponibilizadas no mercado de rede de contatos... assustador...
-
-use o método star para descrever suas atividades no currículo
-
-
-peça indicação das pessoas que já trabalhou
-
-
-o que o seu currículo deve ter:
+## o que o seu currículo deve ter:
 - cabeçalho
 	- contato
 	- nome
@@ -44,11 +35,17 @@ o que o seu currículo deve ter:
 
 
 
+## curiosidades
 54% dos recrutadores demoram menos de 30 segundos para avaliar um currículo.
-
 
 - ATS (Applicant Tracking Systems)
 	- robô que peneira seu currículo
+
+
+muitas vagas são disponibilizadas no mercado de rede de contatos... assustador...
+- use o método star para descrever suas atividades no currículo
+- peça indicação das pessoas que já trabalhou
+
 
 
 
@@ -62,3 +59,10 @@ o que o seu currículo deve ter:
   - testes de atenção e memória
 
 ### dinâmica em grupo
+- resolução de case ou problemas do negócio
+- simulação de ambiente de trabalho
+- debate em grupo
+- 
+
+
+
