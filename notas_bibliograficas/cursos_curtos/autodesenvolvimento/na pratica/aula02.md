@@ -36,7 +36,7 @@ o que o seu currículo deve ter:
 - formações acadêmicas
 - experiências profissionais
 - descreva conquistas usando a metodologia star
-	- ex:[[aula 01]]
+	- ex: [[aula 01]]
 - cursos e certificações
 - idiomas
 - habilidades técnicas
@@ -45,3 +45,8 @@ o que o seu currículo deve ter:
 
 
 54% dos recrutadores demoram menos de 30 segundos para avaliar um currículo.
+
+
+## ATS (Applicant Tracking Systems)
+- robô que peneira seu currículo
+- 
