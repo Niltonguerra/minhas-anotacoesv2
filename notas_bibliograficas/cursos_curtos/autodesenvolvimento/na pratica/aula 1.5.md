@@ -30,7 +30,12 @@ table of contents: Create table of contents
 	- quando for falar de você mesmo use a metodologia star ou seja fale usando essa estrutura:
 		- situação- ambiente 
 		- tarefa- tarefa que precisava ser feira
-		- ação- o q
-		- resulta
-
+		- ação- o que fez
+		- resulta- o que gerou de valor
+- chegar atrasado
+- falar coisas pesadas
+	- problemas pessoais
+	- coisas tristes
+- estudar a empresa
+- 
 
