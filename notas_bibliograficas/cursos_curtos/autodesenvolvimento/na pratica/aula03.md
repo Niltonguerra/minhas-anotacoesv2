@@ -48,7 +48,13 @@ entrevista presencial:
 
 ## tipos de entrevistas:
 ### tipos de recrutadores:
-- perfil 
+- perfil investigativo
+	- investiga você
+- perfil ouvinte
+	- ouve mais do que pergunta
+### dicas para entrevista:
+- os primeiros momentos da entrevista são relevantes para o contexto.
+- 
 
 
 ## competências procuradas
