@@ -65,12 +65,44 @@ muitas vagas são disponibilizadas no mercado de rede de contatos... assustador.
 - dinâmica criativa
 
 #### como se comportar:
-- comunicação clara
-- não tente dominar o grupo
-- escute de forma clara
 - trabalhe em grupo
-- argumentar com respeito
-- flexibilidade 
+	- seja gentil
+	- argumentar com respeito
+		- ouvir o que o outro diz
+		- argumentar de forma lógica
+	- adaptabilidade
+		- receber um problema não muito claro, mas mesmo assim tentar resolver tentando descobrir o que quer
+	- resiliência
+		- ter problemas com microfone, mas mesmo tentar contribuir pelo chat
+	- comunicação clara
+		- saber articular seus pensamentos
+		- falar de forma pausada e calma
+	- não tente dominar o grupo
+		- não tente mandar nos outros
+
+
+### cases:
+- o que é?
+	- resolver problemas ao vivo
+
+- como passar?
+	- resolva o problema
+	- explique a solução de forma clara
+	- conecte com o contexto da vaga
+
+- tipos:
+	- case em grupo
+		- você tem que resolver um problema em grupo
+	- case individual
+		- você resolve um problema individualmente
+	- case ao vivo
+		- você resolve um problema ao vivo
+	- case técnico
+		- teste sobre conhecimento técnico
+
+
+- dica 
+	- treine o pensamento 
 
 
 
