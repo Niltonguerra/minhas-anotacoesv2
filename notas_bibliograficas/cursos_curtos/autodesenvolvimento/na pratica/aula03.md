@@ -23,13 +23,33 @@ table of contents: Create table of contents
 	- a vaga
 	- a empresa
 
-- o que fazer antes da entrevista online:
-	- testar conexão da internet
-	- escolha um ambiente silencioso e neutro
-		- ou use um "fundo virtual", tipo um escritório
-	- iluminação adequada
-	- olhe para a câmera
-	- vista-se adequadamente
+
+## como se preparar para a entrevista:
+entrevista online:
+- testar conexão da internet
+- escolha um ambiente silencioso e neutro
+	- ou use um "fundo virtual", tipo um escritório
+- iluminação adequada
+- olhe para a câmera
+- vista-se adequadamente
+
+entrevista com ai:
+- simule com antecedência
+	- use ferramentas para se testar
+- tenha os mesmo cuidados de entrevistas online citadas acima
+- fale/digite com clareza
+
+entrevista presencial:
+- planeje seu deslocamento
+- tenha uma cópia do seu currículo
+- seja gentil
+- deixe seu celular no silencioso
+
+
+## tipos de entrevistas:
+### tipos de recrutadores:
+- perfil 
+
 
 ## competências procuradas
 - aprendizado continuo
