@@ -1,7 +1,7 @@
 ---
-Date: ""
+Date: 2026-07-31T20:09:00
 tags:
-  - template
+  - autodesenvolvimento/naPratica
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
@@ -58,6 +58,8 @@ table of contents: Create table of contents
 - caso tenha um problema no currículo
 	- crie uma resposta curta e uma longa caso o recrutador queira se aprofundar
 - tudo bem cometer erros, mantenha o foco e continue
+
+
 
 
 
