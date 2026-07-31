@@ -9,9 +9,26 @@ exemplo de tamanho:
 Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
 
 # Tópicos:
-
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#1. Fale-me sobre você.|1. Fale-me sobre você.]]
+- [[#2. Quais são suas maiores forças e fraquezas?|2. Quais são suas maiores forças e fraquezas?]]
+- [[#3. Por que você quer trabalhar aqui?|3. Por que você quer trabalhar aqui?]]
+- [[#4. Como você lida com pressão e prazos apertados?|4. Como você lida com pressão e prazos apertados?]]
+- [[#5. Onde você se vê daqui a cinco anos?|5. Onde você se vê daqui a cinco anos?]]
+- [[#6. Por que devemos contratá-lo?|6. Por que devemos contratá-lo?]]
+- [[#7. Fale sobre um desafio que você superou.|7. Fale sobre um desafio que você superou.]]
+- [[#8. Quais são suas habilidades de trabalho em equipe?|8. Quais são suas habilidades de trabalho em equipe?]]
+- [[#9. Como você lida com feedback construtivo?|9. Como você lida com feedback construtivo?]]
+- [[#10. Qual é a sua maior conquista profissional até o momento?|10. Qual é a sua maior conquista profissional até o momento?]]
+- [[#11. Como você se mantém atualizado em sua área de atuação?|11. Como você se mantém atualizado em sua área de atuação?]]
+- [[#12. Por que você está deixando seu emprego atual?|12. Por que você está deixando seu emprego atual?]]
+- [[#13. Qual é a sua abordagem para lidar com a mudança?|13. Qual é a sua abordagem para lidar com a mudança?]]
+- [[#14. Quais são suas expectativas salariais?|14. Quais são suas expectativas salariais?]]
+- [[#15. Descreva um momento em que você teve que resolver um conflito no trabalho.|15. Descreva um momento em que você teve que resolver um conflito no trabalho.]]
+- [[#16. Qual é o seu estilo de liderança?|16. Qual é o seu estilo de liderança?]]
+- [[#17.Como você define sucesso?|17.Como você define sucesso?]]
+- [[#18. Como você se adaptaria a uma cultura de empresa diferente da que está acostumado?|18. Como você se adaptaria a uma cultura de empresa diferente da que está acostumado?]]
+- [[#19. Fale sobre um momento em que você falhou e como lidou com isso.|19. Fale sobre um momento em que você falhou e como lidou com isso.]]
+- [[#20. Você tem alguma pergunta para nós?|20. Você tem alguma pergunta para nós?]]
 
 
 # Explicação dos tópicos:
@@ -51,8 +68,6 @@ Destaque sua capacidade de colaborar efetivamente com colegas, ouvir e respeitar
 
 Demonstre abertura e capacidade de aprender com feedbacks, mostrando como os utiliza para melhorar seu desempenho e desenvolvimento profissional.
 
-Leia: [Feedback: Guia definitivo para dar, receber e pedir no dia a dia](https://www.napratica.org.br/feedback-guia/)
-
 ## 10. Qual é a sua maior conquista profissional até o momento?
 
 Fale sobre uma conquista relevante que demonstre suas habilidades e contribuições para o sucesso, destacando os resultados alcançados.
@@ -72,7 +87,6 @@ Demonstre flexibilidade, adaptabilidade e disposição para aprender e se ajusta
 ## 14. Quais são suas expectativas salariais?
 
 Pesquise sobre faixas salariais para a posição e sua experiência, e forneça uma faixa razoável com base nisso. Você também pode mencionar que está aberto a discutir isso mais tarde.
-#### **[Pretensão salarial: o que responder nessa hora e como ir bem?](https://www.napratica.org.br/pretensao-salarial/)**
 
 
 ## 15. Descreva um momento em que você teve que resolver um conflito no trabalho.

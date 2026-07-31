@@ -93,7 +93,7 @@ muitas vagas são disponibilizadas no mercado de rede de contatos... assustador.
 ##### dica 
 - treine o pensamento estruturado
 	- metodologias para contar/estruturar problemas/histórias:
-		- [[como estruturar o pensamento]]
+		- [[0-como estruturar o pensamento]]
 - pesquise cases anteriores da empresa
 - pratique com cases reais
 - treine a apresentação oral

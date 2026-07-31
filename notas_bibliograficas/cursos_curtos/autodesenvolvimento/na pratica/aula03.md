@@ -1,7 +1,7 @@
 ---
-Date: ""
+Date: 2026-07-31T18:00:00
 tags:
-  - template
+  - autodesenvolvimento/naPratica
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
@@ -15,13 +15,28 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-## entrevista
-### competências procuradas
+## Introdução:
+- se prepare para a entrevista
+- **não é uma conversa descontraída**, é uma avaliação de quem é você
+- comtempla:
+	- você
+	- a vaga
+	- a empresa
+
+- o que fazer antes da entrevista online:
+	- testar conexão da internet
+	- escolha um ambiente silencioso e neutro
+		- ou use um "fundo virtual", tipo um escritório
+	- iluminação adequada
+	- olhe para a câmera
+	- vista-se adequadamente
+
+## competências procuradas
 - aprendizado continuo
 - habilidades comunicativas
 - cliente no centro
 
-### principais erros na entrevista
+## principais erros na entrevista
 - "ser você mesmo"
 	-  isso não quer dizer ser você mesmo
 	- mas mudar a si mesmo para que seja o que eles querem de maneira tão profunda que você mesmo são saiba onde você começa e onde o que eles procuram começa
@@ -36,18 +51,27 @@ table of contents: Create table of contents
 	- problemas pessoais
 	- coisas tristes
 - estudar a empresa
-- 
+
+
+## perguntas comuns:
+[[0-20 perguntas mais comuns na entrevista]]
+
 
 ## dicas sobre processo seletivo:
-1️⃣ **Estude sobre processos seletivos** e como ter um bom desempenho de ponta a ponta.
+1. Estude sobre processos seletivos 
+- e como ter um bom desempenho de ponta a ponta.
 
-2️⃣ **Pesquise sobre a empresa que deseja uma vaga**, pois faz total diferença na interação com os recrutadores.
+2. Pesquise sobre a empresa que deseja uma vaga, 
+- pois faz total diferença na interação com os recrutadores.
 
-3️⃣ **NÃO pergunte para o recrutador sobre o que é a empresa, mas sim COMO a empresa atuou em determinado projeto, por exemplo.** Isso mostra que você fez uma pesquisa prévia.
+3. NÃO pergunte para o recrutador sobre o que é a empresa, mas sim COMO a empresa atuou em determinado projeto, por exemplo.
+-  Isso mostra que você fez uma pesquisa prévia.
 
-4️⃣ **Venda o seu pitch, claro, mas reserve um tempo para escutar do recrutador mais sobre a empresa.** Isso mostra que você tem um interesse genuíno de fazer parte da organização.
+ 4. Venda o seu pitch e ousa o recrutador
+- mas reserve um tempo para escutar do recrutador mais sobre a empresa. Isso mostra que você tem um interesse genuíno de fazer parte da organização.
 
-5️⃣ **Peça o LinkedIn dos recrutadores, mas não esqueça de atualizar o seu perfil antes do evento.**
+5. Peça o LinkedIn dos recrutadores, 
+- mantinha o seu perfil atualizado antes do evento.
 
 
 
