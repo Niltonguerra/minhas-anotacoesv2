@@ -62,8 +62,15 @@ muitas vagas são disponibilizadas no mercado de rede de contatos... assustador.
 - resolução de case ou problemas do negócio
 - simulação de ambiente de trabalho
 - debate em grupo
-- 
+- dinâmica criativa
 
+#### como se comportar:
+- comunicação clara
+- não tente dominar o grupo
+- escute de forma clara
+- trabalhe em grupo
+- argumentar com respeito
+- flexibilidade 
 
 
 
