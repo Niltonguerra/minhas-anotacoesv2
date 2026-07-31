@@ -101,8 +101,13 @@ muitas vagas são disponibilizadas no mercado de rede de contatos... assustador.
 		- teste sobre conhecimento técnico
 
 
-- dica 
-	- treine o pensamento 
+#### dica 
+- treine o pensamento estruturado
+	- 
+- pesquise cases anteriores da empresa
+- pratique com cases reais
+- treine a apresentação oral
+- entenda o contexto da empresa
 
 
 
