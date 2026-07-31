@@ -82,32 +82,55 @@ muitas vagas são disponibilizadas no mercado de rede de contatos... assustador.
 
 
 ### cases:
-- o que é?
-	- resolver problemas ao vivo
+#### o que é?
+- resolver problemas ao vivo
 
-- como passar?
-	- resolva o problema
-	- explique a solução de forma clara
-	- conecte com o contexto da vaga
+#### como desempenhar bem?
+- resolva o problema
+- explique a solução de forma clara
+- conecte com o contexto da vaga
 
-- tipos:
-	- case em grupo
-		- você tem que resolver um problema em grupo
-	- case individual
-		- você resolve um problema individualmente
-	- case ao vivo
-		- você resolve um problema ao vivo
-	- case técnico
-		- teste sobre conhecimento técnico
-
-
-#### dica 
+##### dica 
 - treine o pensamento estruturado
-	- 
+	- metodologias para contar/estruturar problemas/histórias:
+		- [[como estruturar o pensamento]]
 - pesquise cases anteriores da empresa
 - pratique com cases reais
 - treine a apresentação oral
+	- converse com a llm
 - entenda o contexto da empresa
+
+
+
+
+#### tipos de cases:
+- case em grupo
+	- você tem que resolver um problema em grupo
+- case individual
+	- você resolve um problema individualmente
+- case ao vivo
+	- você resolve um problema ao vivo
+- case técnico
+	- teste sobre conhecimento técnico
+
+
+
+## como receber e usar um feedback
+- o que é?
+	- um retorno do seu desempenho e de como melhorar
+- como pedir?
+	- espere o fim do processo seletivo e peça ele
+	- template de mensagem:
+```
+Olá, [nome do recrutador], agradeço pela oportunidade de participar do processo. Gostaria de saber se seria possível compartilhar algum feedback sobre minha participação. Seria muito valioso para meu desenvolvimento.
+```
+
+- como receber um feedback?
+	- ouça sem interromper
+	- anote pontos chave
+	- mude
+
+
 
 
 

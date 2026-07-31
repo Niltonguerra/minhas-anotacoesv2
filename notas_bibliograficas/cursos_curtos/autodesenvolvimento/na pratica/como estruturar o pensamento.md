@@ -18,20 +18,28 @@ table of contents: Create table of contents
 
 ## metodologia SWOT
 - serve para tomar decisões em negócios
-
 ### forças
 - vantagem que só eu tenho
-
-
 ### fraquezas
 - fraqueza que só eu tenho
-
-
 ### oportunidades
 - algo bom que não necessariamente é só para mim
-
 ### ameaças
 - algo ruim que não necessariamente é só para mim
+
+
+
+## metodologia star:
+- situação
+	- local onde aconteceu
+- tarefa
+	- tarefa que precisava ser feito
+- ação
+	- o que você fez
+- resultado
+	- resultado
+
+
 
 ## 5 porquês
 - serve para encontrar a causa raiz do problema
@@ -50,8 +58,10 @@ Problema
 ```
 
 
+
+
 ## diagrama espinha de peixe
-#### Como aplicar
+### Como aplicar
 
 1. **Defina o problema** na cabeça do peixe — mesmo critério dos 5 Porquês: específico e observável
 2. **Defina as categorias** relevantes para o contexto
@@ -74,18 +84,5 @@ CAUSA                     CAUSA
                     CAUSA                     CAUSA
 ```
 
-
-
-exemplo preenchido:
-![[Pasted image 20260731172341.png]]
-
-## metodologia star:
-- situação
-	- local onde aconteceu
-- tarefa
-	- tarefa que precisava ser feito
-- ação
-	- o que você fez
-- resultado
-	- resultado
-
+exemplo preenchido:![[Pasted image 20260731172341.png]]
+Na prática, após montar esse mapa, o time votaria nas causas com mais evidência — não em tudo ao mesmo tempo. As candidatas mais fortes aqui seriam "sem testes", "sem code review" e "ambiente diferente da produção", por serem causas com maior capacidade de gerar recorrência sistêmica.
