@@ -37,15 +37,19 @@ table of contents: Create table of contents
 - perguntar para conhecer você melhor
 	- você explica sobre você com a metodologia star
 
-
 - perguntas sobre o porque deve te contratar:
-	- cada resposta deve ser +-2 minutos
+	- cada resposta deve ter menos de 2 minutos
 	- ex:
 		- porque quer trabalhar aqui?
 		- o que você vai acrescentar na empresa?
 		- quais são seus pontos fortes e fracos?
 		- me conta uma situação que resolveu o problema?
-		- [[0-20 perguntas mais comuns na entrevista]]
+		- [[aula3.2-0_20 perguntas mais comuns na entrevista]]
+
+- o recrutador abre para perguntar
+	- tenha 2 perguntas prontas para fazer sobre a empresa
+
+- despeça-se do recrutador
 
 
 ## como lidar com situações desconfortáveis:
@@ -53,4 +57,9 @@ table of contents: Create table of contents
 	-  explique situações parecidas que conseguiu resolver o problema
 - caso tenha um problema no currículo
 	- crie uma resposta curta e uma longa caso o recrutador queira se aprofundar
-- tudo bem cometer erros.
+- tudo bem cometer erros, mantenha o foco e continue
+
+
+
+
+

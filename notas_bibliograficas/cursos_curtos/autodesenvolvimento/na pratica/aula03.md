@@ -17,11 +17,7 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 ## Introdução:
 - se prepare para a entrevista
-- **não é uma conversa descontraída**, é uma avaliação de quem é você
-- comtempla:
-	- você
-	- a vaga
-	- a empresa
+- **não é uma conversa descontraída**, é uma avaliação de quem é você e se você se encaixa na empresa.
 
 
 ## como se preparar para a entrevista:
@@ -69,24 +65,24 @@ entrevista presencial:
 
 
 ## perguntas comuns:
-[[0-20 perguntas mais comuns na entrevista]]
+[[aula3.2-0_20 perguntas mais comuns na entrevista]]
 
 
 ## dicas sobre processo seletivo:
 1. Estude sobre processos seletivos 
-- e como ter um bom desempenho de ponta a ponta.
+	- e como ter um bom desempenho de ponta a ponta.
 
 2. Pesquise sobre a empresa que deseja uma vaga, 
-- pois faz total diferença na interação com os recrutadores.
+	- pois faz total diferença na interação com os recrutadores.
 
 3. NÃO pergunte para o recrutador sobre o que é a empresa, mas sim COMO a empresa atuou em determinado projeto, por exemplo.
--  Isso mostra que você fez uma pesquisa prévia.
+	-  Isso mostra que você fez uma pesquisa prévia.
 
  4. Venda o seu pitch e ousa o recrutador
-- mas reserve um tempo para escutar do recrutador mais sobre a empresa. Isso mostra que você tem um interesse genuíno de fazer parte da organização.
+	 - mas reserve um tempo para escutar do recrutador mais sobre a empresa. Isso mostra que você tem um interesse genuíno de fazer parte da organização.
 
 5. Peça o LinkedIn dos recrutadores, 
-- mantinha o seu perfil atualizado antes do evento.
+	- mantinha o seu perfil atualizado antes do evento.
 
 
 
