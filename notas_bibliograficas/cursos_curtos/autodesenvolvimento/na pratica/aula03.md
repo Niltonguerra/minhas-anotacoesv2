@@ -15,6 +15,39 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+## entrevista
+### competências procuradas
+- aprendizado continuo
+- habilidades comunicativas
+- cliente no centro
+
+### principais erros na entrevista
+- "ser você mesmo"
+	-  isso não quer dizer ser você mesmo
+	- mas mudar a si mesmo para que seja o que eles querem de maneira tão profunda que você mesmo são saiba onde você começa e onde o que eles procuram começa
+- não falar sobre você mesmo
+	- quando for falar de você mesmo use a metodologia star ou seja fale usando essa estrutura:
+		- situação- ambiente 
+		- tarefa- tarefa que precisava ser feira
+		- ação- o que fez
+		- resulta- o que gerou de valor
+- chegar atrasado
+- falar coisas pesadas
+	- problemas pessoais
+	- coisas tristes
+- estudar a empresa
+- 
+
+## dicas sobre processo seletivo:
+1️⃣ **Estude sobre processos seletivos** e como ter um bom desempenho de ponta a ponta.
+
+2️⃣ **Pesquise sobre a empresa que deseja uma vaga**, pois faz total diferença na interação com os recrutadores.
+
+3️⃣ **NÃO pergunte para o recrutador sobre o que é a empresa, mas sim COMO a empresa atuou em determinado projeto, por exemplo.** Isso mostra que você fez uma pesquisa prévia.
+
+4️⃣ **Venda o seu pitch, claro, mas reserve um tempo para escutar do recrutador mais sobre a empresa.** Isso mostra que você tem um interesse genuíno de fazer parte da organização.
+
+5️⃣ **Peça o LinkedIn dos recrutadores, mas não esqueça de atualizar o seu perfil antes do evento.**
 
 
 
