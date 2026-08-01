@@ -17,8 +17,26 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 
 ## como dar uma boa impressão?
-- quanto pesquisa sobre a empresa
-- quando abre para perguntas e a pessoa tem perguntas
+- mostrar curiosidade
+	- quanto pesquisa sobre a empresa
+	- quando abre para perguntas e a pessoa tem perguntas
+- mostrar humildade
+- seja um bom mentiroso, kkkkk
+	- precisa parecer:
+		- transparência
+		- vulnerabilidade
+		- espontaneidade
+ 
+
+
+## o que fazer depois da entrevista?
+- mande uma e-mail de agradecimento para o recrutador
+	- em até 24 horas
+	- ex:
+	- ![[Pasted image 20260801134836.png]]
+- pergunte se a algo para melhorar 
 
 
 
+
+## dicas para entrevistas com AI:
