@@ -36,3 +36,5 @@ isso normalmente é raro, tento a me dar bem com todo mundo, então normalmente 
 
 
 
+4. qual foi sua maior conquista?
+sendo sincero acho que foi a entrega do meu projeto de graduação, acabei fazendo ele sozinho porque imaginei que seria mais simples, usei metodologias ágeis para planejar o desenvolvimento do projeto, mas como acabei subestimando o projeto, acabei tendo que me esforçar muito para poder entregar o projeto na data de entrega, isso aconteceu estava ao mesmo tempo estagiando então estava fazendo o meu tcc sozinho,  então acho que a parte mais difícil foi manter a consciência que estava fazendo uma coisa enorme e que não poderia atrasar na entrega de partes do projeto  que durou 6 meses porque se não iria atrasar a entrega do projeto finalizado para a banca e isso não me permitiria terminar a faculdade, no fim, durante o desenvolvimento do projeto tive que renegociar comigo mesmo partes do projeto que não seriam possíveis entregar no prazo estimado e entregar apenas muitos dos requisitos funcionais e apenas alguns dos desejais que tinha o desejo de colocar, e felizmente consegui entregar o meu projeto de TCC com sucesso e passei com uma nota 8.
