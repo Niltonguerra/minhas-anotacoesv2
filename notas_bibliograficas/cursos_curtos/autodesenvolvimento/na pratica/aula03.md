@@ -19,6 +19,13 @@ table of contents: Create table of contents
 - se prepare para a entrevista
 - **não é uma conversa descontraída**, é uma avaliação de quem é você e se você se encaixa na empresa.
 
+## o que é avaliado?
+- resultados e competências
+- motivação
+- cultura organizacional
+- potencial
+- valores e personalidade
+
 
 ## como se preparar para a entrevista:
 entrevista online:

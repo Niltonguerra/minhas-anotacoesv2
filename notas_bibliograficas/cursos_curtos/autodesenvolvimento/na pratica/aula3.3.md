@@ -33,3 +33,6 @@ sendo sincero, pressão é um dos meus pontos fracos, mas estou trabalhando para
 
 3. **Me conte sobre uma vez em que você teve que lidar com um conflito com alguém da equipe.**
 isso normalmente é raro, tento a me dar bem com todo mundo, então normalmente não acontece, tanto que uma vez, durante os code reviews que as pessoas me passar, normalmente sempre são de pessoas me recomendam uma atualização no código, eu simplesmente ouço com atenção e faço o ajuste, as vezes pode ser que eu ache estranho aquele ponto, então pergunto para a pessoa mais sobre os detalhes daquilo ou a situação inversa tento explicar o porque de eu apontar aquilo, e depois de levantarmos argumentos técnicos a gente toma uma decisão e segue a vida.
+
+
+
