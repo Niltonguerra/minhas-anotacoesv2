@@ -15,7 +15,6 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-
 ## como dar uma boa impressão?
 - mostrar curiosidade
 	- quanto pesquisa sobre a empresa
@@ -26,6 +25,7 @@ table of contents: Create table of contents
 		- transparência
 		- vulnerabilidade
 		- espontaneidade
+
  
 
 

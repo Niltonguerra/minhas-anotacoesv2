@@ -1,7 +1,7 @@
 ---
-Date: 2026-08-01T15:39:00
+Date: ""
 tags:
-  - autodesenvolvimento/naPratica
+  - template
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.
@@ -16,12 +16,7 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
-## como se destacar?
-- pesquise sobre a empresa
-- seja gentil
-- não seja competitivo
-- trabalhe em equipe
 
-## dicas sobre buscar emprego
-- busque sempre aprender com as candidaturas mesmo se não passar
+
+
 

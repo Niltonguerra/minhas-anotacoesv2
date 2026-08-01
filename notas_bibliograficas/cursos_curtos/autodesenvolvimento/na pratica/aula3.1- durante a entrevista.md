@@ -33,8 +33,7 @@ table of contents: Create table of contents
 		- quebrar o gelo
 		- deixar o entrevistado mais confortável
 
-- pergunta sobre você:
-- perguntar para conhecer você melhor
+- pergunta sobre você/perguntar para conhecer você melhor:
 	- você explica sobre você com a metodologia star
 
 - perguntas sobre o porque deve te contratar:
@@ -45,6 +44,7 @@ table of contents: Create table of contents
 		- quais são seus pontos fortes e fracos?
 		- me conta uma situação que resolveu o problema?
 		- [[aula3.2- perguntas mais comuns na entrevista]]
+
 
 - o recrutador abre para perguntar
 	- tenha 2 perguntas prontas para fazer sobre a empresa
