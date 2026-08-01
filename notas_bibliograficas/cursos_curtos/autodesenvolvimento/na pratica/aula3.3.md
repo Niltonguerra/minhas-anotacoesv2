@@ -20,6 +20,20 @@ table of contents: Create table of contents
 - pergunte como o recrutador quer as resposta
 
 
+exercicio:
+responder as perguntas:
+1. **Me conte sobre uma vez em que você falhou. Como lidou com isso?**
+
+
+
+
+2. **Como você lida com pressão ou estresse?**
+
+
+
+
+
+3. **Me conte sobre uma vez em que você teve que lidar com um conflito com alguém da equipe.**
 
 
 
