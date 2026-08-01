@@ -65,7 +65,7 @@ entrevista presencial:
 
 
 ## perguntas comuns:
-[[aula3.2-0_20 perguntas mais comuns na entrevista]]
+[[aula3.2- perguntas mais comuns na entrevista]]
 
 
 ## dicas sobre processo seletivo:

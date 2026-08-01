@@ -44,7 +44,7 @@ table of contents: Create table of contents
 		- o que você vai acrescentar na empresa?
 		- quais são seus pontos fortes e fracos?
 		- me conta uma situação que resolveu o problema?
-		- [[aula3.2-0_20 perguntas mais comuns na entrevista]]
+		- [[aula3.2- perguntas mais comuns na entrevista]]
 
 - o recrutador abre para perguntar
 	- tenha 2 perguntas prontas para fazer sobre a empresa

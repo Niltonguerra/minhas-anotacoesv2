@@ -32,6 +32,9 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 
 # Explicação dos tópicos:
+
+![[Pasted image 20260731214433.png]]
+
 ## 1. Fale-me sobre você.
 Esta é sua chance de apresentar um resumo conciso de sua experiência profissional relevante e destacar suas principais realizações.
 
