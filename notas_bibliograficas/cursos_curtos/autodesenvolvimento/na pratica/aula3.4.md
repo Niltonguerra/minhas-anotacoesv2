@@ -77,3 +77,13 @@ o que é avaliado:
 -  Final Round AI (em inglês)
 	- plataforma para treinar entrevistas 
 	- link: [https://www.finalroundai.com/ai-mock-interview](https://www.finalroundai.com/ai-mock-interview)
+
+- gravação por conta própria
+	- você grava a si mesmo e avalia-se a si mesmo.
+
+### como avaliar se foi bem?
+crie um relatório que responda as perguntas:
+- Como você se sentiu?
+- O que funcionou bem?
+- O que gostaria de melhorar nas próximas vezes?
+
