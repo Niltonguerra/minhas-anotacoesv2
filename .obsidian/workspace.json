@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "64cdd73015f5e8f2",
+        "id": "c6e66d4e71b0c28d",
         "type": "tabs",
         "children": [
           {
-            "id": "5f130d5e7238679b",
+            "id": "d8e25c939417d870",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "aula 01-tipos de vagas"
+              "title": "Nova aba"
             }
           }
         ]
@@ -293,10 +288,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5f130d5e7238679b",
+  "active": "d8e25c939417d870",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/0-como estruturar o pensamento.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260801134836.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/0-como estruturar o pensamento.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula02-curriculo.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula03-entrevista.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.1- durante a entrevista.md",
@@ -307,7 +303,6 @@
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/controle de carreira/planilha de vagas candidatadas.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/controle de carreira",
-    "Pasted image 20260801134836.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260731214433.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260731172341.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260723123030.png",
@@ -328,7 +323,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A03-2025 — Software Supply Chain Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A10-2025 — Mishandling of Exceptional Conditions.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A08-2025 — Software or Data Integrity Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP",
     "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260521074448.png",
