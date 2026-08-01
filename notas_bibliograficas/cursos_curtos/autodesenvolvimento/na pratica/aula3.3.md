@@ -23,16 +23,14 @@ table of contents: Create table of contents
 exercicio:star
 responder as perguntas:
 1. **Me conte sobre uma vez em que você falhou. Como lidou com isso?**
-uma vez durante uma sprint que estava atuando como dev junior no meu último trabalho pequei uma história sobre criar um componente no frontend e consumir de uma api interna que implementava uma outra api externa, no caso, eu executei essa história, mas infelizmente por conta de falta de experiencia, eu não previ que essa api interna poderia trazer dados inconsistentes e por conta do ambiente de QA ser um pouco inconsistente e essa própria inconsistência da api interna não ser muito frequente, ela passou por code review, e QA e infelizmente essa implementação foi para produção sendo notado depois quando foi entregue para o cliente e depois tendo que voltar para desenvolvimento a história,com essa minha falha eu aprendi da pior forma para nunca confiar, assim como na segurança da informação
+
 
 
 2. **Como você lida com pressão ou estresse?**
-normalmente eu não chego a esse tipo de situação, para mim com planejamento situações de pressão podem ser evitadas, por exemplo, durante meu projeto de pos graduação ou na minha graduação, criei metas de tempos em tempo
-
-
+normalmente eu não chego a esse tipo de situação, para mim com planejamento situações de pressão podem ser evitadas, por exemplo, durante meu projeto de conclusão de curso de pos graduação ou na minha graduação, criei um cronograma com metas semanais e atividades mensais, ao exemplo de metodologias ágeis, para ir cumprindo os requisitos do projeto e ir desenvolvimento com o tempo e como resultado consegui entregar ambos os projetos com certa tranquilidade e consegui uma nota boa em ambos, sendo que o projeto de pos graduação foi em grupo, mas nos casos caros que acontecem de eu chegar a estar em uma situação de pressão, como uma task que sinto que não vou conseguir entregar até o fim da sprint eu acabo ficando um pouco estressado e sendo por não conseguir entregar, então nesses tipos de situação, eu tento me acalmar ver a situação com mais calma, tentar criar um plano de ação para resolver o problema, mas se mesmo assim eu ver que é inviável, falaria com meu gestor direto que talvez aquela task caísse de sobra para tentar negociar.
 
 
 3. **Me conte sobre uma vez em que você teve que lidar com um conflito com alguém da equipe.**
-
+isso normalmente é raro, tento a me dar bem com todo mundo, tanto durante a faculdade, pos graduação ou trabalho, tanto que já sai algumas vezes seja com colegas de trabalho ou pessoal da faculdade fora de horário de trabalho ou aula para diversão, mas caso viesse a não me dar bem com alguém seja por conta de questões pessoais então tentaria manter uma relação profissional com respeito e gentileza
 
 
