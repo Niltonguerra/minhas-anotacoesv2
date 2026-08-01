@@ -22,11 +22,21 @@ table of contents: Create table of contents
 ## o que é avaliado?
 - resultados e competências
 	- qual foi sua maior conquista?
-	- 
+	- qual é o tipo de ambiente que você quer?
 - motivação
+	- por que você saiu daquela organização?
+	- por que você quer entrar nessa organização?
+	- como você se vê daqui 5 anos?
 - cultura organizacional
+	- fit cultural demite as pessoas
 - potencial
+	- 
 - valores e personalidade
+	- não negociaveis, os meus são:
+		- ser um bom cristão
+		- ser bom a meus pais
+		- retribuir as pessoas que me ajudam
+
 
 
 ## como se preparar para a entrevista:
