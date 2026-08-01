@@ -20,10 +20,10 @@ table of contents: Create table of contents
 - pergunte como o recrutador quer as resposta
 
 
-exercicio:
+exercicio:star
 responder as perguntas:
 1. **Me conte sobre uma vez em que você falhou. Como lidou com isso?**
-
+uma vez durante uma sprint que estava atuando como dev junior no meu último trabalho pequei uma história sobre criar um componente no frontend e consumir de uma api interna que implementava uma outra api externa, no caso, eu executei essa história, mas infelizmente por conta de falta de experiencia, eu não previ que essa api interna poderia trazer dados inconsistentes e por conta do ambiente de QA ser um pouco inconsistênte e essa propria inconsistência 
 
 
 
