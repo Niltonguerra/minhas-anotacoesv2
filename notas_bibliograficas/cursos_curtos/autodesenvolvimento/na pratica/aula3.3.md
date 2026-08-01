@@ -23,7 +23,7 @@ table of contents: Create table of contents
 exercicio:star
 responder as perguntas:
 1. **Me conte sobre uma vez em que você falhou. Como lidou com isso?**
-
+uma vez durante uma sprint, que é um período determinado de tempo que definimos para executar uma certa quantidade de tarefas no meu 
 
 
 2. **Como você lida com pressão ou estresse?**
