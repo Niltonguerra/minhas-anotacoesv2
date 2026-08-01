@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2026-07-31T16:07:00
 tags:
   - autodesenvolvimento/naPratica
 ---

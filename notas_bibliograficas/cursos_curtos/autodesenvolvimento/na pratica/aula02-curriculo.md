@@ -27,7 +27,7 @@ table of contents: Create table of contents
 - formações acadêmicas
 - experiências profissionais
 - descreva conquistas usando a metodologia star
-	- ex: [[aula 01]]
+	- ex: [[aula 01-tipos de vagas]]
 - cursos e certificações
 - idiomas
 - habilidades técnicas
