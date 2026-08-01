@@ -30,12 +30,11 @@ table of contents: Create table of contents
 - cultura organizacional
 	- fit cultural demite as pessoas
 - potencial
-	- 
+	- explique seu raciocínio sobre as suas decisões
+	- pesquise sobre a empresa antes da entrevista
 - valores e personalidade
-	- não negociaveis, os meus são:
-		- ser um bom cristão
-		- ser bom a meus pais
-		- retribuir as pessoas que me ajudam
+	- pergunta sobre sua criação
+	- sobre seus valores
 
 
 
