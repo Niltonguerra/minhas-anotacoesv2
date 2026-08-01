@@ -23,7 +23,7 @@ table of contents: Create table of contents
 exercicio:star
 responder as perguntas:
 1. **Me conte sobre uma vez em que você falhou. Como lidou com isso?**
-uma vez durante uma sprint, que é um período determinado de tempo que definimos para executar uma certa quantidade de tarefas no meu último trabalho, infelizmente peguei uma tarefa  e sem querer deixei alguns problemas de segurança na aplicação, no caso tinha deixado o sandbox do graphQL aberto em uma api, nisso um colega durante o code review percebeu isso e me avisou sobre esse erro de código e fiz o ajuste no código permitindo que o código fosse entregue com sucesso.
+uma vez durante uma sprint, que é um período determinado de tempo que definimos para executar uma certa quantidade de tarefas no meu último trabalho, infelizmente peguei uma tarefa  que era para implementar um serviço de mensageria em um microserviço, infelizmente eu tinha feito de uma forma que não tinha tanta resiliência, em uma fila estava executando mais apenas uma coisa, assim diminuindo  a resiliência da aplicação, um colega de trabalho, durante o code review fez o review do código e viu esse problema que tinha passado batido por mim, e me aconselhou a mudar, eu mudei e a história pode ser entregue com sucesso, e aprendi também sobre essa questão de mensageria que era um tema que eu ainda era um pouco inexperiente.
 
 
 2. **Como você lida com pressão ou estresse?**
@@ -32,6 +32,4 @@ sendo sincero, pressão é um dos meus pontos fracos, mas estou trabalhando para
 
 
 3. **Me conte sobre uma vez em que você teve que lidar com um conflito com alguém da equipe.**
-isso normalmente é raro, tento a me dar bem com todo mundo, tanto durante a faculdade, pós graduação ou trabalho, tanto que já sai algumas vezes seja com colegas de trabalho ou pessoas da faculdade fora de horário de trabalho ou aula para diversão, mas caso viesse a não me dar bem com alguém seja por conta de questões pessoais então tentaria manter uma relação profissional com respeito e gentileza focando no que temos em comum e evitando o que não temos em comum
-
-
+isso normalmente é raro, tento a me dar bem com todo mundo, então normalmente não acontece, tanto que uma vez, durante os code reviews que as pessoas me passar, normalmente sempre são de pessoas me recomendam uma atualização no código, eu simplesmente ouço com atenção e faço o ajuste, as vezes pode ser que eu ache estranho aquele ponto, então pergunto para a pessoa mais sobre os detalhes daquilo ou a situação inversa tento explicar o porque de eu apontar aquilo, e depois de levantarmos argumentos técnicos a gente toma uma decisão e segue a vida.
