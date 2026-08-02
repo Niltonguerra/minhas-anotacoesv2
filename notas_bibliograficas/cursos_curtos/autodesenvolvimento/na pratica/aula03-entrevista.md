@@ -31,6 +31,7 @@ table of contents: Create table of contents
 	- fit cultural demite as pessoas
 - potencial
 	- explique seu raciocínio sobre as suas decisões
+		- use metodologia star
 	- pesquise sobre a empresa antes da entrevista
 - valores e personalidade
 	- pergunta sobre sua criação
