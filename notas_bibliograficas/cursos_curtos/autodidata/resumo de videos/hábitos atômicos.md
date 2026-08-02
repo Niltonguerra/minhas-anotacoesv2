@@ -138,7 +138,10 @@ aqui iremos falar sobre com uma ação é disparada, isso é importante porque p
 - ao invés de definir um novo ação por si só, coloque ela em conjunto com outra ação.
 - ex:
 	- ❌fazer 10 flexões todo dia
-	- ✔️fazer 10 flexões depois de escovar os dentes
+	- ✔️após escovar os dentes(hábito consolidado) fazer 10 flexões(novo hábito)
+
+> [!NOTE] Title
+> eu coloquei porque o material usado que eu vi recomendava, mas eu não recomendo pois pode fazer com que a recompensa do hábito já criado seja associado a outro hábito que exige muito esforço, dessa forma colocando o primeiro hábito em risco de você parar de fazer, por exemplo depois de escovar os dentes fazer 10 flexões, você pode colocar em risco o hábito de escovar dentes
 
 ##### aproveite a jornada
 - comemore as pequenas vitórias
