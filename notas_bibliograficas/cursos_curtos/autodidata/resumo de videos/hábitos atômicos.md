@@ -28,10 +28,10 @@ nessa nota vimos como alcançar objetivos, vimos o que são objetivos, identidad
 
 # Explicação dos tópicos:
 ## 0.jornada do objetivo
-- objetivos devem gerar identidade
-	- identidade devem se manifestar como metas
-		- metas devem gerar hábitos
-			- hábitos são sistemas executados com frequência, 
+- objetivos devem *==**gerar**==* identidade
+	- identidade devem se ***manifestar*** como metas
+		- metas devem ***gerar*** hábitos
+			- hábitos ***são sistemas executados com frequência***, 
 				- sistemas geram ações, 
 					- ações geram resultados invisíveis, 
 						- resultados invisíveis geram com o tempo resultados visíveis.
