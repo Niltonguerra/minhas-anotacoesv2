@@ -29,9 +29,9 @@ nessa nota vimos como alcançar objetivos, vimos o que são objetivos, identidad
 # Explicação dos tópicos:
 ## 0.jornada do objetivo
 - objetivos devem *==**gerar**==* identidade
-	- identidade devem se ***manifestar*** como metas
-		- metas devem ***gerar*** hábitos
-			- hábitos ***são sistemas executados com frequência***, 
+	- identidade devem se ==***manifestar***== como metas
+		- metas devem ==***gerar***== hábitos
+			- hábitos ==***são sistemas executados com frequência***==, 
 				- sistemas geram ações, 
 					- ações geram resultados invisíveis, 
 						- resultados invisíveis geram com o tempo resultados visíveis.
@@ -39,7 +39,7 @@ nessa nota vimos como alcançar objetivos, vimos o que são objetivos, identidad
 
 ## 1.crie uma identidade
 - o invisível é o que gera o visível
-- foque em ser alguém melhor ao invés de focar em realizar um processo/hábito
+- primeiro descubra o que quer ser e depois crie seus hábitos
 	- isso é mais sustentável porque se você cair (não conseguir fazer ou deixar de fazer o que tinha que fazer), você não sente que perdeu/caiu do progresso, você deixa de se sentir mau por ter caído e se foca em ser alguém melhor, alguém que você quer se tornar
 	- psicologicamente é mais sustentável e melhor
 ###### o invisível gera o visível
@@ -77,9 +77,18 @@ considerando que você tem a meta de estudar, segue um exemplo de como estrutura
 	- exemplo de tornar uma meta:
 		- devo aprender  Design Patterns para TypeScript em 2 meses, ou seja no dia DD/MM/AAAA
 
+> [!NOTE]
+> sendo sincero, eu não uso dessa forma, eu criei um sistema de planejamento de tarefas semanais, mensais, trimestrais e metas anuais, ainda está no começo, não sei se vou continuar, mas acho melhor que usar a metodologia SMART, ela é boa para alcançar objetivos específicos, mas para melhoria continua e ajudar em fazer tarefas longas e complexas ela perde um pouco.
+
 
 ## 3.crie um sistema
 - quando for criar um hábito, mensure ele e crie um ambiente para executa-lo, assim você vai ter menor barreira de entrada e vai ser mais simples e fácil para alcançar seus objetivos
+
+
+> [!NOTE] Title
+> para isso eu uso o programa focus to do para anotar o que tenho que fazer e controlar a execução do que tenho que fazer e tenho o planejamento do que quero fazer no kanban e tenho faço uma pesquisa sobre o escopo do que estudar através das AIs, tipo o claude ou ChatGPT
+
+
 
 ### definição de ambiente para executar:
 - crie um ambiente próprio para executar aquele hábito.
@@ -95,6 +104,7 @@ considerando que você tem a meta de estudar, segue um exemplo de como estrutura
 
 ## 4.dicas para executar ações:
 - ao invés de deixar para estudar tudo em um único dia, crie mini objetivos todos os dias, isso vai fazer mais efeito do que simplesmente você tentar estudar tudo em um dia só.
+- faço isso com o focus to do e o planejamento do kanban
 ###### vale mais a pena estudar 25 minutos todo dia  6 dias por semana do que 10 horas em apenas 1 dia
 
 
