@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/anotações para buscar trabalho.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/resumo de videos/hábitos atômicos.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "anotações para buscar trabalho"
+              "title": "hábitos atômicos"
             }
           }
         ]
@@ -294,8 +294,9 @@
   },
   "active": "d8e25c939417d870",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/anotações para buscar trabalho.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260801134836.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/0-como estruturar o pensamento.md",
@@ -327,7 +328,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A03-2025 — Software Supply Chain Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A10-2025 — Mishandling of Exceptional Conditions.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP",
     "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260521074448.png",
