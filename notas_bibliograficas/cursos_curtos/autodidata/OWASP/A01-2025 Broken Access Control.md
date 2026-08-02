@@ -32,7 +32,7 @@ table of contents: Create table of contents
 - #### usuário comum virando administrador por falta de checagem
 
 - #### CORS
-	- mal configuramento do cors permitindo assim acesso não confiável
+	- mal configuração do cors permitindo assim acesso não confiável
 
 - #### manipulação de token
 	- falsificação de tokens JWT

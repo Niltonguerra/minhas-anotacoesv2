@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula02-curriculo.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula02-curriculo"
+              "title": "aula 01-tipos de vagas"
             }
           }
         ]
@@ -296,7 +296,12 @@
   },
   "active": "d8e25c939417d870",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A02-2025 Security Misconfiguration.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula02-curriculo.md",
     "notas_bibliograficas/cursos_curtos/autodidata/resumo de videos/hábitos atômicos.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/anotações para buscar trabalho.md",
     "notas_bibliograficas/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
@@ -304,7 +309,6 @@
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260801134836.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/0-como estruturar o pensamento.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula02-curriculo.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula03-entrevista.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.1- durante a entrevista.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.2- perguntas mais comuns na entrevista.md",
@@ -325,11 +329,7 @@
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.2.md",
     "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A02-2025 Security Misconfiguration.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP",
     "notas_bibliograficas/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260521074448.png",
