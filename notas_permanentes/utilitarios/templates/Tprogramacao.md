@@ -1,5 +1,5 @@
 ---
-Date:
+Date: {{date:YYYY-MM-DD}}
 tags:
   - template
 repositório:
