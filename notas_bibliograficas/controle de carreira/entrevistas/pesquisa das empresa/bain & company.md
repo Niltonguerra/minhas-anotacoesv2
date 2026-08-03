@@ -77,7 +77,13 @@ recentemente começou a incluir vive coding
 A Bain & Company foi fundada em 1973 por um grupo de dez funcionários do Boston Consulting Group (BCG). Os líderes eram William W. Bain Jr. (35% de participação), Pat Graham (25%) e George B. Bennett (25%). Os primeiros clientes foram Texas Instruments e Black & Decker, que saíram da BCG com o grupo fundador.
 
 ### como está hoje?
-
+- **22.000 funcionários** atualmente
+- receita de **US$7 bilhões** em 2025
+- comprometeu-se a doar 2 bilhões em consultoria pro bono para organizações sem fins lucrativos e do setor público até 2035
+- realizou demissões em 2025
+- recessão arrastada desde 2023
+	- ou seja, 2023,2024,2025
+- 
 
 ### desafios que estão enfrentando
 
@@ -113,7 +119,7 @@ criou o Sage
 
 ## 2 perguntas para a empresa
 1. como é na prática que o lema resultados e não relatórios funciona? tipo, gosto muito da ideia e gostaria muito mesmo de entender como todo esse processo que usam para cumprir o resultados e não relatórios
-
+2. após pesquisar vi que o setor de consultoria vem sofrendo retração, tanto que a propria bain & company tem diminuido desde 
 
 
 
