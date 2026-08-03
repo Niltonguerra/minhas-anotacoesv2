@@ -2,7 +2,6 @@
 Date: ""
 tags:
   - ingles/1000PalavrasMaisUsadas
-  - template
 ---
 **Action Plan**:
 - Learn New Words (10 Minutes)

@@ -2,7 +2,6 @@
 Date: ""
 tags:
   - template
-  - template/estudoAprofundado
 ---
 # Resumo da nota:
 no máximo 350 caracteres no resumo.

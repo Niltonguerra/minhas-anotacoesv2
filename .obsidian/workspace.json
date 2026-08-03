@@ -11,12 +11,15 @@
             "id": "0d519dfe0713eeaa",
             "type": "leaf",
             "state": {
-              "type": "excel-pro-view",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/controle de carreira/planilha de candidaturas.md"
+                "file": "notas_permanentes/utilitarios/templates/TpesquisaEmpresa.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "planilha de candidaturas"
+              "title": "TpesquisaEmpresa"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Livros/CleanCode",
+                "query": "tag:carreira/entrevistas/pesquisaDeEmpresa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -292,10 +295,20 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "2a94081eb84fb2b5",
+  "active": "0d519dfe0713eeaa",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
+    "notas_permanentes/utilitarios/templates/TCornell.md",
+    "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto_geral.md",
+    "notas_permanentes/utilitarios/templates/TEnglish.md",
+    "notas_permanentes/utilitarios/templates/Tprogramacao.md",
+    "notas_permanentes/utilitarios/templates/TLivro.md",
+    "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_10_proximos_passos.md",
+    "notas_permanentes/utilitarios/templates/TpesquisaEmpresa.md",
+    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/bain & company.md",
+    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/pesquisa de empresa.md",
+    "notas_bibliograficas/controle de carreira/controle de carreira.md",
     "notas_bibliograficas/controle de carreira/planilha de candidaturas.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/0-como estruturar o pensamento.md",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas - Candidaturas.csv",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.xlsx",
@@ -316,23 +329,13 @@
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A04-2025 — Cryptographic Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A02-2025 Security Misconfiguration.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A01-2025 Broken Access Control.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/resumo de videos/hábitos atômicos.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/anotações para buscar trabalho.md",
-    "notas_bibliograficas/cursos_longos/FIAP/modulo4/reactNative/1-reactNative.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260801134836.png",
     "notas_bibliograficas/controle de carreira",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260731214433.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260731172341.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260723123030.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.1.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.5.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.4.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.3.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/aspire/lessons/week 1-leadership/lesson 1.2.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/autodidata.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260521074448.png",
     "notas_bibliograficas/biblioteca/CleanCode/img/Pasted image 20260512083756.png",
