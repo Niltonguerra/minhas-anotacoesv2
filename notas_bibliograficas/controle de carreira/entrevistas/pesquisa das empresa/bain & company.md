@@ -16,6 +16,9 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+# Importante!
+Chance de 1% de aprovação para entrar na empresa 
+
 ## cultura organizacional
 
 ### valores:
@@ -51,11 +54,15 @@ guiadas pela integridade
 
 
 ### opinião de ex-funcionários?
-
+No Glassdoor, a Bain tem nota **4,3/5** com mais de 9.200 avaliações, e **88% dos funcionários recomendam a empresa** para amigos. A firma foi eleita Melhor Lugar para Trabalhar no Glassdoor em todos os anos desde 2009 até 2026
 
 
 ### a empresa já esteve envolvida em algum tipo de crime?
+A Bain foi banida de contratos do governo britânico por ser considerada culpada de **"grave conduta profissional"** por seu envolvimento no escândalo de captura do estado na África do Sul, onde seu escritório local ajudou a desmantelar a South African Revenue Service (SARS) durante o governo Jacob Zuma. [City AM](https://www.cityam.com/uk-government-bans-bain-co-from-competing-for-contracts-over-role-in-south-african-corruption-scandal/)
 
+A África do Sul baniu a Bain de contratos públicos por **10 anos** por "práticas corruptas e fraudulentas" relacionadas ao contrato com o SARS. A Bain devolveu os honorários recebidos (cerca de R167 milhões) com juros. [Bloomberg](https://www.bloomberg.com/news/articles/2022-09-29/s-african-treasury-bans-bain-from-public-contracts-for-10-years)
+
+Em **julho de 2025**, a Bain anunciou o encerramento de suas operações de consultoria na África do Sul.
 
 ### projetos sociais
 - incentiva os funcionários a ajudarem em ONGs
@@ -93,11 +100,17 @@ A Bain & Company foi fundada em 1973 por um grupo de dez funcionários do Boston
 
 ## situação de mercado
 ### Fonte de Receita/ produto vendido
+- em média, um time de 6 pessoas custa US$500 mil por mês
+
+
 
 ### Momento de mercado
+No cenário MBB: BCG reportou US$14,4 bilhões em receita em 2025, McKinsey cerca de US$16 bilhões e Bain aproximadamente US$7,5 bilhões. As taxas de aprovação em processos seletivos são abaixo de 1%, tornando-as as empregadoras mais seletivas do planeta.
+
 
 ### Principais concorrentes
-
+**MBB (tier 1):** McKinsey & Company e Boston Consulting Group.  
+**Tier 2:** PwC, Accenture, Oliver Wyman, Kearney, Deloitte, EY e KPMG
 
 
 ## projetos tocados recentemente
@@ -114,12 +127,19 @@ criou o Sage
 
 
 ### projeto 2:
+A Bain construiu **centenas de protótipos de software** como parte de sua nova abordagem de diligência de aquisições, usando ferramentas de AI vibe coding para recriar os produtos de empresas-alvo e testar se seus "moats" competitivos realmente se sustentam. Se consultores conseguem replicar a funcionalidade central de um SaaS em dias, o produto pode valer menos do que aparenta.
+
+
+### projeto 3
+A Bain colaborou com a seguradora MetroPlus e a Amazon Web Services para criar uma solução de chatbot que conecta membros vulneráveis a serviços sociais — um exemplo de consultoria com impacto social direto. [Consultancy.org](https://www.consultancy.org/firms/bain-company/projects)
+Outros projetos públicos recentes incluem consultoria pro bono ao Distrito Escolar de Los Angeles (LAUSD) e apoio à transformação estratégica do banco francês Société Générale.
 
 
 
 ## 2 perguntas para a empresa
 1. como é na prática que o lema resultados e não relatórios funciona? tipo, gosto muito da ideia e gostaria muito mesmo de entender como todo esse processo que usam para cumprir o resultados e não relatórios
-2. após pesquisar vi que o setor de consultoria vem sofrendo retração, tanto que a propria bain & company tem diminuido desde 
 
+2. após pesquisar vi que o setor de consultoria vem sofrendo retração, tanto que a propria bain & company tem diminuído desde 2023, muito por conta da AI, tendo isso em vista, quais são seus planos para se atualizar nessa nova realidade? se estiver tudo bem responder, desculpe por essa pergunta.
 
+3. com relação ao
 
