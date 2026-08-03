@@ -56,13 +56,14 @@ guiadas pela integridade
 ### a empresa já esteve envolvida em algum tipo de crime?
 
 
-### projetos sociais?
+### projetos sociais
+- incentiva os funcionários a ajudarem em ONGs
 
 
 
 ## tecnologias que usam
 ### Tech Stack Real
-
+recentemente começou a incluir vive coding
 
 ### arquitetura e escala
 
@@ -95,6 +96,14 @@ guiadas pela integridade
 ## projetos tocados recentemente
 
 ### projeto 1:
+criou o Sage
+- usa a LLM do ChatGPT
+- implementação de IA deles, provavelmente usa o chat
+- funções dele:
+	- consultores a encontrar insights de cases
+	- resumir pesquisas extensas  
+	- conectar com especialistas internos instantaneamente
+
 
 
 ### projeto 2:
