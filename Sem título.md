@@ -1,5 +1,6 @@
 ---
-Date: {date}
+Date:
+  date:
 tags:
   - template
 ---

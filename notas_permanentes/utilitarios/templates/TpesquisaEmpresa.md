@@ -5,18 +5,34 @@ tags:
 ---
 ## cultura organizacional
 
+
+
+
 ## tecnologias que usam
+### Tech Stack Real
 
-## projetos tocados recentemente
 
-## 2 perguntas para a empresa
+### arquitetura e escala
 
-## produto vendido
+
+
+
 
 ## história da empresa
+### como surgiu?
+
+
+### como está hoje?
+
+
+### desafios que estão enfrentando
+
+
+
+
 
 ## situação de mercado
-### Fonte de Receita
+### Fonte de Receita/ produto vendido
 
 ### Momento de mercado
 
@@ -24,4 +40,24 @@ tags:
 
 
 
+## projetos tocados recentemente
 
+### projeto 1:
+
+
+### projeto 2:
+
+
+
+## reputação da empresa
+
+### opinião de ex-funcionários?
+
+
+
+### a empresa já esteve envolvida em algum tipo de crime?
+
+
+
+
+## 2 perguntas para a empresa
