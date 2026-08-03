@@ -17,7 +17,7 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 - perguntas dos recrutadores são superficiais
 	- tente responder tudo na primeira pergunta
-- pergunte como o recrutador quer as resposta
+- pergunte como o recrutador quer as respostas
 
 
 exercicio:star

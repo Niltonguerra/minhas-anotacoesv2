@@ -66,20 +66,26 @@ entrevista presencial:
 - habilidades comunicativas
 - cliente no centro
 
+
+
 ## principais erros na entrevista
 - "ser você mesmo"
 	-  isso não quer dizer ser você mesmo
-	- mas mudar a si mesmo para que seja o que eles querem de maneira tão profunda que você mesmo são saiba onde você começa e onde o que eles procuram começa
+	- seja o que eles querem
+
 - não falar sobre você mesmo
 	- quando for falar de você mesmo use a metodologia star ou seja fale usando essa estrutura:
 		- situação- ambiente 
 		- tarefa- tarefa que precisava ser feira
 		- ação- o que fez
 		- resulta- o que gerou de valor
+
 - chegar atrasado
+
 - falar coisas pesadas
 	- problemas pessoais
 	- coisas tristes
+
 - estudar a empresa
 
 
@@ -97,11 +103,11 @@ entrevista presencial:
 3. NÃO pergunte para o recrutador sobre o que é a empresa, mas sim COMO a empresa atuou em determinado projeto, por exemplo.
 	-  Isso mostra que você fez uma pesquisa prévia.
 
- 4. Venda o seu pitch e ousa o recrutador
-	 - mas reserve um tempo para escutar do recrutador mais sobre a empresa. Isso mostra que você tem um interesse genuíno de fazer parte da organização.
+ 4. Venda o seu pitch, mas ousa o recrutador
+	 - reserve um tempo para escutar do recrutador mais sobre a empresa. Isso mostra que você tem um interesse genuíno de fazer parte da organização.
 
 5. Peça o LinkedIn dos recrutadores, 
-	- mantinha o seu perfil atualizado antes do evento.
+	- mantenha o seu perfil atualizado antes do evento.
 
 
 

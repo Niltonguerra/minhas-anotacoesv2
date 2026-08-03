@@ -20,6 +20,8 @@ table of contents: Create table of contents
 	- investiga você
 - perfil ouvinte
 	- ouve mais do que pergunta
+	- é o mais comum
+
 ## dicas para entrevista:
 - os primeiros momentos da entrevista são relevantes para o contexto.
 - o recrutador pode perguntar como está ou sobre o clima
@@ -55,8 +57,11 @@ table of contents: Create table of contents
 ## como lidar com situações desconfortáveis:
 - caso não tenha experiência profissional naquilo,
 	-  explique situações parecidas que conseguiu resolver o problema
+
 - caso tenha um problema no currículo
 	- crie uma resposta curta e uma longa caso o recrutador queira se aprofundar
+		- exemplo de pergunta: porque ficou 6 meses sem procurar trabalho depois de seu último trabalho?
+
 - tudo bem cometer erros, mantenha o foco e continue
 
 

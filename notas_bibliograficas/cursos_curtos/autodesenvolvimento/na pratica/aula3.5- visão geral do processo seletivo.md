@@ -19,7 +19,7 @@ table of contents: Create table of contents
 ## como se destacar?
 - pesquise sobre a empresa
 - seja gentil
-- não seja competitivo
+- **não** seja competitivo
 - trabalhe em equipe
 
 ## dicas sobre buscar emprego
