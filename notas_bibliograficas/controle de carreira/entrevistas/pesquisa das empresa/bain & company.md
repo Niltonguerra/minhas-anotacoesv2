@@ -47,6 +47,7 @@ guiadas pela integridade
 		- valores
 		- oportunidades de carreira
 
+- A firma também tem uma política de "Responsible AI Use" e participa da iniciativa de IA responsável da Microsoft
 
 
 ### opinião de ex-funcionários?
@@ -73,7 +74,7 @@ recentemente começou a incluir vive coding
 
 ## história da empresa
 ### como surgiu?
-
+A Bain & Company foi fundada em 1973 por um grupo de dez funcionários do Boston Consulting Group (BCG). Os líderes eram William W. Bain Jr. (35% de participação), Pat Graham (25%) e George B. Bennett (25%). Os primeiros clientes foram Texas Instruments e Black & Decker, que saíram da BCG com o grupo fundador.
 
 ### como está hoje?
 
@@ -111,6 +112,8 @@ criou o Sage
 
 
 ## 2 perguntas para a empresa
+1. como é na prática que o lema resultados e não relatórios funciona? tipo, gosto muito da ideia e gostaria muito mesmo de entender como todo esse processo que usam para cumprir o resultados e não relatórios
+
 
 
 
