@@ -18,7 +18,7 @@ table of contents: Create table of contents
 
 ## cultura organizacional
 
-valores:
+### valores:
 pessoas amigáveis, 
 colaborativas, 
 com alta energia e 
@@ -26,9 +26,12 @@ orientadas a resultados,
 guiadas pela integridade
 
 
-lema da empresa: 
+### lemas da empresa: 
 - A Bainie Never Lets Another Bainie Fail
 	- tradução: Um Bainie nunca deixa outro Bainie fracassar.
+- Results, not reports
+	- tradução: resultados, não relatórios
+
 
 
 
@@ -52,6 +55,8 @@ lema da empresa:
 
 ### a empresa já esteve envolvida em algum tipo de crime?
 
+
+### projetos sociais?
 
 
 

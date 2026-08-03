@@ -5,7 +5,11 @@ tags:
 ---
 ## cultura organizacional
 
+### valores:
 
+
+
+### lemas da empresa: 
 
 
 
