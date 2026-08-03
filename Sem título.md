@@ -1,6 +1,5 @@
 ---
-Date:
-  date:
+Date: 2026-08-03
 tags:
   - template
 ---
