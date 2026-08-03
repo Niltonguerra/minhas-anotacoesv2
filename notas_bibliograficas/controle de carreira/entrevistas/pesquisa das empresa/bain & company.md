@@ -18,6 +18,40 @@ table of contents: Create table of contents
 
 ## cultura organizacional
 
+valores:
+pessoas amigáveis, 
+colaborativas, 
+com alta energia e 
+orientadas a resultados, 
+guiadas pela integridade
+
+
+lema da empresa: 
+- A Bainie Never Lets Another Bainie Fail
+	- tradução: Um Bainie nunca deixa outro Bainie fracassar.
+
+
+
+
+
+## reputação da empresa
+
+- #1 Melhor Lugar para Trabalhar no Glassdoor por sete vezes
+- top 4 desde 2008 no glassdor
+- nota 4,3/5 com mais de 9.800 avaliações
+	- destaca-se em:
+		- cultura
+		- valores
+		- oportunidades de carreira
+
+
+
+### opinião de ex-funcionários?
+
+
+
+### a empresa já esteve envolvida em algum tipo de crime?
+
 
 
 
@@ -59,17 +93,6 @@ table of contents: Create table of contents
 
 
 ### projeto 2:
-
-
-
-## reputação da empresa
-
-### opinião de ex-funcionários?
-
-
-
-### a empresa já esteve envolvida em algum tipo de crime?
-
 
 
 

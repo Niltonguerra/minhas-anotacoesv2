@@ -8,6 +8,20 @@ tags:
 
 
 
+
+
+## reputação da empresa
+
+### opinião de ex-funcionários?
+
+
+
+### a empresa já esteve envolvida em algum tipo de crime?
+
+
+
+
+
 ## tecnologias que usam
 ### Tech Stack Real
 
@@ -46,16 +60,6 @@ tags:
 
 
 ### projeto 2:
-
-
-
-## reputação da empresa
-
-### opinião de ex-funcionários?
-
-
-
-### a empresa já esteve envolvida em algum tipo de crime?
 
 
 
