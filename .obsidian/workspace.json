@@ -113,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 464.5
+    "width": 315.5
   },
   "right": {
     "id": "6d280047996c7655",
@@ -269,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 741.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,10 +295,10 @@
   },
   "active": "0d519dfe0713eeaa",
   "lastOpenFiles": [
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/pesquisa de empresa.md",
     "notas_permanentes/utilitarios/templates/TpesquisaEmpresa.md",
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/bain & company.md",
     "notas_permanentes/utilitarios/templates/TCornell.md",
+    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/bain & company.md",
+    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/pesquisa de empresa.md",
     "notas_permanentes/utilitarios/templates/Tprogramacao.md",
     "Sem título.md",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_1_levantamento_de_informacoes.md",

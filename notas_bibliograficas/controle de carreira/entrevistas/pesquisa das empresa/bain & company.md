@@ -10,14 +10,46 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 # Tópicos:
 
-comando para criar o sumário automaticamente: 
-table of contents: Create table of contents
+- [[#3 perguntas para a empresa|3 perguntas para a empresa]]
+- [[#cultura organizacional|cultura organizacional]]
+	- [[#cultura organizacional#valores:|valores:]]
+	- [[#cultura organizacional#lemas da empresa:|lemas da empresa:]]
+- [[#reputação da empresa|reputação da empresa]]
+	- [[#reputação da empresa#opinião de ex-funcionários?|opinião de ex-funcionários?]]
+	- [[#reputação da empresa#a empresa já esteve envolvida em algum tipo de crime?|a empresa já esteve envolvida em algum tipo de crime?]]
+	- [[#reputação da empresa#projetos sociais|projetos sociais]]
+- [[#tecnologias que usam|tecnologias que usam]]
+	- [[#tecnologias que usam#Tech Stack Real|Tech Stack Real]]
+	- [[#tecnologias que usam#arquitetura e escala|arquitetura e escala]]
+- [[#história da empresa|história da empresa]]
+	- [[#história da empresa#como surgiu?|como surgiu?]]
+	- [[#história da empresa#como está hoje?|como está hoje?]]
+	- [[#história da empresa#desafios que estão enfrentando|desafios que estão enfrentando]]
+- [[#situação de mercado|situação de mercado]]
+	- [[#situação de mercado#Fonte de Receita/ produto vendido|Fonte de Receita/ produto vendido]]
+	- [[#situação de mercado#Momento de mercado|Momento de mercado]]
+	- [[#situação de mercado#Principais concorrentes|Principais concorrentes]]
+- [[#projetos tocados recentemente|projetos tocados recentemente]]
+	- [[#projetos tocados recentemente#projeto 1:|projeto 1:]]
+	- [[#projetos tocados recentemente#projeto 2:|projeto 2:]]
+	- [[#projetos tocados recentemente#projeto 3|projeto 3]]
 
 
 # Explicação dos tópicos:
 
-# Importante!
+###### Importante!
 Chance de 1% de aprovação para entrar na empresa 
+
+## 3 perguntas para a empresa
+1. como é na prática que o lema resultados e não relatórios funciona? tipo, gosto muito da ideia e gostaria muito mesmo de entender como todo esse processo que usam para cumprir o resultados e não relatórios
+
+2. após pesquisar vi que o setor de consultoria vem sofrendo retração, tanto que a propria bain & company tem diminuído desde 2023, muito por conta da AI, tendo isso em vista, quais são seus planos para se atualizar nessa nova realidade? se estiver tudo bem responder, desculpe por essa pergunta.
+
+3. com relação ao sage, a AI que vocês desenvolveram, normalmente desenvolvedores sem background forte ajudam no desenvolvimento do mesmo?
+
+
+
+
 
 ## cultura organizacional
 
@@ -133,13 +165,4 @@ A Bain construiu **centenas de protótipos de software** como parte de sua nova 
 ### projeto 3
 A Bain colaborou com a seguradora MetroPlus e a Amazon Web Services para criar uma solução de chatbot que conecta membros vulneráveis a serviços sociais — um exemplo de consultoria com impacto social direto. [Consultancy.org](https://www.consultancy.org/firms/bain-company/projects)
 Outros projetos públicos recentes incluem consultoria pro bono ao Distrito Escolar de Los Angeles (LAUSD) e apoio à transformação estratégica do banco francês Société Générale.
-
-
-
-## 2 perguntas para a empresa
-1. como é na prática que o lema resultados e não relatórios funciona? tipo, gosto muito da ideia e gostaria muito mesmo de entender como todo esse processo que usam para cumprir o resultados e não relatórios
-
-2. após pesquisar vi que o setor de consultoria vem sofrendo retração, tanto que a propria bain & company tem diminuído desde 2023, muito por conta da AI, tendo isso em vista, quais são seus planos para se atualizar nessa nova realidade? se estiver tudo bem responder, desculpe por essa pergunta.
-
-3. com relação ao
 
