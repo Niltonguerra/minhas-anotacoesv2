@@ -38,7 +38,17 @@ table of contents: Create table of contents
 
 
 #### exercicio de aula, quem sou eu em 2 minutos:
-bom, meu nome é nilton, tenho 24 anos, meu desejo por me tornar um programador surgiu enquanto estava fazendo meu curso técnico em eletroeletrônica no SENAI, mais precisamente durante minha aula de programação em microcontroladores, onde vi uma coisa que explodiu minha mente que foi a leitura de um teclado de membrana usando só 2 terminais do microcontrolador, que me fez desejar aprender mais sobre programação, nisso acabei desejando me aprofundar mais nessa matéria e para isso iniciei uma graduação em desenvolvimento de software multiplataforma na FATEC, onde aprendi diversas coisas, e aprendi mais do que é ser um desenvolvedor, que na minha opinião é ser alguém organizado e autodidata, falo isso porque código é uma coisa que vira confusão muito rápido e autodidata porque tem muita coisa para aprender, enquanto isso comecei um estágio que depois fui efetivado onde pude conhecer pessoas maravilhosas que foram incríveis e me ensinaram muitas coisas na prática e onde pude aprofundar meus conhecimentos, paralelamente terminei minha graduação e já iniciei minha pós graduação logo em seguida na FIAP com o objetivo de aprofundar ainda mais meus conhecimento e também deixar meu currículo mais competitivo para os recrutadores, ainda mais porque só tinha um tecnólogo e recentemente terminei minha pos graduação em julho
+bom, meu nome é nilton, tenho 24 anos, meu desejo por me tornar um programador surgiu enquanto estava fazendo meu curso técnico em eletroeletrônica no SENAI, mais precisamente durante minha aula de programação em microcontroladores, onde vi uma coisa que explodiu minha mente que foi a leitura de um teclado de membrana usando só 2 terminais do microcontrolador, que me fez desejar aprender mais sobre programação, nisso acabei desejando me aprofundar mais nessa matéria e para isso iniciei uma graduação em desenvolvimento de software multiplataforma na FATEC, onde aprendi diversas coisas, e aprendi mais do que é ser um desenvolvedor, que na minha opinião é ser alguém organizado e autodidata, falo isso porque código é uma coisa que vira confusão muito rápido e autodidata porque tem muita coisa para aprender e normalmente não vai ter uma pessoa para te ensinar, enquanto na faculdade comecei um estágio que depois fui efetivado onde pude conhecer pessoas maravilhosas que foram incríveis e me ensinaram muitas coisas na prática e onde pude aprofundar meus conhecimentos, paralelamente terminei minha graduação e já iniciei minha pós graduação logo em seguida na FIAP com o objetivo de aprofundar ainda mais meus conhecimento e esse sou eu eu diria.
+
+pontos principais do pet:
+- desejo de ser programador surgiu no SENAI
+- aprofundei na FATEC
+	- entendi quem seria um programador:
+		- autodidata
+		- organizado
+	- comecei estagiando e depois fui efetivado
+- fiz uma pós-graduação
+
 
 ## método STAR
 ### S - situação
