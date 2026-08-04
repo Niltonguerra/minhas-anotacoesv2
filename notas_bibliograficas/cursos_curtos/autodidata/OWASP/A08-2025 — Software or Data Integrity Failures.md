@@ -15,12 +15,20 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+## o que é?
+é quando um atacante tenta executar um código dentro do seu servidor, isso pode acontecer através de injes
+
+
+
+
+## exemplo de como ele se manifesta:
 
 
 
 
 
 
+## o que o OWASP recomenda:
 
 
 

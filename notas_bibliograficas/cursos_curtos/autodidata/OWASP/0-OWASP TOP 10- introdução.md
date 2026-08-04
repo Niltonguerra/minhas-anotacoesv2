@@ -74,9 +74,9 @@ Lição: tenha cuidado ao implementar a lógica de login
 
 
 ## A08:2025 — Software or Data Integrity Failures
-explicação do que é: é basicamente você confiar em código de terceiros... como posso dizer isso, lembra o ataque ao .xyz que poderia comprometer o ssh, então isso é um tipo de ataque Software or Data Integrity Failures e também engloba a questão da serialização dos dados, pois pode ser que se o atacante poder controlar o payload da requisição pode ser que ele consiga te atacar, e também pode acontecer esse tipo de ataque via cookies serializados sem assinatura 
+explicação do que é: basicamente é um ataque que tem como pretensão injetar um código no servidor durante a request, por exemplo, lembra o ataque ao .xyz que poderia comprometer o ssh, então isso é um tipo de ataque Software or Data Integrity Failures e também engloba a questão da serialização dos dados, pois pode ser que se o atacante poder controlar o payload da requisição pode ser que ele consiga te atacar, e também pode acontecer esse tipo de ataque via cookies serializados sem assinatura
 aprofundamento:[[A08-2025 — Software or Data Integrity Failures]]
-Lição: Mantenha as suas libs usadas na empresa de forma interna ao seu sistema, isso evita risco desnecessários, e valide os dados que chegam no seu servido
+Lição: Mantenha as suas libs usadas na empresa de forma interna ao seu sistema, isso evita risco desnecessários, e valide os dados que chegam no seu servido através de um DTO, o cookies não precisa se preocupar porque a maioria dos frameworks já cuida dessa questão cookies serializados sem assinatura
 
 ## A09:2025 — Security Logging and Alerting Failures
 explicação do que é:

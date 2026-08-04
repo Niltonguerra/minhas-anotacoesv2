@@ -23,21 +23,22 @@
             }
           },
           {
-            "id": "c7982fbf6088520a",
+            "id": "b3090cf7396fa9f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A08-2025 — Software or Data Integrity Failures.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "A07-2025 — Authentication Failures"
+              "title": "A08-2025 — Software or Data Integrity Failures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -311,11 +312,12 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "cce82ace90c036c6",
+  "active": "b3090cf7396fa9f0",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A08-2025 — Software or Data Integrity Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_permanentes/utilitarios/templates/TEnglish.md",
     "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/anotações para buscar trabalho.md",
@@ -339,7 +341,6 @@
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_4_estudo_aprofundado.md",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_5_Interacao_do_assunto_com_o_meio.md",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_6_avaliacao_do_assunto.md",
-    "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_7_exercitando_o_assunto.md",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas - Candidaturas.csv",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.xlsx",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.ods",
