@@ -66,7 +66,7 @@ table of contents: Create table of contents
 
 ### a empresa já esteve envolvida em algum tipo de crime?
 **1. Caso Pirâmide Financeira (Canis Majoris) — 2026:**  
-A QI Tech perdeu um recurso no Tribunal de Justiça de São Paulo e foi mantida como parte de uma execução em caso apontado como pirâmide financeira ligada ao grupo GR Canis Majoris. A 22ª Câmara de Direito Privado negou provimento ao recurso da fintech. O tribunal entendeu que, ao fornecer infraestrutura de pagamentos para o grupo investigado, a QI Tech integrou a cadeia que viabilizou o repasse de recursos às vítimas do esquema. A decisão é vista por advogados como um sinal de que provedores de BaaS no Brasil enfrentam risco crescente de responsabilização por operações de terceiros.
+A QI Tech perdeu um recurso no Tribunal de Justiça de São Paulo e foi mantida como parte de uma execução em caso apontado como pirâmide financeira ligada ao grupo GR Canis Majoris. A 22ª Câmara de Direito Privado negou provimento ao recurso da fintech. O tribunal entendeu que, ao fornecer infraestrutura de pagamentos para o grupo investigado, a QI Tech integrou a cadeia que viabilizou o repasse de recursos às vítimas do esquema. A decisão é vista por advogados como um sinal de que provedores de BaaS no Brasil enfrentam risco crescente de responsabilização por operações de terceiros.[Times Brasil](https://timesbrasil.com.br/brasil/judiciario/tjsp-qi-tech-execucao-piramide-financeira-canis-majoris/)[Times Brasil](https://timesbrasil.com.br/investimentos/fundos-de-investimentos/rumor-qi-tech-carteira-reag-master/)
 
 **2. Rumor sobre carteira da Reag/Banco Master:**  
 O nome da QI Tech circulou em apurações do mercado financeiro como principal candidata a comprar uma carteira de fundos avaliada em cerca de R$ 500 milhões, hoje nas mãos da Arandu Investimentos (antiga Reag), que é alvo da Polícia Federal por atuar junto ao crime organizado. A própria QI Tech nega qualquer negociação em andamento. [Times Brasil](https://timesbrasil.com.br/investimentos/fundos-de-investimentos/rumor-qi-tech-carteira-reag-master/)
@@ -76,10 +76,15 @@ O nome da QI Tech circulou em apurações do mercado financeiro como principal c
 
 ## tecnologias que usam
 ### Tech Stack Real
-
+- Python, 
+- SQL
+- usa **APIs RESTful** para todos os seus produtos (crédito, banking, antifraude, pagamentos)
+- **Machine Learning** para análise de fraudes — milhares de transações por segundo são analisadas com uso de Machine Learning
+- A QI Tech se autodenomina uma "AI-first fintech-infra", indicando uso intensivo de inteligência artificial no core do negócio [Qitech](https://qitech.com.br/newsroom/qi-tech-alcanca-21-milhoes-cpfs/)
+- 
 
 ### arquitetura e escala
-
+A empresa processa atualmente mais de 20 milhões de transações de antifraude por mês, possui 90 milhões de cadastros validados e protege mais de US$ 13 milhões em transações suspeitas mensalmente. Com mais de US$ 17 bilhões em ativos sob custódia. Em 2025, a companhia processou mais de R$ 57 bilhões em operações de crédito, envolvendo 21,2 milhões de CPFs únicos. [TI INSIDE](https://tiinside.com.br/31/07/2025/qi-tech-capta-us-63-milhoes-e-fortalece-estrategia-de-expansao-e-mas/)[Qitech](https://qitech.com.br/newsroom/qi-tech-alcanca-21-milhoes-cpfs/)
 
 
 
