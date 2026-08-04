@@ -23,9 +23,13 @@ table of contents: Create table of contents
 
 ## cultura organizacional
 
-### valores/ Lemas:
+### valores:
 - alta performance
-
+	- prepara a senzala que chicote vai estralar, kkkkk 
+- perfil empreendedor
+- resilientes
+- inovadores
+- com pensamento crítico e que gostam de questionar.
 
 
 ### lemas da empresa: 
@@ -36,13 +40,38 @@ table of contents: Create table of contents
 ## reputação da empresa
 
 ### opinião de ex-funcionários?
+- avaliação é bastante polarizada
+- 77% dos funcionários recomendariam trabalhar lá
+- nota de equilíbrio entre vida pessoal e trabalho é baixa: apenas 2,9
+
+#### pontos positivos:
+- oportunidade de crescimento, 
+- ambiente positivo e dinâmico, 
+- equipe colaborativa, 
+- desafios diários 
+- aprendizado constante.
+
+
+#### pontos negativos:
+- ambiente como pesado e tóxico, 
+	- com assédio tratado como "parte da cultura", 
+- ausência de controle de jornada ou pagamento de horas extras, 
+- equipes mal dimensionadas em relação ao volume de trabalho altíssimo. 
+- há liderança ruim, 
+- sem respeito à pessoa além do funcionário, 
+- exigências veladas para trabalhar além do acordado, 
+	- tudo isso sob o pretexto de "cultura forte" e "ambiente de crescimento".
 
 
 
 ### a empresa já esteve envolvida em algum tipo de crime?
+**1. Caso Pirâmide Financeira (Canis Majoris) — 2026:**  
+A QI Tech perdeu um recurso no Tribunal de Justiça de São Paulo e foi mantida como parte de uma execução em caso apontado como pirâmide financeira ligada ao grupo GR Canis Majoris. A 22ª Câmara de Direito Privado negou provimento ao recurso da fintech. O tribunal entendeu que, ao fornecer infraestrutura de pagamentos para o grupo investigado, a QI Tech integrou a cadeia que viabilizou o repasse de recursos às vítimas do esquema. A decisão é vista por advogados como um sinal de que provedores de BaaS no Brasil enfrentam risco crescente de responsabilização por operações de terceiros.
 
+**2. Rumor sobre carteira da Reag/Banco Master:**  
+O nome da QI Tech circulou em apurações do mercado financeiro como principal candidata a comprar uma carteira de fundos avaliada em cerca de R$ 500 milhões, hoje nas mãos da Arandu Investimentos (antiga Reag), que é alvo da Polícia Federal por atuar junto ao crime organizado. A própria QI Tech nega qualquer negociação em andamento. [Times Brasil](https://timesbrasil.com.br/investimentos/fundos-de-investimentos/rumor-qi-tech-carteira-reag-master/)
 
-
+**Importante:** em ambos os casos, a QI Tech não foi acusada de conduta criminosa direta — a controvérsia gira em torno de sua responsabilidade como provedora de infraestrutura para terceiros.
 
 
 ## tecnologias que usam
