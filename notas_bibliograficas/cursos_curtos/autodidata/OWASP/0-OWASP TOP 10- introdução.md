@@ -24,7 +24,7 @@ table of contents: Create table of contents
 
 ## A01:2025 — Broken Access Control
 ### explicação do que é:
-descrição: é quanto falta regras de controle de acesso a recursos no sistema.
+descrição: é quanto falta regras de controle de acesso a recursos no sistema. basicamente ele engloba os ataques que acontecem depois de usuário ter uma conta no sistema ou já estar logado no sistema 
 
 aprofundamento: [[A01-2025 Broken Access Control]]
 
@@ -67,9 +67,9 @@ Lição: tenha cuidado na fase de planejamento
 
 
 ## A07:2025 — Authentication Failures
-explicação do que é:
+explicação do que é: é basicamente problemas de segurança referentes a quando o usuário vai acessar o sistema
 aprofundamento:[[A07-2025 — Authentication Failures]]
-Lição:
+Lição: tenha cuidado ao implementar a lógica de login
 
 
 
