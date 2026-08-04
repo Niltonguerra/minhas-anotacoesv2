@@ -79,9 +79,9 @@ aprofundamento:[[A08-2025 — Software or Data Integrity Failures]]
 Lição: Mantenha as suas libs usadas na empresa de forma interna ao seu sistema, isso evita risco desnecessários, e valide os dados que chegam no seu servido através de um DTO, o cookies não precisa se preocupar porque a maioria dos frameworks já cuida dessa questão cookies serializados sem assinatura
 
 ## A09:2025 — Security Logging and Alerting Failures
-explicação do que é:
+explicação do que é: é falta de observabilidade em uma aplicação
 aprofundamento:[[A09-2025 — Security Logging and Alerting Failures]]
-Lição:
+Lição: implemente observabilidade, não só por paz de espirito, mas também por questão de segurança
 
 
 ## A10:2025 — Mishandling of Exceptional Conditions
