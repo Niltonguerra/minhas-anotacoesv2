@@ -21,6 +21,14 @@ table of contents: Create table of contents
 
 2. **Com o IPO na Nasdaq projetado para 2027, como a empresa está estruturando a governança e o compliance para atender às exigências do mercado americano?**
 
+
+
+
+> [!NOTE] nota
+> **Resumo executivo:** A QI Tech é a AWS do crédito brasileiro — infraestrutura invisível, lucrativa desde o início, com ambição de IPO na Nasdaq. O grande risco no radar é a responsabilização jurídica por clientes que usam sua plataforma para fins fraudulentos, além dos desafios culturais de uma empresa em hipercrescimento.
+
+
+
 ## cultura organizacional
 
 ### valores:
@@ -116,15 +124,14 @@ As empresas usam a QI Tech para automatizar toda a jornada de tecnologia finance
 
 
 ### Momento de mercado
-
+As principais verticais hoje são Banking as a Service (BaaS) e Lending as a Service — a maior vertical, que processa entre R$ 9 bilhões e R$ 10 bilhões em crédito mensalmente. A empresa está em franca expansão para seguros, câmbio e financiamento de veículos. [Bloomberg Linea](https://www.bloomberglinea.com.br/startups/unicornio-brasileiro-qi-tech-mira-ipo-e-prepara-ofensiva-de-r-4-bilhoes-em-aquisicoes/)
 
 
 
 
 
 ### Principais concorrentes
-
-
+No segmento de BaaS, a concorrência inclui Celcoin, Dock, Swap, Zoop, FitBank, BMP e Bankly, além de bancos como Itaú Unibanco, BTG Pactual, BS2 e outros que vêm avançando em estruturas de BaaS. A QI Tech se diferencia por ter licença própria de SCD e DTVM, o que é raro no setor. [Finsiders Brasil](https://finsidersbrasil.com.br/pagamentos/apos-compra-pela-evertec-sinqia-entra-em-pagamentos/)
 
 
 
@@ -132,9 +139,10 @@ As empresas usam a QI Tech para automatizar toda a jornada de tecnologia finance
 ## projetos tocados recentemente
 
 ### projeto 1:
+A QI Tech adquiriu a Autobanking, marcando sua entrada oficial no mercado de financiamento de veículos, que movimentou R$ 283,4 bilhões em 2025 — uma média de R$ 24 bilhões ao mês — e representa a categoria de crédito que mais cresce no país.
 
 
 ### projeto 2:
-
+A empresa submeteu o pleito para criar sua própria seguradora junto à Susep, depositando entre R$ 20 e R$ 30 milhões de capital exigido, e está em trâmites finais para a liberação da licença. O foco inicial será em seguros de menor tíquete, como seguro prestamista, residencial e de vida, integrados diretamente à plataforma. Antes disso, o produto de "seguros as a service" já emitiu mais de R$ 150 milhões em prêmios em seis meses de operação. [Bloomberg Linea](https://www.bloomberglinea.com.br/startups/unicornio-brasileiro-qi-tech-mira-ipo-e-prepara-ofensiva-de-r-4-bilhoes-em-aquisicoes/)[Finsiders Brasil](https://finsidersbrasil.com.br/negocios-em-fintechs/aportes/qi-tech-capta-us-63-milhoes-e-mantem-apetite-por-aquisicoes/)
 
 
