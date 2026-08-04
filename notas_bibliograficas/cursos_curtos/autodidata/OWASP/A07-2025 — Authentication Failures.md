@@ -53,14 +53,18 @@ Outro caso comum: JWT sem validação de `exp` no servidor — o token expira no
 ## o que o OWASP recomenda:
 - MFA onde possível
 - não implantar credenciais default
-	- colocar filtros para evitar senhas fracas
+- colocar filtros para evitar senhas fracas
+- token com expiração curta
 - rate limiting + lockout
 	- tentativa máximas de login
 - invalidar sessões 
 	- no logout fazer o cancelamento do token gerado no lado do cliente e no lado do servidor
 - rotacionar session ID
 	- após login com sucesso sempre rotacionar o token gerado, que ele nunca seja igual ao da última sessão
-- token com expiração curta
+
+
+
+
 
 
 

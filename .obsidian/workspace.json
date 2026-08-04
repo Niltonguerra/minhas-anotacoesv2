@@ -37,8 +37,7 @@
               "title": "A07-2025 — Authentication Failures"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,10 +311,10 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "c7982fbf6088520a",
+  "active": "cce82ace90c036c6",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_permanentes/utilitarios/templates/TEnglish.md",
     "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
