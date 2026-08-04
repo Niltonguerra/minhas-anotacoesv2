@@ -41,15 +41,15 @@ table of contents: Create table of contents
 bom, meu nome é nilton, tenho 24 anos, meu desejo por me tornar um programador surgiu enquanto estava fazendo meu curso técnico em eletroeletrônica no SENAI, mais precisamente durante minha aula de programação de microcontroladores, que me fez desejar aprender mais sobre programação, nisso acabei desejando me aprofundar mais nessa matéria e para isso iniciei uma graduação em desenvolvimento de software multiplataforma na FATEC, onde aprendi diversas coisas, e aprendi mais do que é ser um desenvolvedor, que na minha opinião é ser alguém organizado e autodidata, falo isso porque muito do que fazemos como programadores é deixar o código organizado e autodidata porque tem muita coisa para aprender e normalmente não vai ter uma pessoa para te ensinar, enquanto na faculdade comecei um estágio que depois fui efetivado onde pude conhecer pessoas maravilhosas que foram incríveis e me ensinaram muitas coisas, paralelamente terminei minha graduação e já iniciei minha pós graduação logo em seguida na FIAP em desenvolvimento full stack onde aprofundei mais meus conhecimento e meu plano daqui 5 anos é conseguir aumentar meus conhecimentos em programação, conseguir um emprego e ao mesmo tempo empreender criando soluções tecnológicas.
 
 pontos principais do pet:
-- desejo de ser programador surgiu no SENAI
-- aprofundei na FATEC
+- desejo de ser programador surgiu no SENAI - técnico em eletroeletrônica
+- aprofundei na FATEC - desenvolvimento de software multiplataforma
 	- entendi quem seria um programador:
 		- autodidata
 		- organizado
 	- comecei estagiando e depois fui efetivado
-- fiz uma pós-graduação
+- fiz uma pós-graduação fiap - desenvolvimento full stack
 - passos futuros
-	- conseguir um emprego
+	- conseguir um novo emprego
 	- empreender criando soluções tecnológicas 
 
 
