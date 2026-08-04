@@ -24,5 +24,7 @@ table of contents: Create table of contents
 ![[Pasted image 20260804185325.png]]
 
 
+## pit no formato blocos:
+![[Pasted image 20260804192752.png]]
 
 
