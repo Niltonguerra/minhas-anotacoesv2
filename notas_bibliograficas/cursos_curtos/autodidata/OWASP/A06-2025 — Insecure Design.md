@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2026-08-04T00:00:00
 tags:
   - tecnologia/segurança
 ---
@@ -16,6 +16,22 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 
+## o que é:
+- é quando você tem um planejamento ruim e passa isso para a fase de desenvolvimento
+
+
+
+## exemplos de como se manifesta:
+- ausência de threat modeling
+	- a modelagem de segurança deve ser desenvolvida desde a etapa de mapeamento do domínio, ou seja, desde o DDD
+
+- lógica de negócio sem controles adequados
+	- uma loja que não implementa um controle de quantos cupons de desconto podem ser aplicados na mesma sessão
+
+- ausência de controles no fluxo crítico
+	- um fluxo de pagamento que não valida o estado da transação no servidor antes de finalizar a compra
+
+- multi-tenancy mal modelado
 
 
 
