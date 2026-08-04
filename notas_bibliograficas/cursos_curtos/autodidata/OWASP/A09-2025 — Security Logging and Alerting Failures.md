@@ -46,7 +46,31 @@ table of contents: Create table of contents
 
 
 
+## Exemplo concreto
 
+Atacante faz credential stuffing — testa 50.000 combinações de usuário/senha ao longo de 3 dias, em horários distribuídos para não disparar rate limiting simples.
+
+Sem logging adequado:
+
+```
+- Nenhum registro das tentativas falhas
+- Login bem-sucedido na tentativa 50.001 não se distingue de login normal
+- Conta comprometida opera por semanas sem detecção
+```
+
+Com logging adequado:
+
+```
+- 50.000 falhas registradas com IP, timestamp, user-agent
+- Padrão detectado por volume ou correlação de IP
+- Alerta disparado, conta bloqueada preventivamente
+```
 
 
 ## o que o OWASP recomenda:
+- **Logar eventos críticos**: login (sucesso e falha), logout, falhas de controle de acesso, falhas de validação de input em volume anormal
+- **Log com contexto suficiente**: timestamp UTC, user ID, IP, endpoint, resultado
+- **Log centralizado e imutável**: enviar para sistema externo (SIEM, ELK, Datadog) — não depender só do filesystem local
+- **Não logar dado sensível**: senha, token, número de cartão
+- **Alertas ativos** para padrões anômalos — não só armazenar, mas reagir
+- **Testar** que o logging funciona em produção

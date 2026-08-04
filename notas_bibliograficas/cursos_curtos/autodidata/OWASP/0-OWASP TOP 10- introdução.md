@@ -85,7 +85,7 @@ Lição: implemente observabilidade, não só por paz de espirito, mas também p
 
 
 ## A10:2025 — Mishandling of Exceptional Conditions
-explicação do que é:
+explicação do que é: é quando não se mapeou todos os possíveis cenários que o sistema passaria e por conta disso pode acontecer um erro, e esse erro gera falha de segurança
 aprofundamento:[[A10-2025 — Mishandling of Exceptional Conditions]]
 Lição:
 
