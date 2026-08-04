@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/bain & company.md",
+                "file": "notas_permanentes/utilitarios/templates/TpesquisaEmpresa.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "bain & company"
+              "title": "TpesquisaEmpresa"
             }
           }
         ]
@@ -295,9 +295,9 @@
   },
   "active": "0d519dfe0713eeaa",
   "lastOpenFiles": [
+    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/bain & company.md",
     "notas_permanentes/utilitarios/templates/TpesquisaEmpresa.md",
     "notas_permanentes/utilitarios/templates/TCornell.md",
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/bain & company.md",
     "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/pesquisa de empresa.md",
     "notas_permanentes/utilitarios/templates/Tprogramacao.md",
     "Sem título.md",
