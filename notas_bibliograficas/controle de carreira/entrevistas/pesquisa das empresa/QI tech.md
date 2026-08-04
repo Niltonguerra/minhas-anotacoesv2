@@ -81,7 +81,7 @@ O nome da QI Tech circulou em apurações do mercado financeiro como principal c
 - usa **APIs RESTful** para todos os seus produtos (crédito, banking, antifraude, pagamentos)
 - **Machine Learning** para análise de fraudes — milhares de transações por segundo são analisadas com uso de Machine Learning
 - A QI Tech se autodenomina uma "AI-first fintech-infra", indicando uso intensivo de inteligência artificial no core do negócio [Qitech](https://qitech.com.br/newsroom/qi-tech-alcanca-21-milhoes-cpfs/)
-- 
+
 
 ### arquitetura e escala
 A empresa processa atualmente mais de 20 milhões de transações de antifraude por mês, possui 90 milhões de cadastros validados e protege mais de US$ 13 milhões em transações suspeitas mensalmente. Com mais de US$ 17 bilhões em ativos sob custódia. Em 2025, a companhia processou mais de R$ 57 bilhões em operações de crédito, envolvendo 21,2 milhões de CPFs únicos. [TI INSIDE](https://tiinside.com.br/31/07/2025/qi-tech-capta-us-63-milhoes-e-fortalece-estrategia-de-expansao-e-mas/)[Qitech](https://qitech.com.br/newsroom/qi-tech-alcanca-21-milhoes-cpfs/)
@@ -91,23 +91,41 @@ A empresa processa atualmente mais de 20 milhões de transações de antifraude 
 
 ## história da empresa
 ### como surgiu?
+A QI Tech foi fundada em 2018 por Pedro Mac Dowell, que teve uma primeira tentativa de empreender no setor de gestão de crédito, fundando um FIDC com amigos. Sem escala, o projeto faliu. Após voltar ao mercado financeiro, ele e seus sócios fundaram a QI Tech focada em oferecer infraestrutura bancária para empresas que desejam operar como bancos.
+A empresa nasceu com Pedro Mac Dowell (ex-fundador da Quatá Investimentos), Marcelo Buosi e Marcelo Bentivoglio (ex-Goldman Sachs). Na mesma época, tornou-se a primeira fintech do país a obter a licença de SCD (Sociedade de Crédito Direto) concedida pelo Banco Central. [Bloomberg Linea](https://www.bloomberglinea.com.br/startups/brasileira-qi-tech-levanta-us-200-milhoes-em-uma-das-maiores-serie-b-da-historia/)
 
 
 ### como está hoje?
+A QI Tech alcançou o status de unicórnio em 2024, atingindo avaliação superior a US$ 1 bilhão (R$ 5,1 bilhões), sendo o primeiro unicórnio brasileiro daquele ano. Conta atualmente com mais de 400 clientes, incluindo Vivo, QuintoAndar, Shopee e 99. A empresa projetou ultrapassar R$ 1 bilhão em faturamento em 2025 e está de olho em novas aquisições para acelerar sua expansão. [Qitech](https://qitech.com.br/en/newsroom/qi-tech-e-a-primeira-startup-a-se-tornar-unicornio-em-2024-no-brasil/)[Let's Money](https://www.letsmoney.com.br/fintech/qi-tech-receita-aquisicoes/)
 
 
 ### desafios que estão enfrentando
+1. **Responsabilização legal como infraestrutura:** O precedente do caso Canis Majoris coloca em xeque o modelo de "somos apenas a infraestrutura" — a Justiça já entendeu que provedores de BaaS podem ser corresponsáveis por fraudes de clientes.
 
+2. **Escalada regulatória:** A empresa precisa manter compliance em múltiplas licenças (SCD, DTVM, futura seguradora) enquanto cresce rapidamente via aquisições.
 
+3. **Cultura interna:** As avaliações negativas de funcionários indicam desafios de gestão de pessoas e retenção em ritmo de hipercrescimento.
+
+4. **Preparação para IPO:** A empresa mira um IPO na Nasdaq projetado para meados de 2027 com valuation-alvo de US$ 15 bilhões — um salto enorme do valuation atual de ~US$ 1,5 bilhão. [Bloomberg Linea](https://www.bloomberglinea.com.br/startups/qi-tech-compra-autobanking-e-avanca-em-plano-de-r-4-bi-em-aquisicoes-rumo-ao-ipo/)
 
 
 
 ## situação de mercado
 ### Fonte de Receita/ produto vendido
+As empresas usam a QI Tech para automatizar toda a jornada de tecnologia financeira com soluções de crédito, banking, antifraude, pagamentos, entre outros. A oferta inclui abertura de contas digitais, motor de crédito, antifraude, Pix, TED, boleto, cartão e gestão de FIDCs. O modelo é B2B — a empresa nunca atende consumidor final diretamente. [QI Tech](https://qitech.com.br/)
+
 
 ### Momento de mercado
 
+
+
+
+
+
 ### Principais concorrentes
+
+
+
 
 
 
