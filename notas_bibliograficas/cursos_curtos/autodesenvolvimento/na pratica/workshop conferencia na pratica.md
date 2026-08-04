@@ -30,4 +30,11 @@ table of contents: Create table of contents
 
 
 
-![[Pasted image 20260804200411.png]]
+## boas práticas![[Pasted image 20260804200411.png]]
+
+
+
+## boas perguntas:![[Pasted image 20260804204821.png]]
+
+
+![[Pasted image 20260804205116.png]]
