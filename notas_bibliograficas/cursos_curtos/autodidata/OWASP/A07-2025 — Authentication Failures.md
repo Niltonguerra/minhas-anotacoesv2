@@ -35,11 +35,32 @@ table of contents: Create table of contents
 	- session id exposto na url
 	- session id não rotacionado após login(session fixation)
 	- session não invalidada no logout
-	- tokens jW
+	- Tokens JWT sem expiração ou com algoritmo `none`
 
 
+### Exemplo concreto de JWT mal implementado
+
+Você já estudou JWT/HMAC-SHA256, então isso vai ser direto:
+
+```
+Header: { "alg": "none" }
+```
+
+Algumas bibliotecas antigas aceitavam `alg: none`, ignorando a assinatura. O atacante simplesmente forja o payload e remove a assinatura. Falha de implementação, mas originada em design de biblioteca.
+Outro caso comum: JWT sem validação de `exp` no servidor — o token expira no papel, mas o backend não checa.
 
 
+## o que o OWASP recomenda:
+- MFA onde possível
+- não implantar credenciais default
+	- colocar filtros para evitar senhas fracas
+- rate limiting + lockout
+	- tentativa máximas de login
+- invalidar sessões 
+	- no logout fazer o cancelamento do token gerado no lado do cliente e no lado do servidor
+- rotacionar session ID
+	- após login com sucesso sempre rotacionar o token gerado, que ele nunca seja igual ao da última sessão
+- token com expiração curta
 
 
 
