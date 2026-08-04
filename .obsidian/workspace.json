@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
+                "file": "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "A06-2025 — Insecure Design"
+              "title": "0-OWASP TOP 10- introdução"
             }
           }
         ]
@@ -298,6 +298,7 @@
   },
   "active": "cce82ace90c036c6",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_permanentes/utilitarios/templates/TEnglish.md",
     "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
@@ -324,7 +325,6 @@
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_6_avaliacao_do_assunto.md",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_7_exercitando_o_assunto.md",
     "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_8_analise_de_outras_perspectivas_do_assunto.md",
-    "notas_permanentes/utilitarios/templates/template_estudo_aprofundado/part_9_resumo_geral_do_assunto.md",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas - Candidaturas.csv",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.xlsx",
     "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.ods",

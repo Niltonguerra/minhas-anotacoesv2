@@ -32,6 +32,19 @@ table of contents: Create table of contents
 	- um fluxo de pagamento que não valida o estado da transação no servidor antes de finalizar a compra
 
 - multi-tenancy mal modelado
+	- permitir que um tenant tenha acesso a dados de outro tenant por design, é um erro de modelagem
+
+
+## como resolver esse tipo de problema?
+- threat modeling em toda feature de segurança crítica
+- secure design patterns
+	- usar padrões conhecidos para autenticação, sessão, controle de acesso
+- testes de abuso de lógica de negócio
+	- não só testes de unidade, mas modelar o que um atacante tentaria fazer com o fluxo
+- limitar recursos por design
+	- rate limiting, quotas, anti-automation desde o início
+- segregação entre genants desde a modelagem
+ 
 
 
 
