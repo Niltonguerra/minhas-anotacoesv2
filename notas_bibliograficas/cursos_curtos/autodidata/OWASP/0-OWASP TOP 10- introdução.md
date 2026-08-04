@@ -1,5 +1,5 @@
 ---
-Date: 2026-07-17T18:53:00
+Date: 2026-08-03T18:53:00
 tags:
   - tecnologia
   - tecnologia/segurança
@@ -60,9 +60,9 @@ Lição: faça uma tratativa nos seus campos para no frontend para evitar a inje
 
 
 ## A06:2025 — Insecure Design
-explicação do que é:
+explicação do que é: é insegurança por arquitetura
 aprofundamento:[[A06-2025 — Insecure Design]]
-Lição:
+Lição: tenha cuidado na fase de planejamento 
 
 
 
