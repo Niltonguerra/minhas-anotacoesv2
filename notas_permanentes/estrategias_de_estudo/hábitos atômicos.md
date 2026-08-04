@@ -1,8 +1,7 @@
 ---
 Date: 2026-07-12T11:59:00
 tags:
-  - autodidata
-  - autodidata/desenvolvimentoPessoal
+  - EstrategiasDeEstudo
 ---
 # Resumo da nota:
 nessa nota vimos como alcançar objetivos, vimos o que são objetivos, identidade, metas, hábitos,sistemas,ações e resultados; vimos como eles se relacionam e como alcançar um objetivo, além disso também vimos a jornada da ação e como facilitar a execução da mesma.
