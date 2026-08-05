@@ -38,3 +38,5 @@ table of contents: Create table of contents
 
 
 ![[Pasted image 20260804205116.png]]
+
+![[Pasted image 20260804210534.png]]![[Pasted image 20260804210551.png]]![[Pasted image 20260804210727.png]]
