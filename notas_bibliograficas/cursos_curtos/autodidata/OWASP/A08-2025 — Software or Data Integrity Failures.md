@@ -1,5 +1,5 @@
 ---
-Date: ""
+Date: 2026-08-03T11:43:00
 tags:
   - tecnologia/segurança
 ---

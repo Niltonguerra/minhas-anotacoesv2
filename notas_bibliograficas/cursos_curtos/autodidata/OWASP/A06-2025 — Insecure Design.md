@@ -43,7 +43,7 @@ table of contents: Create table of contents
 	- não só testes de unidade, mas modelar o que um atacante tentaria fazer com o fluxo
 - limitar recursos por design
 	- rate limiting, quotas, anti-automation desde o início
-- segregação entre genants desde a modelagem
+- segregação entre tenants desde a modelagem
  
 
 
