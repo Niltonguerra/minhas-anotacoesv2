@@ -27,7 +27,7 @@
   "copyCommands": [
     {
       "name": "Quote",
-      "template": "> ({{linkWithDisplay}})\n> {{selection}}\n"
+      "template": "> ({{linkWithDisplay}})\n> {{text}}\n"
     },
     {
       "name": "Link",
@@ -110,8 +110,8 @@
   "recordPDFInternalLinkHistory": true,
   "alwaysRecordHistory": true,
   "renderMarkdownInStickyNote": false,
-  "enablePDFEdit": true,
-  "author": "nilton",
+  "enablePDFEdit": false,
+  "author": "",
   "writeHighlightToFileOpacity": 0.2,
   "defaultWriteFileToggle": false,
   "syncWriteFileToggle": true,
@@ -211,8 +211,8 @@
   "useCallout": true,
   "calloutType": "PDF",
   "calloutIcon": "highlighter",
-  "highlightBacklinksInEmbed": true,
-  "highlightBacklinksInHoverPopover": true,
+  "highlightBacklinksInEmbed": false,
+  "highlightBacklinksInHoverPopover": false,
   "highlightBacklinksInCanvas": true,
   "clickPDFInternalLinkWithModifierKey": true,
   "clickOutlineItemWithModifierKey": true,
@@ -223,7 +223,7 @@
   "blankLineAboveAppendedContent": true,
   "autoCopy": false,
   "autoFocus": false,
-  "autoPaste": true,
+  "autoPaste": false,
   "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
   "openAutoFocusTargetIfNotOpened": true,
@@ -271,10 +271,10 @@
   "rectEmbedResolution": 100,
   "includeColorWhenCopyingRectLink": true,
   "backlinkIconSize": 50,
-  "showBacklinkIconForSelection": true,
-  "showBacklinkIconForAnnotation": true,
+  "showBacklinkIconForSelection": false,
+  "showBacklinkIconForAnnotation": false,
   "showBacklinkIconForOffset": true,
-  "showBacklinkIconForRect": true,
+  "showBacklinkIconForRect": false,
   "showBoundingRectForBacklinkedAnnot": false,
   "hideReplyAnnotation": false,
   "hideStampAnnotation": false,

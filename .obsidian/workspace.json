@@ -1,20 +1,25 @@
 {
   "main": {
-    "id": "e74a328f4ffe2909",
+    "id": "bf0cbc3939b1e987",
     "type": "split",
     "children": [
       {
-        "id": "1fbd41e1691b0c32",
+        "id": "77bf338af49dedb0",
         "type": "tabs",
         "children": [
           {
-            "id": "c8838bb1b6f2e953",
+            "id": "f2780fa90587444a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/controle de carreira/controle de carreira.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "controle de carreira"
             }
           }
         ]
@@ -23,59 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e86a6c7af9a6792f",
+    "id": "ed5a2a91307cca54",
     "type": "split",
     "children": [
       {
-        "id": "d00054995068941d",
+        "id": "d1b0ebb39abc622d",
         "type": "tabs",
         "children": [
           {
-            "id": "dd6350e009073dfd",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Etiquetas"
-            }
-          },
-          {
-            "id": "3d14eef97b09bca3",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
-            "id": "848219bccc883feb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/carreira/biblioteca/CleanCode/book/Codigo Limpo - Completo PT.pdf",
-                "page": 51,
-                "left": -46,
-                "top": 952,
-                "zoom": 0.3250034536161179
-              },
-              "icon": "lucide-file-text",
-              "title": "Codigo Limpo - Completo PT"
-            }
-          },
-          {
-            "id": "2a94081eb84fb2b5",
+            "id": "2e517273b7d43487",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -90,12 +51,12 @@
             }
           },
           {
-            "id": "ae385e8e5901ef46",
+            "id": "68196c9ed2152f50",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tecnologia/DDD",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,76 +66,41 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 315.5
-  },
-  "right": {
-    "id": "6d280047996c7655",
-    "type": "split",
-    "children": [
-      {
-        "id": "040c3fbe8594b1ec",
-        "type": "tabs",
-        "dimension": 59.689922480620154,
-        "children": [
-          {
-            "id": "076095e195ae4a82",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "OZCAL_ICON",
-              "title": "OZ Calendar"
-            }
           },
           {
-            "id": "1be2b055b1e94437",
+            "id": "e6dfeaf00d3139a3",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "72546342dc2e9163",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
+              "type": "bookmarks",
               "state": {
-                "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "Todas as propriedades"
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
-          },
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "97b02b840f8d46bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2cd2cdbbed1c0d1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "257eab3f44a270c6",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md"
-              },
-              "icon": "lucide-info",
-              "title": "File properties for aula 2 - SGBD relacional"
-            }
-          },
-          {
-            "id": "4dc1e53f5f99e023",
+            "id": "fc79b7d925b5414b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/qualidade_de_software/01-Qualidade-de-software.md",
+                "file": "notas_bibliograficas/controle de carreira/controle de carreira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,60 +110,79 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para 01-Qualidade-de-software"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "738b789336f7b652",
+            "id": "8589d66c1b9c2262",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/img/Pasted image 20250616162303.png",
+                "file": "notas_bibliograficas/controle de carreira/controle de carreira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20250616162303"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "b80102a549b764bb",
+            "id": "c6141dd2bd6d8397",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0882cf84fdc03181",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0ab13969c8e25bbf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "notas_bibliograficas/💼 carreira/cursos_longos/FIAP/modulo2/banco de dados/banco_de_dados_relacionais/aula 2 - SGBD relacional.md",
+                "file": "notas_bibliograficas/controle de carreira/controle de carreira.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of aula 2 - SGBD relacional"
+              "title": "Outline"
             }
           },
           {
-            "id": "0ba9d5dfb8dd8fb4",
+            "id": "1b3a98dad9ee65a4",
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "oz-calendar"
+              "icon": "OZCAL_ICON",
+              "title": "OZ Calendar"
             }
           },
           {
-            "id": "375087e779dcd9f8",
-            "type": "leaf",
-            "state": {
-              "type": "oz-calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "oz-calendar"
-            }
-          },
-          {
-            "id": "af54788bc84e08d7",
+            "id": "df14622a40d1807d",
             "type": "leaf",
             "state": {
               "type": "oz-calendar",
@@ -246,15 +191,15 @@
               "title": "OZ Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       },
       {
-        "id": "35e355308cd48771",
+        "id": "e816ca77834d94a1",
         "type": "tabs",
-        "dimension": 40.31007751937985,
         "children": [
           {
-            "id": "95d1c939de81c5c0",
+            "id": "dca87f31f30f3a5c",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -267,19 +212,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "workspaces:Manage workspace layouts": false,
       "bases:Create new base": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
@@ -291,56 +233,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "c8838bb1b6f2e953",
+  "active": "f2780fa90587444a",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/workshop conferencia na pratica.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A10-2025 — Mishandling of Exceptional Conditions.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A06-2025 — Insecure Design.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A09-2025 — Security Logging and Alerting Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A08-2025 — Software or Data Integrity Failures.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/QI tech.md",
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/pesquisa de empresa.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/ingles/diretrizes para conversar com a AI.md",
-    "notas_permanentes/utilitarios/estudo_sobre_obsidian/códigos de destaque para personalizar.md",
-    "Pasted image 20260804210727.png",
-    "Pasted image 20260804210551.png",
-    "Pasted image 20260804210534.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804205116.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804204821.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804185203.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804185325.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804192752.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804200411.png",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.3- dicas de como responder perguntas e exercício prático.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/0-como estruturar o pensamento.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula02-curriculo.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula03-entrevista.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.1- durante a entrevista.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.2- perguntas mais comuns na entrevista.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.4-dicas para entrevista com AI.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.5- visão geral do processo seletivo.md",
+    "notas_bibliograficas/controle de carreira/entrevistas/planilha de candidaturas.md",
     "notas_bibliograficas/controle de carreira/planilha de candidaturas.md",
-    "notas_permanentes/utilitarios/templates/TEnglish.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/anotações para buscar trabalho.md",
-    "notas_bibliograficas/cursos_curtos/autodidata/projeto1-documentacao/DDD/v1/1-Definição de Domínio do Projeto.md",
-    "notas_permanentes/utilitarios/estudo_sobre_obsidian",
-    "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas - Candidaturas.csv",
-    "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.xlsx",
-    "notas_bibliograficas/controle de carreira/Modelo _ Planilha de candidaturas.ods",
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa",
-    "notas_bibliograficas/controle de carreira/entrevistas",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/carreira",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260801134836.png",
-    "notas_bibliograficas/controle de carreira",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento",
-    "Sem título.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "notas_bibliograficas/controle de carreira/controle de carreira.md",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210534.png",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210727.png",
+    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210551.png"
   ]
 }
