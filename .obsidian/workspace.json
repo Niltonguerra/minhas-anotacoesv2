@@ -11,10 +11,15 @@
             "id": "4378d96de9ed2852",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "notas_bibliograficas/controle de carreira/planilha de candidaturas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "planilha de candidaturas"
             }
           }
         ]
@@ -228,7 +233,7 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "2e517273b7d43487",
+  "active": "4378d96de9ed2852",
   "lastOpenFiles": [
     "notas_bibliograficas/controle de carreira/planilha de candidaturas.md",
     "notas_bibliograficas/controle de carreira/controle de carreira.md",
