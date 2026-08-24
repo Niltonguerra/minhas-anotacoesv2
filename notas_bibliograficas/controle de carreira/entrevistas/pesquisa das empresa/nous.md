@@ -71,8 +71,20 @@ No LinkedIn tem ~30 mil seguidores — número relevante para o tamanho da equip
 
 
 ### desafios que estão enfrentando
+**1. Competição intensa**  
+O segmento de HRTech para talento LATAM explodiu. Builders.co, Revelo, Terminal, Remote, Deel — todas disputam o mesmo nicho de conectar profissionais latinos com empresas (principalmente americanas). Para uma startup sem funding confirmado, competir com essas empresas capitalizadas é o principal obstáculo.
 
+**2. Sem funding público registrado**  
+A NOUS LATAM não captou nenhuma rodada de investimento até o momento. Crescer uma plataforma de dois lados (profissionais + empresas) sem capital externo é lento e caro. [Tracxn](https://tracxn.com/d/companies/nous-latam/__Hj-jKSLJ0nlfKhQ_34gBmNSDHWEg_w-Sqt-ukC3nTcM)
 
+**3. O problema do "ovo e a galinha"**  
+Plataforma de dois lados precisa ter empresas para atrair talentos, e talentos para atrair empresas. Resolver isso sem escala é o desafio clássico de marketplace — e é mais difícil sem funding.
+
+**4. IA como ameaça e oportunidade ao mesmo tempo**  
+64% das empresas devem usar agentes de IA no recrutamento até 2027. Isso pressiona plataformas como a NOUS a incorporar IA rapidamente ou perder relevância para concorrentes maiores que já têm isso. [Acontecendo Aqui](https://acontecendoaqui.com.br/tech/inteligencia-artificial-deve-transformar-os-processos-de-recrutamento-neste-ano/)
+
+**5. Credibilidade e reputação ainda baixas**  
+Apenas 13% dos candidatos avaliam a experiência de entrevista com a NOUS como positiva no Glassdoor. Para uma plataforma cujo produto principal é conectar pessoas, reputação ruim no processo seletivo é um problema real. [Glassdoor](https://www.glassdoor.com/Overview/Working-at-Nous-Latam-EI_IE9752217.11,21.htm)
 
 
 
