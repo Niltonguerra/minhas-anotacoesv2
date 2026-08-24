@@ -16,38 +16,40 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 ## 2 perguntas para a empresa
-
+- Como a NOUS monetiza hoje — a receita vem principalmente das empresas que contratam ou dos profissionais na plataforma?
+- Quais são os principais desafios técnicos que o time está enfrentando agora?
 
 
 ## cultura organizacional
 
 ### valores:
-
+não disponibilizado
 
 
 ### lemas da empresa: 
-
+não disponibilizado
 
 
 
 ## reputação da empresa
 
 ### opinião de ex-funcionários?
-
+No Glassdoor, apenas 13% dos candidatos avaliam a experiência de entrevista como positiva, com dificuldade média de 2.1/5. Não há reviews de funcionários suficientes para análise — empresa muito pequena.
 
 
 ### a empresa já esteve envolvida em algum tipo de crime?
-
+Nada encontrado publicamente.
 
 
 
 
 ## tecnologias que usam
 ### Tech Stack Real
-
+Spring Boot (back-end)
+Javascript (front-end)
 
 ### arquitetura e escala
-
+empresa pequena, imagino monolito
 
 
 
@@ -84,19 +86,14 @@ Receita vem provavelmente de: assinatura premium dos profissionais + fee de cont
 ### Momento de mercado
 Opera nos mercados de RH, talent acquisition, desenvolvimento profissional, trabalho remoto, coaching de carreira, ferramentas de recrutamento com IA, outplacement, redes profissionais e engajamento de funcionários. [Himalayas](https://himalayas.app/companies/nous-latam)
 
-Concorrentes diretos: **Builders.co, Virtual Talent Latam, HopHR, Brazo Derecho** — todas plataformas que conectam talento LATAM com empresas (principalmente EUA/Canadá).
-
 
 ### Principais concorrentes
+Concorrentes diretos: **Builders.co, Virtual Talent Latam, HopHR, Brazo Derecho** — todas plataformas que conectam talento LATAM com empresas (principalmente EUA/Canadá).
 
 
 
 ## projetos tocados recentemente
 
-### projeto 1:
-
-
-### projeto 2:
-
+Sem dados públicos sobre projetos específicos lançados recentemente.
 
 
