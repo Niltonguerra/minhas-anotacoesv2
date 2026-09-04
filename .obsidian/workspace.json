@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "24feb89ca8a07c90",
+        "id": "461faca8dc763572",
         "type": "tabs",
         "children": [
           {
-            "id": "98175bbe83baf8b1",
+            "id": "4378d96de9ed2852",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,44 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "CRECI-2026-links de apoio"
-            }
-          },
-          {
-            "id": "2c584f92bbf42ab7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/2019-relevancia-1/analista_de_ti.pdf",
-                "page": 1,
-                "left": -12,
-                "top": 842,
-                "zoom": 1.3001411005845596
-              },
-              "icon": "lucide-file-text",
-              "title": "analista_de_ti"
-            }
-          }
-        ]
-      },
-      {
-        "id": "461faca8dc763572",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4378d96de9ed2852",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/2019-relevancia-1/analista_de_ti.pdf",
-                "page": 1,
-                "left": -14,
-                "top": 787,
-                "zoom": 1.0859705704495062
-              },
-              "icon": "lucide-file-text",
-              "title": "analista_de_ti"
             }
           }
         ]
@@ -271,12 +233,13 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "98175bbe83baf8b1",
+  "active": "2e517273b7d43487",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/links de apoio.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/historico de tentativas.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/edital.pdf",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/2019-relevancia-1/analista_de_ti.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/links de apoio.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/historico de tentativas.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.3 plano de estudos- ingles.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.1plano de estudos-conhecimento matematica.md",
@@ -286,7 +249,6 @@
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/orientacoes segundo o chat.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/concurco-publico.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/edital.pdf",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto_geral.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/outras provas",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/Untitled",
