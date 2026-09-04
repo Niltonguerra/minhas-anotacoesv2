@@ -8,8 +8,8 @@ Date: 2026-09-04
 **60–69%** → base sendo construída  
 **70–74%** → começando a competir  
 **75–79%** → competitivo  
-**80–84%** → muito competitivo  
-**85%+** → preparação excelente
+**80–89%** → muito competitivo  
+90%+** → preparação excelente
 
 
 # resolução de provas:

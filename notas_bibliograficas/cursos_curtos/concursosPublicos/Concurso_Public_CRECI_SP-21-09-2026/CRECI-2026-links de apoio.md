@@ -1,7 +1,10 @@
 ---
 tags:
   - concursoPublico/creci-2026
+  - concursoPublico
 ---
+
+# links de apoio
 
 edital: https://www.avancasp.org.br/informacoes/251
 
