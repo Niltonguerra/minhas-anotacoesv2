@@ -9,67 +9,36 @@
         "dimension": 45.4296661193213,
         "children": [
           {
-            "id": "87b2b5a18608e294",
+            "id": "6e4f1e84af26a18a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula5-juros simples.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula08-MMC e MDC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula5-juros simples"
+              "title": "aula08-MMC e MDC"
             }
           },
           {
-            "id": "0766e462ba76b944",
+            "id": "a1c01f4fadbc8e8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula06- Equacao de 1-grau.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.1plano de estudos-conhecimento matematica.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula06- Equacao de 1-grau"
-            }
-          },
-          {
-            "id": "21a7484bd9e85743",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula4-média.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "aula4-média"
-            }
-          },
-          {
-            "id": "c027f75e21f1a76c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula03-Regra de três.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "aula03-Regra de três"
+              "title": "1.1plano de estudos-conhecimento matematica"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "313db1d16284ee8e",
@@ -303,9 +272,11 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "0766e462ba76b944",
+  "active": "6e4f1e84af26a18a",
   "lastOpenFiles": [
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.1plano de estudos-conhecimento matematica.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula08-MMC e MDC.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula07-graficos e tabelas.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula06- Equacao de 1-grau.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula5-juros simples.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula4-média.md",
@@ -339,8 +310,6 @@
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa02",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01 - Copia/gabarito_preliminar.pdf",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01 - Copia/explicando os erros que cometi.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/orientacoes segundo o chat.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/links de apoio.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210534.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210727.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210551.png"
