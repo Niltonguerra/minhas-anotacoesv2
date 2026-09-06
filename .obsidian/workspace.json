@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula-03-Frase.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula3.2-sintaxe(sujeito e predicato).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula-03-Frase"
+              "title": "aula3.2-sintaxe(sujeito e predicato)"
             }
           },
           {
@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 2.1-as 10 classes gramaticais.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 2-as 10 classes gramaticais.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula 2.1-as 10 classes gramaticais"
+              "title": "aula 2-as 10 classes gramaticais"
             }
           },
           {
@@ -69,7 +69,7 @@
                 "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
                 "page": 1,
                 "left": -13,
-                "top": 23,
+                "top": 86,
                 "zoom": 1.1905361822213263
               },
               "icon": "lucide-file-text",
@@ -289,13 +289,15 @@
   },
   "active": "6c6a90a29399f326",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula04-sintaxe.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula4-interpretação.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula3.2-sintaxe(sujeito e predicato).md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.2plano de estudos-conhecimento portugues.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 2.1-as 10 classes gramaticais.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01- Sinonimos-antonimos.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula-03-Frase.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/estudos da materia.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01- Sinonimos-antonimos.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 2-as 10 classes gramaticais.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula-03-sintaxe(Frase).md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula03.1-sintaxe(construção de texto).md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português",
@@ -323,8 +325,6 @@
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A05-2025 — Injection.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula4- templates de mensagens para escrever.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.5- visão geral do processo seletivo.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210534.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210727.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210551.png"
