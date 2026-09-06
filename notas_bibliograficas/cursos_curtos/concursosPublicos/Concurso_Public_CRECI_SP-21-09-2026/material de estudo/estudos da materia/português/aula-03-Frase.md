@@ -20,10 +20,26 @@ table of contents: Create table of contents
 
 ### **Frase** 
 qualquer sequência de palavras que transmite uma mensagem completa. Não precisa ter verbo.
+#### exemplo do que é frase e do que não é frase:
+##### **São frases:**
 
-> _Silêncio!_  
-> _Que dia lindo._  
-> _Fogo!_
+> _Silêncio!_ — transmite uma ordem  
+> _Fogo!_ — transmite um aviso  
+> _Que dia lindo._ — transmite uma exclamação  
+> _Eu dormi._ — transmite uma informação  
+> _Eu dormi, mas estou cansado._ — transmite uma informação
+
+---
+
+##### **Não são frases:**
+
+> _mas estou_ — não transmite nada completo  
+> _muito cansado e_ — incompleto  
+> _porque ontem_ — incompleto, fica esperando o resto
+> 	
+
+> [!NOTE]
+> depois de saber a regra da frase, deixa ela meio de lado, pois ela não faz sentido ela não tem uma hierarquia clara na construção de sentenças
 
 ### **Oração**
 unidade que **obrigatoriamente tem verbo** (ou locução verbal).
