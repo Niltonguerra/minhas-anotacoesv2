@@ -39,7 +39,7 @@ qualquer sequência de palavras que transmite uma mensagem completa. Não precis
 > 	
 
 > [!NOTE]
-> depois de saber a regra da frase, deixa ela meio de lado, pois ela não faz sentido ela não tem uma hierarquia clara na construção de sentenças
+> depois de saber a regra da frase, deixa ela meio de lado, pois ela não tem uma hierarquia clara na construção de sentenças
 
 ### **Oração**
 unidade que **obrigatoriamente tem verbo** (ou locução verbal).
