@@ -9,19 +9,18 @@
         "dimension": 37.691466083150985,
         "children": [
           {
-            "id": "159f01c82889ee76",
+            "id": "6c6a90a29399f326",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/gabarito_preliminar.pdf",
-                "page": 1,
-                "left": -24,
-                "top": 842,
-                "zoom": 0.8025634995296331
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.2plano de estudos-conhecimento portugues.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-file-text",
-              "title": "gabarito_preliminar"
+              "icon": "lucide-file",
+              "title": "1.2plano de estudos-conhecimento portugues"
             }
           },
           {
@@ -30,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01- Sinonimos-antonimos.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 2.1-as 10 classes gramaticais.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "aula 01- Sinonimos-antonimos"
+              "title": "aula 2.1-as 10 classes gramaticais"
             }
           }
         ],
@@ -97,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:concursoPublico/creci-2026/estudosDaMateria/portugues",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -276,9 +275,10 @@
   },
   "active": "19074f1b1c89223e",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01- Sinonimos-antonimos.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 2.1-as 10 classes gramaticais.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.2plano de estudos-conhecimento portugues.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01- Sinonimos-antonimos.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/estudos da materia.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
@@ -311,7 +311,6 @@
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.5- visão geral do processo seletivo.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.4-dicas para entrevista com AI.md",
     "notas_bibliograficas/controle de carreira/controle de carreira.md",
-    "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/nous.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210534.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210727.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210551.png"
