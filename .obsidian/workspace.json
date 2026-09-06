@@ -52,9 +52,25 @@
               "icon": "lucide-file",
               "title": "CRECI-2026-links de apoio"
             }
+          },
+          {
+            "id": "5f216acecd8717a3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/edital.pdf",
+                "page": 18,
+                "left": -15,
+                "top": 287,
+                "zoom": 0.9801451320298327
+              },
+              "icon": "lucide-file-text",
+              "title": "edital"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "313db1d16284ee8e",
@@ -67,7 +83,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf"
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
+                "page": 1,
+                "left": -13,
+                "top": 86,
+                "zoom": 1.1905361822213263
               },
               "icon": "lucide-file-text",
               "title": "analista_de_ti"
@@ -284,8 +304,9 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "31a1a52737fe5db4",
+  "active": "5f216acecd8717a3",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.1plano de estudos-conhecimento matematica.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.2plano de estudos-conhecimento portugues.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1-plano de estudos-conhecimento expecifico.md",
@@ -302,7 +323,6 @@
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica/aula1-porcentagem.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01- Sinonimos-antonimos.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/concurco-publico.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/matematica",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/estudos da materia.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula5-regência.md",
