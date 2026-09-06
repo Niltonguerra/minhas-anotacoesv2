@@ -6,7 +6,7 @@
       {
         "id": "461faca8dc763572",
         "type": "tabs",
-        "dimension": 37.691466083150985,
+        "dimension": 45.4296661193213,
         "children": [
           {
             "id": "6c6a90a29399f326",
@@ -44,7 +44,7 @@
       {
         "id": "313db1d16284ee8e",
         "type": "tabs",
-        "dimension": 62.308533916849015,
+        "dimension": 54.57033388067871,
         "children": [
           {
             "id": "8bec8e2e26854835",
@@ -54,9 +54,9 @@
               "state": {
                 "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
                 "page": 2,
-                "left": -11,
+                "left": -13,
                 "top": 697,
-                "zoom": 1.3681717395686355
+                "zoom": 1.1905361822213263
               },
               "icon": "lucide-file-text",
               "title": "analista_de_ti"
