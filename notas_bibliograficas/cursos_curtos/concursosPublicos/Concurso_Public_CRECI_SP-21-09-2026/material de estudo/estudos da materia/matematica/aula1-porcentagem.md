@@ -23,18 +23,48 @@ Porcentagem é uma razão com denominador 100.
 
 > 25% = 25/100 = 0,25
 
----
 ## Conversão — o que a banca cobra
 
-**Porcentagem para decimal** — divide por 100
+### **Porcentagem para decimal** — divide por 100
 
 > 35% = 0,35  
 > 8% = 0,08
 
-**Decimal para porcentagem** — multiplica por 100
+### **Decimal para porcentagem** — multiplica por 100
 
 > 0,7 = 70%  
 > 0,05 = 5%
+
+
+### **Porcentagem → Fração → Decimal**
+
+|Porcentagem|Fração|Decimal|
+|---|---|---|
+|50%|1/2|0,50|
+|25%|1/4|0,25|
+|75%|3/4|0,75|
+|10%|1/10|0,10|
+|20%|1/5|0,20|
+|33,3%|1/3|0,333...|
+
+**Como converter na prova:**
+
+**Porcentagem → decimal** — divide por 100
+
+> 75% → 75/100 = 0,75
+
+**Decimal → porcentagem** — multiplica por 100
+
+> 0,40 → 40%
+
+**Porcentagem → fração** — coloca sobre 100 e simplifica
+
+> 25% → 25/100 → simplifica → 1/4
+
+**Fração → porcentagem** — divide o numerador pelo denominador e multiplica por 100
+
+> 3/4 → 3÷4 = 0,75 → 75%
+
 
 ---
 
@@ -62,7 +92,7 @@ Porcentagem é uma razão com denominador 100.
 
 ---
 
-#### Aumento seguido de desconto — pegadinha clássica
+## Aumento seguido de desconto — pegadinha clássica
 
 A banca adora isso.
 
@@ -77,7 +107,7 @@ Perdeu 4%. A banca coloca isso como armadilha.
 
 ---
 
-#### Calcular qual é a porcentagem
+## Calcular qual é a porcentagem
 
 **X é qual porcentagem de Y?**
 
@@ -88,7 +118,7 @@ Perdeu 4%. A banca coloca isso como armadilha.
 
 ---
 
-#### Calcular o total a partir da porcentagem
+## Calcular o total a partir da porcentagem
 
 **Se X% de um valor é Y, qual é o valor total?**
 
@@ -99,7 +129,7 @@ Perdeu 4%. A banca coloca isso como armadilha.
 
 ---
 
-#### O que a banca mais cobra
+## O que a banca mais cobra
 
 - Aumento e desconto sequencial — a pegadinha dos 20%
 - Calcular o total a partir de uma porcentagem parcial
