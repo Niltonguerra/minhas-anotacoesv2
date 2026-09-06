@@ -15,6 +15,11 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
+### Sintaxe
+
+Sintaxe estuda a **função** que cada palavra ou grupo de palavras exerce dentro da oração.
+
+A pergunta central da sintaxe é: **qual o papel desse termo na oração?**
 
 ## Definições de frase, oração e período
 
