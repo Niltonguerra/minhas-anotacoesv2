@@ -17,6 +17,13 @@ table of contents: Create table of contents
 # Explicação dos tópicos:
 - existe 2 tipos de classes gramaticais, as variáveis e as invariáveis
 
+> [!NOTE] relevante para o contexto
+>  uma mesma palavra pode ser de classes diferentes dependendo do contexto. Isso é chamado de **transposição** ou **conversão**.
+>---  
+>_O jantar estava ótimo._ → substantivo
+>
+_Vou jantar agora._ → verbo
+
 ## Tabela resumo
 
 | Classe      | Função principal                  | Varia? |
