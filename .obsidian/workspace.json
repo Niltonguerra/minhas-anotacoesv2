@@ -4,38 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "809699148becddc3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1fa539aa77d26b15",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "461faca8dc763572",
         "type": "tabs",
+        "dimension": 37.691466083150985,
         "children": [
           {
-            "id": "4378d96de9ed2852",
+            "id": "159f01c82889ee76",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/gabarito_preliminar.pdf",
+                "page": 1,
+                "left": -24,
+                "top": 842,
+                "zoom": 0.8025634995296331
+              },
+              "icon": "lucide-file-text",
+              "title": "gabarito_preliminar"
+            }
+          },
+          {
+            "id": "19074f1b1c89223e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "0-plano de estudos feito por 'mim'"
+              "title": "aula 01"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "313db1d16284ee8e",
+        "type": "tabs",
+        "dimension": 62.308533916849015,
+        "children": [
+          {
+            "id": "8bec8e2e26854835",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
+                "page": 2,
+                "left": -11,
+                "top": 697,
+                "zoom": 1.3681717395686355
+              },
+              "icon": "lucide-file-text",
+              "title": "analista_de_ti"
             }
           }
         ]
@@ -249,31 +274,35 @@
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "4378d96de9ed2852",
+  "active": "19074f1b1c89223e",
   "lastOpenFiles": [
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/orientacoes segundo o chat.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/edital.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/estudos da materia.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português/aula 01.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/português",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/gabarito_preliminar.pdf",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/2019-relevancia-1/analista_de_ti.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa02/gabarito_preliminar.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa02/explicando os erros que cometi.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa02/analista_de_ti.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa02",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01 - Copia/gabarito_preliminar.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01 - Copia/explicando os erros que cometi.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01 - Copia/analista_de_ti.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/orientacoes segundo o chat.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/links de apoio.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/historico de tentativas.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/0-plano de estudos feito por 'mim'.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.3 plano de estudos- ingles.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.1plano de estudos-conhecimento matematica.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1.2plano de estudos-conhecimento portugues.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/1-plano de estudos-conhecimento expecifico.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos/o que vai ser cobrado.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/concurco-publico.md",
     "notas_permanentes/utilitarios/templates/template_estudo_sem_contexto_geral.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/outras provas",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/Untitled",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/plano de estudos",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/Nova Pasta Compactada.zip",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/2026-relevancia-2/cbf6eb1c-54d2-420d-a5ee-cfae402ef1d2.pdf",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/provas/2026-relevancia-2/38cab29b-5be7-4bc9-b28b-b5f8416a19d3.pdf",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/workshop conferencia na pratica.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/A07-2025 — Authentication Failures.md",
     "notas_bibliograficas/cursos_curtos/autodidata/OWASP/0-OWASP TOP 10- introdução.md",
@@ -283,9 +312,6 @@
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.4-dicas para entrevista com AI.md",
     "notas_bibliograficas/controle de carreira/controle de carreira.md",
     "notas_bibliograficas/controle de carreira/entrevistas/pesquisa das empresa/nous.md",
-    "notas_bibliograficas/controle de carreira/descontinuado.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula 01-tipos de vagas.md",
-    "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/aula3.2- perguntas mais comuns na entrevista.md",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210534.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210727.png",
     "notas_bibliograficas/cursos_curtos/autodesenvolvimento/na pratica/img/Pasted image 20260804210551.png"
