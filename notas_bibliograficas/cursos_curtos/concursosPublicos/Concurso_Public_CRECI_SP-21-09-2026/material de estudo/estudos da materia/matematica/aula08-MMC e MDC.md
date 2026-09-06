@@ -15,95 +15,12 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-## MDC — Máximo Divisor Comum
+## mcd
+[[aula08.2-mdc]]
 
-É o **maior número que divide todos os valores** ao mesmo tempo.
+## mmc
+[[aula08.1-mmc]]
 
-**Como calcular — fatoração:**
-
-> MDC de 12 e 18
-
-Fatorar os dois:
-
-> 12 = 2 × 2 × 3  
-> 18 = 2 × 3 × 3
-
-Pega os fatores **comuns** com o **menor expoente:**
-
-> 2 × 3 = **6**
-
-MDC(12, 18) = 6
-
-
-
-
----
-
-## MMC — Mínimo Múltiplo Comum
-
-É o **menor número que é múltiplo de todos os valores** ao mesmo tempo.
-
-**Como calcular — fatoração:**
-
-> MMC de 12 e 18
-
-Fatorar os dois:
-
-> 12 = 2² × 3  
-> 18 = 2 × 3²
-
-
-Pega os fatores **comuns e não comuns** com o **maior expoente:**
-
-> 2² × 3² = 4 × 9 = **36**
-
-MMC(12, 18) = 36
-
-
-
-### exemplo:
-descubra o mmc dessa conta:
-x = 2²*3³*13^4*5² 
-y=42²*7²*11^3
-
-
-Primeiro precisa refatorar o 42².
-
-> 42 = 2 × 3 × 7  
-> 42² = (2 × 3 × 7)² = 2² × 3² × 7²
-
-Então y corretamente fatorado fica:
-
-> y = 2² × 3² × 7² × 7² × 11³
-
-Espera, vou refazer com calma:
-
-> y = 42² × 7² × 11³  
-> y = (2² × 3² × 7²) × 7² × 11³  
-> y = 2² × 3² × 7⁴ × 11³
-
----
-
-Agora sim, com x e y corretamente fatorados:
-
-> x = 2² × 3³ × 5² × 13⁴  
-> y = 2² × 3² × 7⁴ × 11³
-
-**MMC — pega o maior expoente de cada primo:**
-
-|Primo|Em x|Em y|Maior|
-|---|---|---|---|
-|2|2²|2²|**2²**|
-|3|3³|3²|**3³**|
-|5|5²|—|**5²**|
-|7|—|7⁴|**7⁴**|
-|11|—|11³|**11³**|
-|13|13⁴|—|**13⁴**|
-
-> MMC = 2² × 3³ × 5² × 7⁴ × 11³ × 13⁴
-
-
----
 
 ## Resumo da diferença
 
