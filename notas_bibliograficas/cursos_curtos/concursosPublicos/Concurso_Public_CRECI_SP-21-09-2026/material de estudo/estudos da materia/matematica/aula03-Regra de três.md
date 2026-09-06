@@ -42,30 +42,62 @@ Isso é **produto dos extremos = produto dos meios** — que é multiplicar em c
 
 
 ## Regra de Três Composta
-
-Três ou mais grandezas relacionadas.
+**Regra de três composta** é quando você tem **três ou mais grandezas** relacionadas ao mesmo resultado.
 
 > _6 operários trabalham 8 horas por dia e constroem um muro em 10 dias. Quantos dias levarão 4 operários trabalhando 12 horas por dia?_
 
-**Passo 1** — monta a tabela
+
+**Passo 1 — identifica o que você quer descobrir**
+
+Quer descobrir: **quantos dias** → x
+
+---
+
+**Passo 2 — monta a tabela**
 
 |Operários|Horas|Dias|
 |---|---|---|
 |6|8|10|
 |4|12|x|
 
-**Passo 2** — analisa cada grandeza em relação aos dias
+---
 
-- Operários: menos operários → mais dias → **inversa**
-- Horas: mais horas → menos dias → **inversa**
+**Passo 3 — analisa cada grandeza em relação aos dias**
 
-**Passo 3** — monta a equação
+_Operários:_ menos operários → mais dias necessários → **inversa**
 
-Grandeza inversa → inverte a razão
+_Horas:_ mais horas por dia → menos dias necessários → **inversa**
 
-> x = 10 × (6/4) × (8/12)  
-> x = 10 × 1,5 × 0,666...  
+---
+
+**Passo 4 — monta a equação**
+
+Começa com o valor que quer descobrir:
+
+> x = 10 × ...
+
+Para cada grandeza inversa, **inverte a fração** — coloca o de baixo em cima e o de cima em baixo:
+
+Operários era 4/6 → inverte → **6/4**  
+Horas era 12/8 → inverte → **8/12**
+
+Então:
+
+> x = 10 × (6/4) × (8/12)
+
+---
+
+**Passo 5 — calcula**
+
+> x = 10 × 1,5 × 0,667  
 > x = 10
+
+---
+
+**A lógica do passo 4:**
+
+Grandeza direta → mantém a fração como está  
+Grandeza inversa → inverte a fração
 
 
 
