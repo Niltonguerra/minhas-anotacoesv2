@@ -54,7 +54,7 @@ unidade que **obrigatoriamente tem verbo** (ou locução verbal).
 
 ### **Período** 
 frase formada por uma ou mais orações.
-- sim, a coisa se engloba tudo, a saber a frase, é a mesma coisa que é a menor unidade mensurável a saber frase,kkkkkk
+- sim, a coisa se engloba tudo, a saber a frase, é a mesma coisa que é a menor unidade mensurável a saber frase, kkkkkk
 > _Eu comi._ → período simples (uma oração)  
 > _Eu comi comida, logo estou cheio._ → período composto (duas orações)
 

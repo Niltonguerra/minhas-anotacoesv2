@@ -12,23 +12,33 @@ q1
 f
 f
 f
-r: e
+r: e✔️
 
 q2
 f
 f
 f
-r: e
+r: e✔️
 
 
 q3:
 f
 f
 v
-r:c
+r:c✔️
 
 q4
 d ❌
 b✔️
 
 q5
+c
+
+q6
+d --- tem que substituir a palavra no contexto para ver se é ou não sinônimo
+
+
+q7
+a✔️
+
+q8
