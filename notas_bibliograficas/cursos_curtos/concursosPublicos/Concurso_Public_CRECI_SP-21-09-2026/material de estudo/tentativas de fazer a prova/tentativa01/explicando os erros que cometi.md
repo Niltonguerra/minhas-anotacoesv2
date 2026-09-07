@@ -55,3 +55,8 @@ c✔️
 
 matemática:
 q11
+d❌
+c✔️
+
+
+q12
