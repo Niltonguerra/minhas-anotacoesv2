@@ -60,3 +60,20 @@ c✔️
 
 
 q12
+e
+essa vou desconsiderar pois tirei a prova real com a calculadora
+
+
+q13
+a❌
+b✔️
+
+
+q14
+a
+
+
+q15
+c
+
+q16
