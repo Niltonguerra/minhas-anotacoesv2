@@ -121,7 +121,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.21.2",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.25.3",
     "libraryItems": [
       {
         "status": "published",
@@ -585,7 +585,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a5",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -1125,7 +1129,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a6",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -1425,7 +1433,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a7",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -1725,7 +1737,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a8",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "PkrwVMm0jCoN0ZMuELClz",
@@ -11414,7 +11430,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a9",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "61ZX0D3CqFRIY-Z70L6D9",
@@ -11865,7 +11885,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a7",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -13273,7 +13297,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a8",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "rectangle",
@@ -17311,7 +17339,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a9",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -27703,7 +27735,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "aA",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -30039,7 +30075,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "aB",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "IP1pKeOMrk9gFpDZ8X1Jw",
@@ -30872,7 +30912,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a5",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -31408,7 +31452,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a6",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -32296,7 +32344,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a7",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "YAGnCYjyiCe8Jb2vMiTT9",
@@ -35372,7 +35424,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a0",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "freedraw",
@@ -36484,7 +36540,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a1",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           },
           {
             "type": "ellipse",
@@ -61895,7 +61955,11 @@
             "simulatePressure": true,
             "pressures": [],
             "index": "a2",
-            "hasTextLink": false
+            "hasTextLink": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "4hau_HbWuSzM4sazvnsQV",
@@ -79970,7 +80034,11 @@
             "updated": 1783180698220,
             "link": null,
             "hasTextLink": false,
-            "locked": false
+            "locked": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "V0FsYY7GZ4DkZDQEA3GuK",
@@ -82324,7 +82392,11 @@
             "updated": 1783180698221,
             "link": null,
             "hasTextLink": false,
-            "locked": false
+            "locked": false,
+            "strokeOptions": {
+              "variability": "variable",
+              "streamline": 0.5
+            }
           }
         ],
         "id": "MCeZ9bdkWPHGVV5IUcR1Y",

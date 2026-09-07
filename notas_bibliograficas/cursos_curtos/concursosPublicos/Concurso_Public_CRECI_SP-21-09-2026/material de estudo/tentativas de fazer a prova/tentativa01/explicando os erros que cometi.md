@@ -8,6 +8,7 @@ características da prova:
 
 
 respostas:
+português:
 q1
 f
 f
@@ -42,6 +43,15 @@ q7
 a✔️
 
 q8
-c
+c✔️
 
 
+q9
+d✔️
+
+
+q10
+c✔️
+
+matemática:
+q11
