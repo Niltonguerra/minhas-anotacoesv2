@@ -15,13 +15,13 @@ table of contents: Create table of contents
 
 
 # Explicação dos tópicos:
-### Sentido próprio e figurado
+## Sentido próprio e figurado
 
 Tópico leve para o concurso — provavelmente 1 questão, geralmente embutida em interpretação de texto.
 
 ---
 
-### Sentido próprio (denotativo)
+## Sentido próprio (denotativo)
 
 É o significado literal, direto, registrado no dicionário.
 
@@ -30,7 +30,7 @@ Tópico leve para o concurso — provavelmente 1 questão, geralmente embutida e
 
 ---
 
-### Sentido figurado (conotativo)
+## Sentido figurado (conotativo)
 
 É o significado deslocado, simbólico, dependente de contexto.
 
@@ -41,7 +41,7 @@ A mesma palavra, sentidos completamente diferentes dependendo do contexto.
 
 ---
 
-### Como a banca cobra
+## Como a banca cobra
 
 Duas formas principais:
 
