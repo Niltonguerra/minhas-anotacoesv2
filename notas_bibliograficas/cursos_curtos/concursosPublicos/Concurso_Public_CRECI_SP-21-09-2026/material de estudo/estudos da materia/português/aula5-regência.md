@@ -55,15 +55,15 @@ Substantivos e adjetivos também pedem preposições específicas.
 
 **Os mais cobrados:**
 
-|Termo|Preposição|Exemplo|
-|---|---|---|
-|Implicância|com|Tenho implicância **com** ele|
-|Aversão|a, por|Tem aversão **ao** barulho|
-|Amor|a, por|Amor **à** pátria|
-|Capacidade|de, para|Capacidade **de** aprender|
-|Necessidade|de|Necessidade **de** atenção|
-|Favorável|a|Sou favorável **à** proposta|
-|Contrário|a|Sou contrário **à** ideia|
+| Termo       | Preposição | Exemplo                       |
+| ----------- | ---------- | ----------------------------- |
+| Implicância | com        | Tenho implicância **com** ele |
+| Aversão     | a, por     | Tem aversão **ao** barulho    |
+| Amor        | a, por     | Amor **à** pátria             |
+| Capacidade  | de, para   | Capacidade **de** aprender    |
+| Necessidade | de         | Necessidade **de** atenção    |
+| Favorável   | a          | Sou favorável **à** proposta  |
+| Contrário   | a          | Sou contrário **à** ideia     |
 
 ---
 
