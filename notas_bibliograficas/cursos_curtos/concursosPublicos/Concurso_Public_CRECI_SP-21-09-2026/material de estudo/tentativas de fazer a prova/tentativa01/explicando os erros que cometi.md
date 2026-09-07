@@ -8,7 +8,27 @@ características da prova:
 
 
 respostas:
-1-e
-2-e
-3-c
-4-
+q1
+f
+f
+f
+r: e
+
+q2
+f
+f
+f
+r: e
+
+
+q3:
+f
+f
+v
+r:c
+
+q4
+d ❌
+b✔️
+
+q5
