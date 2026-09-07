@@ -93,3 +93,21 @@ b✔️
 
 
 q20
+d✔️
+
+
+q21-ignorar
+a❌
+c✔️
+
+
+
+q22-ignorar
+q23-ignorar
+q24-ignorar
+q25-ignorar
+
+
+
+q26
+
