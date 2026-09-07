@@ -20,7 +20,16 @@ table of contents: Create table of contents
 É a posição do pronome oblíquo átono (me, te, se, o, a, lhe, nos, vos) em relação ao verbo. Três posições possíveis:
 
 ---
+## Regra de bolso
 
+Antes de tudo: **tem palavra atrativa antes do verbo?**
+
+- Sim → próclise
+- Não e verbo no futuro → mesóclise
+- Não e verbo em outros tempos → ênclise
+
+
+---
 ## As três posições
 
 |Nome|Posição|Exemplo|
@@ -79,16 +88,4 @@ A alternativa errada coloca o pronome em ênclise onde deveria ser próclise, ou
 **3. Reescrever mantendo a correção**  
 Trocar a posição do pronome sem mudar o sentido.
 
----
-
-## Regra de bolso
-
-Antes de tudo: **tem palavra atrativa antes do verbo?**
-
-- Sim → próclise
-- Não e verbo no futuro → mesóclise
-- Não e verbo em outros tempos → ênclise
-
-
-
-
+ 
