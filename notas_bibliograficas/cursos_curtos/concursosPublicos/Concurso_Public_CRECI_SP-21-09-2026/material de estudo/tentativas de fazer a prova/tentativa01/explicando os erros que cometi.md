@@ -154,6 +154,19 @@ b✔️
 
 
 q30
+e
+- porque, não sei, só olhei no gabarito
 
+
+q31
+v
+f
+f
+
+a✔️
+
+
+q32
+a✔️
 
 
