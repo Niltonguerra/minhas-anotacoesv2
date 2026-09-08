@@ -8,7 +8,7 @@ características da prova:
 
 
 respostas:
-português:
+## português:
 q1
 f
 f
@@ -54,7 +54,7 @@ d✔️
 q10
 c✔️
 
-matemática:
+## matemática:
 q11
 d❌
 c✔️
@@ -96,7 +96,7 @@ b✔️
 q20
 d✔️
 
-
+## atualidades
 q21-ignorar
 a❌
 c✔️
@@ -109,7 +109,7 @@ q24-ignorar
 q25-ignorar
 
 
-
+## programação
 q26
 c❌
 a✔️
@@ -122,7 +122,7 @@ f
 
 d
 
-## essa não faz sentido, porque ela fala que a alternativa certas são as falsas e não é indicado isso no enunciado, então eu não discordo dessa questão
+### essa não faz sentido, porque ela fala que a alternativa certas são as falsas e não é indicado isso no enunciado, então eu não discordo dessa questão
 
 
 
@@ -158,6 +158,7 @@ e
 - porque, não sei, só olhei no gabarito
 
 
+
 q31
 v
 f
@@ -170,3 +171,5 @@ q32
 a✔️
 
 
+q33
+d
