@@ -193,3 +193,8 @@ c✔️
 
 
 q36
+f
+f
+
+- **`ref`** → passagem por referência (o valor já deve estar inicializado antes de passar)
+- **`out`** → também é passagem por referência, mas o valor não precisa estar inicializado — o método é obrigado a atribuir um valor antes de retornar

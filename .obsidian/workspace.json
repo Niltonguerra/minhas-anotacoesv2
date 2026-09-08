@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/protocolo tcp-ip.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula6-protocolo tcp-ip.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "protocolo tcp-ip"
+              "title": "aula6-protocolo tcp-ip"
             }
           },
           {
@@ -29,13 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
+                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula8-ref e out em csharp.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "explicando os erros que cometi"
+              "title": "aula8-ref e out em csharp"
             }
           },
           {
@@ -69,9 +69,9 @@
               "type": "pdf",
               "state": {
                 "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
-                "page": 7,
+                "page": 6,
                 "left": -12,
-                "top": 432,
+                "top": 69,
                 "zoom": 1.2522676879661359
               },
               "icon": "lucide-file-text",
@@ -291,15 +291,16 @@
   },
   "active": "b9286a0aa130a2c5",
   "lastOpenFiles": [
-    "Pasted image 20260908064655.png",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/gabarito_preliminar.pdf",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula7-redinicoes de rede-dhcp.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula6-protocolo tcp-ip.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula5-modelo osi.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula4-pilha e fila.md",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula8-ref e out em csharp.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/protocolo tcp-ip.md",
+    "Pasted image 20260908064655.png",
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/gabarito_preliminar.pdf",
     "notas_bibliograficas/cursos_longos/FIAP/modulo5/redes/aula1-termos de rede e modelo OSI.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/modelo osi.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/redinicoes de rede-dhcp.md",
-    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula4-pilha e fila.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula5-fila.md",
     "Pasted image 20260908055840.png",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/aula1-xp-extreme programming.md",
