@@ -116,3 +116,33 @@ a✔️
 
 
 q27
+v
+f
+f
+
+d
+
+## essa não faz sentido, porque ela fala que a alternativa certas são as falsas e não é indicado isso no enunciado, então eu não discordo dessa questão
+
+
+
+q28
+f
+f
+v
+
+❌ essa eu não tinha nem ideia do que poderia ser,kkkkkk😂😂
+
+
+
+- **Item I (Falso):** O comando `BACKUP LOG` realiza o backup estritamente do log de transações, capturando as modificações realizadas no banco desde o último backup de log. Para realizar a cópia de segurança de todos os objetos e dados (backup completo), o comando utilizado é o `BACKUP DATABASE`.
+    
+- **Item II (Falso):** _Node_ e _Edge_ não são tipos de dados geográficos ou espaciais. Eles representam a arquitetura de banco de dados de grafos (Graph Database), que foi introduzida no SQL Server apenas na versão 2017. Os tipos espaciais válidos incluem _Point_, _LineString_, _Polygon_, _GeometryCollection_, entre outros.
+    
+- **Item III (Verdadeiro):** O SQL Server suporta nativamente os cinco níveis de isolamento de transações citados: `READ UNCOMMITTED`, `READ COMMITTED` (padrão), `REPEATABLE READ`, `SNAPSHOT` (que utiliza controle de concorrência multiversão - MVCC) e `SERIALIZABLE`. Eles definem o grau de proteção contra anomalias de leitura, como leituras sujas, não repetíveis e fantasmas.
+
+
+
+
+
+q29
