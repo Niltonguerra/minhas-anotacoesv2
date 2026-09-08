@@ -35,14 +35,13 @@ table of contents: Create table of contents
 
 **Comparativo de Camadas (TCP/IP vs OSI)**
 
-1. **Aplicação (TCP/IP):** Engloba as funções das camadas de _Aplicação, Apresentação e Sessão_ do modelo OSI. Trata dos protocolos de alto nível (HTTP, FTP, SMTP).
-    
-2. **Transporte (TCP/IP):** Possui função equivalente à camada de _Transporte_ do modelo OSI. É exatamente nesta camada que operam os protocolos TCP e UDP. Trata da comunicação fim a fim (ponto a ponto).
-    
-3. **Internet (TCP/IP):** Equivalente à camada de _Rede_ do modelo OSI. Trata do roteamento de pacotes e endereçamento IP.
-    
-4. **Acesso à Rede / Interface de Rede (TCP/IP):** Engloba as funções das camadas de _Enlace de Dados e Física_ do modelo OSI. Trata da comunicação com o hardware e a transmissão física dos bits na rede local.
-
-
-
+| **Camada OSI (7 camadas)** | **Camada TCP/IP (4 camadas)**            | **Função Principal (Resumo)**                                                 |
+| -------------------------- | ---------------------------------------- | ----------------------------------------------------------------------------- |
+| 7. Aplicação               | **Aplicação**                            | Interação com o usuário e softwares (HTTP, HTTPS, FTP, DNS, SMTP).            |
+| 6. Apresentação            | **Aplicação**                            | Formatação, criptografia e compressão de dados(TLS/SSL, JPEG, JSON encoding). |
+| 5. Sessão                  | **Aplicação**                            | Estabelecimento e controle de sessões de comunicação(NetBIOS, RPC).           |
+| 4. Transporte              | **Transporte**                           | Entrega de dados fim a fim (ponto a ponto), ordenação (TCP, UDP).             |
+| 3. Rede                    | **Internet** (ou Inter-rede)             | Roteamento de pacotes e endereçamento lógico (IP, ICMP).                      |
+| 2. Enlace de Dados         | **Acesso à Rede** (ou Interface de Rede) | Entrega nó a nó, controle de acesso ao meio físico (MAC, Ethernet).           |
+| 1. Física                  | **Acesso à Rede** (ou Interface de Rede) | Transmissão física de bits (cabos, sinais elétricos, rádio,fibra).            |
 

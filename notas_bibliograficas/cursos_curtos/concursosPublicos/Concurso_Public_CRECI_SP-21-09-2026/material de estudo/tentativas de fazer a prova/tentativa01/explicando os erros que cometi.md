@@ -178,6 +178,18 @@ d✔️
 
 q34
 v
+f
+f
+a✔️
 
 
 
+q35
+c✔️
+- só chutei bonito, achei que o nome de algo era o que era de fato,kkkkkkkk
+![[Pasted image 20260908064655.png]]
+
+
+
+
+q36
