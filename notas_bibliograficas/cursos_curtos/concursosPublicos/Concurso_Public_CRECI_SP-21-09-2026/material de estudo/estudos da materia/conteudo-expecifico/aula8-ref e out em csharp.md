@@ -57,7 +57,21 @@ Calcular(out y);
 ```
 
 
-## por padrão no cshpa
+## por padrão no csharp funciona assim:
+o método recebe uma cópia, e qualquer alteração não afeta a variável original.
+
+```csharp
+int Dobrar(int numero) {
+    numero = numero * 2; // só altera a cópia
+    return numero;
+}
+
+int x = 5;
+int y = Dobrar(x);
+// x continua 5
+// y se torna 10
+```
+
 
 ---
 
