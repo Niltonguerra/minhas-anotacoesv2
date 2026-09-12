@@ -43,15 +43,12 @@
             "id": "0d305fe7015cc4bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Pasted image 20260908064655.png"
               },
-              "icon": "lucide-file",
-              "title": "CRECI-2026-links de apoio"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260908064655"
             }
           }
         ],
@@ -69,8 +66,10 @@
               "type": "pdf",
               "state": {
                 "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/analista_de_ti.pdf",
-                "page": 1,
-                "zoom": 1
+                "page": 8,
+                "left": -12,
+                "top": 633,
+                "zoom": 1.2308506349526305
               },
               "icon": "lucide-file-text",
               "title": "analista_de_ti"
@@ -289,6 +288,7 @@
   },
   "active": "0d305fe7015cc4bb",
   "lastOpenFiles": [
+    "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/CRECI-2026-links de apoio.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/edital.pdf",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/estudos da materia/conteudo-expecifico/arquitetura  orientada a serviços.md",
     "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/material de estudo/tentativas de fazer a prova/tentativa01/explicando os erros que cometi.md",
