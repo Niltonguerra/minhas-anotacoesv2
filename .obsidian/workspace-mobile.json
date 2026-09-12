@@ -11,10 +11,15 @@
             "id": "db30b996de79e7d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Teste.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Teste"
             }
           }
         ]
@@ -195,5 +200,7 @@
     }
   },
   "active": "db30b996de79e7d8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Teste.md"
+  ]
 }
