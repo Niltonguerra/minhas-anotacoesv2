@@ -5,7 +5,7 @@ tags:
 ---
 # Notas conectadas:
 matéria de apoio:
-[[DDD - Aula 4 - PÓS-GRADUAÇÃO ON.pdf]]
+[[DDD -Aula4-posgraduacao.pdf]]
 
 # Resumo da nota:
 nessa aula vimos 3 formas que times podem se comunicar, sendo elas: parceria, kernel compartilhado e cliente fornecedor, além disso também vimos que é importante ter ACL(camada anti-corrupção)  entre os times, principalmente entre as relações cliente fornecedor, para permitir maior estabilidade do sistema a longo prazo.

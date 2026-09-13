@@ -7,7 +7,7 @@ repositório: https://github.com/Niltonguerra/fiap
 ---
 # Notas conectadas:
 matéria de apoio:
-[[DDD - Aula 1 - PÓS-GRADUAÇÃO ON.pdf]]
+[[DDD -Aula1-posgraduacao.pdf]]
 
 # Resumo da nota:
  Vimos 7 desafios que enfreta-se antes de começar e durante o projeto e também que o desing do sistema deve olhar para o domínio da empresa **primeiramente** e que o código é para os outros lerem e não para si mesmo.

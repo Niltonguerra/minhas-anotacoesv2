@@ -5,7 +5,7 @@ tags:
 ---
 # Notas conectadas:
 matéria de apoio:
-[[DDD - Aula 2 - PÓS-GRADUAÇÃO ON.pdf]]
+[[DDD -Aula2-posgraduacao.pdf]]
 # Resumo da nota:
 Nessa nota estudamos um pouco sobre a linguagem usada em um diagrama de domain storytelliing, assim como também vimos um exemplo do mesmo e os passos essenciais de se realizar antes de começar a criação do mesmo
 

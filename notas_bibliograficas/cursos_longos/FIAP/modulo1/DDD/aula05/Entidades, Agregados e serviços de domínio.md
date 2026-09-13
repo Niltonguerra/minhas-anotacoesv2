@@ -5,7 +5,7 @@ tags:
 ---
 # Notas conectadas:
 matéria de apoio:
-[[DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf]]
+[[DDD -Aula5-posgraduacao.pdf]]
 
 
 # Resumo da nota:

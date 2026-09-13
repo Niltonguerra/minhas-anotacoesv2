@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "14b93bac55a9b397",
+        "id": "4f94e20e80bc3a20",
         "type": "tabs",
         "children": [
           {
-            "id": "db30b996de79e7d8",
+            "id": "bfb091366e1cf436",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ddrdgdgf.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Ddrdgdgf"
+              "title": "Nova aba"
             }
           }
         ]
@@ -166,22 +161,13 @@
           "icon": "OZCAL_ICON",
           "title": "OZ Calendar"
         }
-      },
-      {
-        "id": "a80f296d1b8e3331",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "git-pull-request",
-          "title": "Source Control"
-        }
       }
     ],
-    "currentTab": 4
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Abrir a troca rápida": false,
       "graph:Abrir visualização em gráfico": false,
       "canvas:Criar novo canvas": false,
@@ -194,13 +180,14 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "sheet-plus:Create excel file": false
     }
   },
-  "active": "db30b996de79e7d8",
+  "active": "bfb091366e1cf436",
   "lastOpenFiles": [
+    "Sem tínxndkwkktulo.md",
+    "notas_bibliograficas/cursos_longos/FIAP/modulo1/DDD/aula-01-introducao-ddd/DDD -Aula1-posgraduacao.pdf",
     "Ddrdgdgf.md",
     "Teste.md"
   ]

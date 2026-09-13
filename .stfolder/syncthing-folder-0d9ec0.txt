@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: 83lov-lku2n
+created: 2026-09-12T16:15:18-03:00

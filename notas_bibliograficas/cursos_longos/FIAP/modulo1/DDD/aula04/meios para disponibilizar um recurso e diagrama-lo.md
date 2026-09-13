@@ -5,7 +5,7 @@ tags:
 ---
 # Notas conectadas:
 matéria de apoio:
-[[DDD - Aula 4 - PÓS-GRADUAÇÃO ON.pdf]]
+[[DDD -Aula4-posgraduacao.pdf]]
 # Resumo da nota:
 nessa nota vimos o que é o OHS e o que é PL, assim como quando é recomendado seguir por uma abordagem em que se duplica o mesmo código, além de também entender o que é o BBM e entender como é formado o mapa de contexto 
 

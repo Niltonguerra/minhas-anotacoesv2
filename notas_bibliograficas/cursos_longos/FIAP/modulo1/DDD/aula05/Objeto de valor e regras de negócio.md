@@ -5,7 +5,7 @@ tags:
 ---
 # Notas conectadas:
 matéria de apoio:
-[[DDD - Aula 5 - PÓS-GRADUAÇÃO ON.pdf]]
+[[DDD -Aula5-posgraduacao.pdf]]
 
 # Resumo da nota:
 nessa aula vimos o que é um objeto de valor, sendo ele um registro que não sobre alteração ,e se for preciso altera-lo, você simplesmente cria um novo, também vimos que é importante não gerar regras de negócio duplicadas por que isso pode gerar inconsistências no sistema no futuro do sistema
