@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f6803b8d1697483",
+        "id": "9ff0672be6db8e8f",
         "type": "tabs",
         "children": [
           {
-            "id": "edbdfa6df0bcd398",
+            "id": "f4c768063e9835e2",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "notas_bibliograficas/cursos_curtos/concursosPublicos/Concurso_Public_CRECI_SP-21-09-2026/img/Pasted image 20260908064655.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260908064655"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
