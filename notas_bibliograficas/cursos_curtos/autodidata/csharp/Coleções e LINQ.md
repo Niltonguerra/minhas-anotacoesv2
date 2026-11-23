@@ -20,7 +20,8 @@ table of contents: Create table of contents
 - é uma forma de consultar, filtrar e transformar dados em **coleções** usando uma sintaxe uniforme e expressiva diretamente no código.
 
 ### coleções
-- 📋 **`List<T>`:** Funciona como um array dinâmico que cresce ou diminui conforme necessário. Mantém a ordem de inserção, permite elementos duplicados e oferece acesso rápido por índice (`lista[0]`), mas buscar um valor específico sem saber o índice exige percorrer a lista.
+#### 📋 List< T > 
+Funciona como um array dinâmico que cresce ou diminui conforme necessário. Mantém a ordem de inserção, permite elementos duplicados e oferece acesso rápido por índice (`lista[0]`), mas buscar um valor específico sem saber o índice exige percorrer a lista.
 
 ```C#
 var carrinhoIds = new List<int> { 101, 205, 101 };
@@ -31,7 +32,8 @@ int primeiroItem = carrinhoIds[0]; // 101
 
 
 
-- 🔑 **`Dictionary<TKey, TValue>`:** Armazena pares de chave e valor. Usa uma tabela de hash para localizar rapidamente um `TValue` a partir de uma `TKey`, exigindo que cada chave seja única.
+#### 🔑 Dictionary<TKey, TValue>
+Armazena pares de chave e valor. Usa uma tabela de hash para localizar rapidamente um `TValue` a partir de uma `TKey`, exigindo que cada chave seja única.
 
 ```C#
 var precosPorSku = new Dictionary<string, decimal>
@@ -44,12 +46,49 @@ decimal preco = precosPorSku["SKU-01"];
 
 
 
-- 🧩 **`HashSet<T>`:** Representa um conjunto de elementos únicos, sem ordem garantida e sem índice posicional. É otimizado para verificar rapidamente se um item já existe (`Contains`) e para operações de conjunto (união, interseção, diferença).
+#### 🧩 **HashSet< T >
+Representa um conjunto de elementos únicos, sem ordem garantida e sem índice posicional. É otimizado para verificar rapidamente se um item já existe (`Contains`) e para operações de conjunto (união, interseção, diferença).
 
 ```C#
 var tagsUnicas = new HashSet<string> { "csharp", "dotnet", "csharp" };
 bool adicionou = tagsUnicas.Add("linq"); // true; "csharp" já existe e não duplica
 ```
 
- 
 
+#### exemplo de uso do LINKQ:
+```c#
+var precosCaros = precosPorSku
+    .Where(par => par.Value >= 100m)
+    .Select(par => par.Key);
+
+```
+
+
+``` c#
+record Produto(string Nome, decimal Preco, string Categoria);
+
+var produtos = new List<Produto>
+{
+    new("Teclado", 150m, "Periféricos"),
+    new("Mouse", 80m, "Periféricos"),
+    new("Monitor", 900m, "Vídeo"),
+    new("Webcam", 220m, "Vídeo")
+};
+
+// 🎯 Ordenação (OrderBy / OrderByDescending)
+var ordenadosPorPreco = produtos
+    .OrderByDescending(p => p.Preco);
+
+// 🔢 Agregação (Count / Sum / Max)
+int totalPerifericos = produtos
+    .Count(p => p.Categoria == "Periféricos");
+
+decimal valorTotal = produtos
+    .Sum(p => p.Preco);
+
+// 🔎 Busca de item único (FirstOrDefault)
+var maisCaroDeVideo = produtos
+    .Where(p => p.Categoria == "Vídeo")
+    .OrderByDescending(p => p.Preco)
+    .FirstOrDefault();
+```
