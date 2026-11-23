@@ -19,10 +19,11 @@ table of contents: Create table of contents
 
 
 ## sync
-
+o chamador espera a operação terminar antes de avançar , se for uma chamada de rede ou disco lenta e você bloquear a thread atual, ela fica ociosa esperando
 
 
 ## async/ await
+ela não bloqueia a thread, libera a thread durante o await e retorna depois
 
 
 
