@@ -20,7 +20,10 @@ o que é garbage collector
 - faz o controle e otimização da memória sozinho, serve para não ter que fazer a limpeza da memória manualmente como no c/c++
 
 para que serve o `IDisposable` e `using` ?
-- o using chama o IDisposable() que é um contrato para o metodo Disposable
+- o using chama o IDisposable() que é um contrato para o metodo Dispose() que é implementado nas libs que usam recursos externos ao software para abstrair a comunicação com os recursos da máquina que o software está rodando.
+
+
+
 
 
 
