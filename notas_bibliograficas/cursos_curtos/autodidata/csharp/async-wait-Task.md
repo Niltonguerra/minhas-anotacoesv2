@@ -16,6 +16,8 @@ table of contents: Create table of contents
 
 # Explicação dos tópicos:
 ## Task
+serve para modelar a conclusão e os resultados/erros de uma operação assíncrona
+serve para você definir escopos e executar tarefas com que se comunicam fontes externas, normalmente definido na camada de adapters/repositories.
 
 
 ## sync
