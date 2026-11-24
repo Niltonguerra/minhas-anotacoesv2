@@ -31,11 +31,11 @@ Equals() usado para validar o objetos e validações mais detalhadas de string c
 não métodos com mesmo nome que divergem na quantidade ou nome dos parâmetros, usados para que o usuário da classe  possa variar o uso de acordo com a necessidade dele.
 
 7. Para que servem `virtual`, `override` e `abstract`?
-virtual:
+- virtual:
 permite que classes filhas sobrescrevam esse método com override, ela já tem uma implementação padrão
-override
+- override
 sobrescreve um método que tem virtual ou abstract
-abstract 
+- abstract 
 obriga classes filhas a sobrescreverem o método criado, não possui implementação predefinida para o método
 
 8. Qual é a diferença entre tipos por valor e tipos por referência?
@@ -43,6 +43,10 @@ obriga classes filhas a sobrescreverem o método criado, não possui implementa�
 
 9. O que são `null`, `Nullable<T>` e o operador `??`?
 10. Como funciona o tratamento de exceções com `try`, `catch` e `finally`?
+o try catch finally é uma forma de tratar erros, normalmente você pode trazer erros de outras camadas inferiores através do throw, sendo normalmente recomendado pelo clean code levantar o erro usando erros personalizados para simplificar a leitura. o try inicial a intenção de passar por essa estrutura, o catch captura err  
+11. quando usar record?
+use o quando estiver tipando dados que não vão sofrer mudança ao longo da vida da request, por exemplo, um dto, um schema, um objeto de valor, entre outros, normalmente dados imutáveis ao longo da vida da request
+
 
 ### .NET e programação
 
