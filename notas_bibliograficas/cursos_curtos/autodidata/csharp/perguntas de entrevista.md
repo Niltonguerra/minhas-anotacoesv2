@@ -42,8 +42,10 @@ obriga classes filhas a sobrescreverem o método criado, não possui implementa�
 
 
 9. O que são `null`, `Nullable<T>` e o operador `??`?
+
 10. Como funciona o tratamento de exceções com `try`, `catch` e `finally`?
-o try catch finally é uma forma de tratar erros, normalmente você pode trazer erros de outras camadas inferiores através do throw, sendo normalmente recomendado pelo clean code levantar o erro usando erros personalizados para simplificar a leitura. o try inicial a intenção de passar por essa estrutura, o catch captura err  
+o try catch finally é uma forma de tratar erros, normalmente você pode trazer erros de outras camadas inferiores através do throw, sendo normalmente recomendado pelo clean code levantar o erro usando erros personalizados para simplificar a leitura. o try inicial a intenção de passar por essa estrutura, o catch captura erros, podendo ser genéricos ou especificos que você escolher, o finally é para mesmo se der erro ou der tudo certo o código dentro do finally vai ser executado de toda forma, normalmente útil para fechar alguma conexão quando é necessário
+
 11. quando usar record?
 use o quando estiver tipando dados que não vão sofrer mudança ao longo da vida da request, por exemplo, um dto, um schema, um objeto de valor, entre outros, normalmente dados imutáveis ao longo da vida da request
 
