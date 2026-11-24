@@ -24,10 +24,23 @@ internal dentro do mesmo assembly .dll ou .exe
 
 
 5. Qual é a diferença entre == e `Equals()`?
+== usado para tipos primitivos e validação segura de nullable
+Equals() usado para validar o objetos e validações mais detalhadas de string como case sensitive
 
 6. O que são métodos sobrecarregados?
+não métodos com mesmo nome que divergem na quantidade ou nome dos parâmetros, usados para que o usuário da classe  possa variar o uso de acordo com a necessidade dele.
+
 7. Para que servem `virtual`, `override` e `abstract`?
+virtual:
+permite que classes filhas sobrescrevam esse método com override, ela já tem uma implementação padrão
+override
+sobrescreve um método que tem virtual ou abstract
+abstract 
+obriga classes filhas a sobrescreverem o método criado, não possui implementação predefinida para o método
+
 8. Qual é a diferença entre tipos por valor e tipos por referência?
+
+
 9. O que são `null`, `Nullable<T>` e o operador `??`?
 10. Como funciona o tratamento de exceções com `try`, `catch` e `finally`?
 
